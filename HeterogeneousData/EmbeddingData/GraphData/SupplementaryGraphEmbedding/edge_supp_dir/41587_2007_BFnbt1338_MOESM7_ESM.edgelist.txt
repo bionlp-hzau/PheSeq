@@ -1,0 +1,7416 @@
+Abacavir	CCL5
+Abacavir	IL10
+Abacavir	CCR2
+Abacavir	CCR5
+Abacavir	FCGR3A
+Abacavir	OAS1
+Abarelix	RNASEL
+Abarelix	BRCA2
+Abarelix	PTEN
+Abarelix	AR
+Abarelix	CHEK2
+Abarelix	MSR1
+Abarelix	EPHB2
+Abarelix	KLF6
+Abarelix	MAD1L1
+Abarelix	ATBF1
+Abarelix	ELAC2
+Abarelix	MXI1
+Abciximab	F7
+Abciximab	APOE
+Abciximab	ACE
+Abciximab	ALOX5AP
+Abciximab	LGALS2
+Abciximab	LTA
+Abciximab	OLR1
+Abciximab	THBD
+Abciximab	GCLM
+Abciximab	TNFSF4
+Acamprosate	HTR2A
+Acebutolol	KCNMB1
+Acebutolol	NR3C2
+Acebutolol	AGTR1
+Acebutolol	PTGIS
+Acebutolol	ADD1
+Acebutolol	AGT
+Acebutolol	ECE1
+Acebutolol	GNB3
+Acebutolol	RETN
+Acebutolol	HSD11B2
+Acebutolol	NOS3
+Acebutolol	CYP3A5
+Acetazolamide	ADRA2C
+Acetazolamide	ADRB1
+Acetazolamide	KCNQ2
+Acetazolamide	KCNQ3
+Acetazolamide	GABRG2
+Acetazolamide	CLCN2
+Acetazolamide	JRK
+Acetazolamide	CACNB4
+Acetazolamide	SCN1A
+Acetazolamide	ME2
+Acetazolamide	GABRA1
+Acetazolamide	EPM2A
+Acetazolamide	NHLRC1
+Acetazolamide	SLC25A22
+Acetazolamide	CHRNA4
+Acetazolamide	CHRNB2
+Acetazolamide	LGI1
+Acetazolamide	CSTB
+Acetazolamide	SYN1
+Acetazolamide	MYOC
+Acetazolamide	OPTN
+Acetazolamide	CYP1B1
+Acetazolamide	OPA1
+Acetohexamide	ABCC8
+Acetohexamide	TCF1
+Acetohexamide	SUMO4
+Acetohexamide	PTPN22
+Acetohexamide	INSR
+Acetohexamide	PPARG
+Acetohexamide	GCK
+Acetohexamide	GCGR
+Acetohexamide	GPD2
+Acetohexamide	HNF4A
+Acetohexamide	IRS2
+Acetohexamide	MAPK8IP1
+Acetohexamide	NEUROD1
+Acetohexamide	TCF2
+Acetohexamide	IRS1
+Acetohexamide	SLC2A2
+Acetohexamide	SLC2A4
+Acetohexamide	CAPN10
+Acetohexamide	ENPP1
+Acetohexamide	RETN
+Acetohexamide	PTF1A
+Acetohexamide	KCNJ11
+Acetohexamide	AKT2
+Acetohexamide	IPF1
+Acetohexamide	FOXP3
+Acetohexamide	ACE
+Acetohexamide	VEGF
+Acetohydroxamic Acid	MBL2
+Adalimumab	IL10
+Adalimumab	CIITA
+Adalimumab	NFKBIL1
+Adalimumab	PADI4
+Adalimumab	PTPN22
+Adalimumab	RUNX1
+Adalimumab	SLC22A4
+Adalimumab	MIF
+Adenosine	GNAI2
+Adenosine	CASQ2
+Adenosine	RYR2
+Agalsidase beta	GLA
+Albuterol	PHF11
+Albuterol	MS4A2
+Albuterol	ALOX5
+Albuterol	ADRB2
+Albuterol	PTGDR
+Albuterol	GPR154
+Albuterol	HNMT
+Albuterol	IL12B
+Albuterol	IL13
+Albuterol	PLA2G7
+Albuterol	SCGB3A2
+Albuterol	TNF
+Albuterol	SCGB1A1
+Albuterol	SERPINA1
+Aldesleukin	FLCN
+Aldesleukin	RNF139
+Aldesleukin	OGG1
+Aldesleukin	PRCC
+Aldesleukin	TFE3
+Aldesleukin	MET
+Aldesleukin	VHL
+Alemtuzumab	TAL1
+Alemtuzumab	TAL2
+Alemtuzumab	FLT3
+Alemtuzumab	NBN
+Alemtuzumab	ZNFN1A1
+Alemtuzumab	HOXD4
+Alemtuzumab	BCR
+Alemtuzumab	ARNT
+Alemtuzumab	KRAS
+Alemtuzumab	GMPS
+Alemtuzumab	MLLT10
+Alemtuzumab	ARHGEF12
+Alemtuzumab	PICALM
+Alemtuzumab	CEBPA
+Alemtuzumab	CHIC2
+Alemtuzumab	KIT
+Alemtuzumab	LPP
+Alemtuzumab	NPM1
+Alemtuzumab	NUP214
+Alemtuzumab	RUNX1
+Alemtuzumab	WHSC1L1
+Alemtuzumab	MLLT11
+Alemtuzumab	NUMA1
+Alemtuzumab	ZBTB16
+Alemtuzumab	PML
+Alemtuzumab	STAT5B
+Alemtuzumab	ARL11
+Alemtuzumab	P2RX7
+Alemtuzumab	ARHGAP26
+Alemtuzumab	NF1
+Alemtuzumab	PTPN11
+Alemtuzumab	BCL2
+Alemtuzumab	CCND1
+Alemtuzumab	TRA@
+Alemtuzumab	GATA1
+Alemtuzumab	ABL1
+Alemtuzumab	NQO1
+Alendronate	PDLIM4
+Alendronate	TNFRSF11B
+Alendronate	SQSTM1
+Alendronate	TNFRSF11A
+Alglucerase	GBA
+Alglucerase	PSAP
+Alitretinoin	KIR3DL1
+Alitretinoin	IFNG
+Alitretinoin	CXCL12
+Alitretinoin	IL6
+Almotriptan	ATP1A2
+Almotriptan	EDNRA
+Almotriptan	ESR1
+Almotriptan	TNF
+Alpha-1-proteinase inhibitor	SERPINA1
+Alprenolol	KCNMB1
+Alprenolol	NR3C2
+Alprenolol	AGTR1
+Alprenolol	PTGIS
+Alprenolol	ADD1
+Alprenolol	AGT
+Alprenolol	ECE1
+Alprenolol	GNB3
+Alprenolol	RETN
+Alprenolol	HSD11B2
+Alprenolol	NOS3
+Alprenolol	CYP3A5
+Alseroxylon	KCNMB1
+Alseroxylon	NR3C2
+Alseroxylon	AGTR1
+Alseroxylon	PTGIS
+Alseroxylon	ADD1
+Alseroxylon	AGT
+Alseroxylon	ECE1
+Alseroxylon	GNB3
+Alseroxylon	RETN
+Alseroxylon	HSD11B2
+Alseroxylon	NOS3
+Alseroxylon	CYP3A5
+Alteplase	F7
+Alteplase	APOE
+Alteplase	ACE
+Alteplase	ALOX5AP
+Alteplase	LGALS2
+Alteplase	LTA
+Alteplase	OLR1
+Alteplase	THBD
+Alteplase	GCLM
+Alteplase	TNFSF4
+Altretamine	BRCA1
+Altretamine	MSH2
+Altretamine	PIK3CA
+Altretamine	MSH6
+Altretamine	ERBB2
+Altretamine	CDH1
+Altretamine	RRAS2
+Altretamine	CTNNB1
+Amantadine	NR4A2
+Amantadine	SNCAIP
+Amantadine	TBP
+Amantadine	SNCA
+Amantadine	PARK7
+Amantadine	LRRK2
+Amantadine	PINK1
+Amantadine	UCHL1
+Amantadine	PARK2
+Amantadine	DBH
+Amantadine	NDUFV2
+Ambenonium	FIMG1
+Amifostine	BRCA1
+Amifostine	MSH2
+Amifostine	PIK3CA
+Amifostine	MSH6
+Amifostine	ERBB2
+Amifostine	CDH1
+Amifostine	RRAS2
+Amifostine	CTNNB1
+Amiloride	ADRA2C
+Amiloride	ADRB1
+Amiloride	KCNMB1
+Amiloride	NR3C2
+Amiloride	AGTR1
+Amiloride	PTGIS
+Amiloride	ADD1
+Amiloride	AGT
+Amiloride	ECE1
+Amiloride	GNB3
+Amiloride	RETN
+Amiloride	HSD11B2
+Amiloride	NOS3
+Amiloride	CYP3A5
+Aminophylline	PHF11
+Aminophylline	MS4A2
+Aminophylline	ALOX5
+Aminophylline	ADRB2
+Aminophylline	PTGDR
+Aminophylline	GPR154
+Aminophylline	HNMT
+Aminophylline	IL12B
+Aminophylline	IL13
+Aminophylline	PLA2G7
+Aminophylline	SCGB3A2
+Aminophylline	TNF
+Aminophylline	SCGB1A1
+Aminophylline	SERPINA1
+Aminosalicylic Acid	IFNGR1
+Aminosalicylic Acid	IFNG
+Amiodarone	TCF2
+Amiodarone	INS
+Amiodarone	HNF4A
+Amiodarone	GCK
+Amiodarone	TCF1
+Amiodarone	IPF1
+Amiodarone	SCN5A
+Amiodarone	GNAI2
+Amiodarone	CASQ2
+Amiodarone	RYR2
+Amitriptyline	XBP1
+Amlodipine	KCNMB1
+Amlodipine	NR3C2
+Amlodipine	AGTR1
+Amlodipine	PTGIS
+Amlodipine	ADD1
+Amlodipine	AGT
+Amlodipine	ECE1
+Amlodipine	GNB3
+Amlodipine	RETN
+Amlodipine	HSD11B2
+Amlodipine	NOS3
+Amlodipine	CYP3A5
+Amodiaquine	CD36
+Amodiaquine	ICAM1
+Amodiaquine	TNF
+Amodiaquine	GYPC
+Amodiaquine	NOS2A
+Amphetamine	DRD5
+Amphetamine	HCRT
+Amprenavir	CCL5
+Amprenavir	IL10
+Amprenavir	CCR2
+Amprenavir	CCR5
+Amprenavir	FCGR3A
+Amprenavir	OAS1
+Anagrelide	PDGFRB
+Anagrelide	PLA2G7
+Anagrelide	P2RY12
+Anagrelide	RUNX1
+Anagrelide	CD36
+Anagrelide	JAK2
+Anagrelide	THPO
+Anakinra	IL10
+Anakinra	CIITA
+Anakinra	NFKBIL1
+Anakinra	PADI4
+Anakinra	PTPN22
+Anakinra	RUNX1
+Anakinra	SLC22A4
+Anakinra	MIF
+Anastrozole	CHEK2
+Anastrozole	PIK3CA
+Anastrozole	PPM1D
+Anastrozole	SLC22A18
+Anastrozole	TP53
+Anastrozole	BRCA1
+Anastrozole	BRCA2
+Anastrozole	TSG101
+Anastrozole	BRIP1
+Anastrozole	RAD54L
+Anastrozole	CDH1
+Anastrozole	AR
+Anastrozole	KRAS
+Anastrozole	RB1CC1
+Anastrozole	PHB
+Anastrozole	ATM
+Anastrozole	BARD1
+Anastrozole	RAD51
+Anastrozole	XRCC3
+Anisindione	KCNE2
+Anisindione	KCNQ1
+Anisindione	GATA4
+Anisindione	MYH6
+Anisindione	NKX2-5
+Anisindione	TEK
+Anisindione	SERPINA10
+Anistreplase	F7
+Anistreplase	APOE
+Anistreplase	ACE
+Anistreplase	ALOX5AP
+Anistreplase	LGALS2
+Anistreplase	LTA
+Anistreplase	OLR1
+Anistreplase	THBD
+Anistreplase	GCLM
+Anistreplase	TNFSF4
+Antihemophilic Factor	CFH
+Antihemophilic Factor	MCFD2
+Antihemophilic Factor	F7
+Antihemophilic Factor	F10
+Antihemophilic Factor	F11
+Antihemophilic Factor	F12
+Antihemophilic Factor	F13A1
+Antihemophilic Factor	F13B
+Antihemophilic Factor	F8
+Antihemophilic Factor	F9
+Antihemophilic Factor	VWF
+Apomorphine	NR4A2
+Apomorphine	SNCAIP
+Apomorphine	TBP
+Apomorphine	SNCA
+Apomorphine	PARK7
+Apomorphine	LRRK2
+Apomorphine	PINK1
+Apomorphine	UCHL1
+Apomorphine	PARK2
+Apomorphine	DBH
+Apomorphine	NDUFV2
+Arbutamine	MEF2A
+Arbutamine	ABCA1
+Arbutamine	KL
+Arbutamine	PON1
+Arbutamine	PON2
+Arbutamine	MMP3
+Arecoline	APP
+Arecoline	APOE
+Arecoline	PSEN2
+Arecoline	APBB2
+Arecoline	NOS3
+Arecoline	PLAU
+Arecoline	ACE
+Arecoline	MPO
+Arecoline	PAXIP1
+Arecoline	A2M
+Arecoline	BLMH
+Arecoline	PSEN1
+Arecoline	ITM2B
+Arecoline	PSEN1
+Arecoline	MAPT
+Arecoline	SNCA
+Arecoline	SNCB
+Arecoline	TNF
+Argatroban	MASTL
+Argatroban	MPL
+Argatroban	WAS
+Argatroban	F5
+Aripiprazole	DISC1
+Aripiprazole	TAAR6
+Aripiprazole	APP
+Aripiprazole	COMT
+Aripiprazole	HTR2A
+Aripiprazole	RTN4R
+Aripiprazole	SYN2
+Aripiprazole	ENTH
+Aripiprazole	PRODH
+Arsenic Trioxide	TAL1
+Arsenic Trioxide	TAL2
+Arsenic Trioxide	FLT3
+Arsenic Trioxide	NBN
+Arsenic Trioxide	ZNFN1A1
+Arsenic Trioxide	HOXD4
+Arsenic Trioxide	BCR
+Arsenic Trioxide	ARNT
+Arsenic Trioxide	KRAS
+Arsenic Trioxide	GMPS
+Arsenic Trioxide	MLLT10
+Arsenic Trioxide	ARHGEF12
+Arsenic Trioxide	PICALM
+Arsenic Trioxide	CEBPA
+Arsenic Trioxide	CHIC2
+Arsenic Trioxide	KIT
+Arsenic Trioxide	LPP
+Arsenic Trioxide	NPM1
+Arsenic Trioxide	NUP214
+Arsenic Trioxide	RUNX1
+Arsenic Trioxide	WHSC1L1
+Arsenic Trioxide	MLLT11
+Arsenic Trioxide	NUMA1
+Arsenic Trioxide	ZBTB16
+Arsenic Trioxide	PML
+Arsenic Trioxide	STAT5B
+Arsenic Trioxide	ARL11
+Arsenic Trioxide	P2RX7
+Arsenic Trioxide	ARHGAP26
+Arsenic Trioxide	NF1
+Arsenic Trioxide	PTPN11
+Arsenic Trioxide	BCL2
+Arsenic Trioxide	CCND1
+Arsenic Trioxide	TRA@
+Arsenic Trioxide	GATA1
+Arsenic Trioxide	ABL1
+Arsenic Trioxide	NQO1
+Asparaginase	TP73L
+Asparaginase	TAL1
+Asparaginase	TAL2
+Asparaginase	FLT3
+Asparaginase	NBN
+Asparaginase	ZNFN1A1
+Asparaginase	HOXD4
+Asparaginase	BCR
+Asparaginase	ARNT
+Asparaginase	KRAS
+Asparaginase	GMPS
+Asparaginase	MLLT10
+Asparaginase	ARHGEF12
+Asparaginase	PICALM
+Asparaginase	CEBPA
+Asparaginase	CHIC2
+Asparaginase	KIT
+Asparaginase	LPP
+Asparaginase	NPM1
+Asparaginase	NUP214
+Asparaginase	RUNX1
+Asparaginase	WHSC1L1
+Asparaginase	MLLT11
+Asparaginase	NUMA1
+Asparaginase	ZBTB16
+Asparaginase	PML
+Asparaginase	STAT5B
+Asparaginase	ARL11
+Asparaginase	P2RX7
+Asparaginase	ARHGAP26
+Asparaginase	NF1
+Asparaginase	PTPN11
+Asparaginase	BCL2
+Asparaginase	CCND1
+Asparaginase	TRA@
+Asparaginase	GATA1
+Asparaginase	ABL1
+Asparaginase	NQO1
+Asparaginase	RAP1GDS1
+Asparaginase	ATM
+Asparaginase	BCL8
+Asparaginase	BCL10
+Asparaginase	RAD54B
+Asparaginase	RAD54L
+Asparaginase	FCGR2B
+Asparaginase	MAD1L1
+Asparaginase	MSH2
+Asparaginase	SH2D1A
+Asparaginase	CASP10
+Aspirin	FCGR2A
+Aspirin	F7
+Aspirin	APOE
+Aspirin	ACE
+Aspirin	ALOX5AP
+Aspirin	LGALS2
+Aspirin	LTA
+Aspirin	OLR1
+Aspirin	THBD
+Aspirin	GCLM
+Aspirin	TNFSF4
+Aspirin	MATN3
+Aspirin	FRZB
+Aspirin	ASPN
+Aspirin	COL2A1
+Aspirin	IL10
+Aspirin	CIITA
+Aspirin	NFKBIL1
+Aspirin	PADI4
+Aspirin	PTPN22
+Aspirin	RUNX1
+Aspirin	SLC22A4
+Aspirin	MIF
+Aspirin	FASLG
+Aspirin	DNASE1
+Aspirin	PTPN22
+Aspirin	PDCD1
+Astemizole	IL13
+Atazanavir	CCL5
+Atazanavir	IL10
+Atazanavir	CCR2
+Atazanavir	CCR5
+Atazanavir	FCGR3A
+Atazanavir	OAS1
+Atomoxetine	DRD5
+Atorvastatin	APOB
+Atorvastatin	LDLR
+Atorvastatin	PCSK9
+Atorvastatin	LDLRAP1
+Atorvastatin	EPHX2
+Atorvastatin	APOA2
+Atorvastatin	C7orf16
+Atorvastatin	ITIH4
+Auranofin	IL10
+Auranofin	CIITA
+Auranofin	NFKBIL1
+Auranofin	PADI4
+Auranofin	PTPN22
+Auranofin	RUNX1
+Auranofin	SLC22A4
+Auranofin	MIF
+Azacitidine	CDAN1
+Azacitidine	RPS19
+Azacitidine	PKLR
+Azacitidine	NT5C3
+Azacitidine	RHAG
+Azacitidine	SLC11A2
+Azacitidine	SPTB
+Azacitidine	ALAS2
+Azacitidine	ABCB7
+Azacitidine	TAL1
+Azacitidine	TAL2
+Azacitidine	FLT3
+Azacitidine	NBN
+Azacitidine	ZNFN1A1
+Azacitidine	HOXD4
+Azacitidine	BCR
+Azacitidine	ARNT
+Azacitidine	KRAS
+Azacitidine	GMPS
+Azacitidine	MLLT10
+Azacitidine	ARHGEF12
+Azacitidine	PICALM
+Azacitidine	CEBPA
+Azacitidine	CHIC2
+Azacitidine	KIT
+Azacitidine	LPP
+Azacitidine	NPM1
+Azacitidine	NUP214
+Azacitidine	RUNX1
+Azacitidine	WHSC1L1
+Azacitidine	MLLT11
+Azacitidine	NUMA1
+Azacitidine	ZBTB16
+Azacitidine	PML
+Azacitidine	STAT5B
+Azacitidine	ARL11
+Azacitidine	P2RX7
+Azacitidine	ARHGAP26
+Azacitidine	NF1
+Azacitidine	PTPN11
+Azacitidine	BCL2
+Azacitidine	CCND1
+Azacitidine	TRA@
+Azacitidine	GATA1
+Azacitidine	ABL1
+Azacitidine	NQO1
+Azacitidine	MDS1
+Azacitidine	ACSL6
+Azacitidine	IRF1
+Azacitidine	PDGFRB
+Azacitidine	FCGR3A
+Azacitidine	ELA2
+Azacitidine	GFI1
+Azacitidine	WAS
+Azacitidine	MASTL
+Azacitidine	MPL
+Azacitidine	WAS
+Azacitidine	F5
+Azatadine	IL13
+Azathioprine	IL10
+Azathioprine	CIITA
+Azathioprine	NFKBIL1
+Azathioprine	PADI4
+Azathioprine	PTPN22
+Azathioprine	RUNX1
+Azathioprine	SLC22A4
+Azathioprine	MIF
+Azelastine	PLG
+Baclofen	CIITA
+Baclofen	PTPRC
+Beclomethasone	PHF11
+Beclomethasone	MS4A2
+Beclomethasone	ALOX5
+Beclomethasone	ADRB2
+Beclomethasone	PTGDR
+Beclomethasone	GPR154
+Beclomethasone	HNMT
+Beclomethasone	IL12B
+Beclomethasone	IL13
+Beclomethasone	PLA2G7
+Beclomethasone	SCGB3A2
+Beclomethasone	TNF
+Beclomethasone	SCGB1A1
+Benazepril	KCNMB1
+Benazepril	NR3C2
+Benazepril	AGTR1
+Benazepril	PTGIS
+Benazepril	ADD1
+Benazepril	AGT
+Benazepril	ECE1
+Benazepril	GNB3
+Benazepril	RETN
+Benazepril	HSD11B2
+Benazepril	NOS3
+Benazepril	CYP3A5
+Benzphetamine	POMC
+Benzphetamine	MC4R
+Benzphetamine	AKR1C2
+Benzphetamine	NTRK2
+Benzphetamine	AGRP
+Benzphetamine	NR0B2
+Benzphetamine	LEP
+Benzphetamine	LEPR
+Benzphetamine	PPARG
+Benzphetamine	SIM1
+Benzphetamine	UCP3
+Benzphetamine	MC3R
+Benzphetamine	SLC6A14
+Benzphetamine	ADRB2
+Benzphetamine	ADRB3
+Benzphetamine	CART
+Benzphetamine	ENPP1
+Benzphetamine	GHRL
+Benzphetamine	UCP1
+Benzphetamine	UCP2
+Benzphetamine	PCSK1
+Benztropine	NR4A2
+Benztropine	SNCAIP
+Benztropine	TBP
+Benztropine	SNCA
+Benztropine	PARK7
+Benztropine	LRRK2
+Benztropine	PINK1
+Benztropine	UCHL1
+Benztropine	PARK2
+Benztropine	DBH
+Benztropine	NDUFV2
+Betanidine	KCNMB1
+Betanidine	NR3C2
+Betanidine	AGTR1
+Betanidine	PTGIS
+Betanidine	ADD1
+Betanidine	AGT
+Betanidine	ECE1
+Betanidine	GNB3
+Betanidine	RETN
+Betanidine	HSD11B2
+Betanidine	NOS3
+Betanidine	CYP3A5
+Betaxolol	KCNMB1
+Betaxolol	NR3C2
+Betaxolol	AGTR1
+Betaxolol	PTGIS
+Betaxolol	ADD1
+Betaxolol	AGT
+Betaxolol	ECE1
+Betaxolol	GNB3
+Betaxolol	RETN
+Betaxolol	HSD11B2
+Betaxolol	NOS3
+Betaxolol	CYP3A5
+Bexarotene	RAP1GDS1
+Bexarotene	ATM
+Bexarotene	BCL8
+Bexarotene	BCL10
+Bexarotene	RAD54B
+Bexarotene	RAD54L
+Bexarotene	FCGR2B
+Bexarotene	MAD1L1
+Bexarotene	MSH2
+Bexarotene	SH2D1A
+Bexarotene	ZNF198
+Bimatoprost	MYOC
+Bimatoprost	OPTN
+Bimatoprost	CYP1B1
+Bimatoprost	OPA1
+Bimatoprost	KCNMB1
+Bimatoprost	NR3C2
+Bimatoprost	AGTR1
+Bimatoprost	PTGIS
+Bimatoprost	ADD1
+Bimatoprost	AGT
+Bimatoprost	ECE1
+Bimatoprost	GNB3
+Bimatoprost	RETN
+Bimatoprost	HSD11B2
+Bimatoprost	NOS3
+Bimatoprost	CYP3A5
+Biperiden	NR4A2
+Biperiden	SNCAIP
+Biperiden	TBP
+Biperiden	SNCA
+Biperiden	PARK7
+Biperiden	LRRK2
+Biperiden	PINK1
+Biperiden	UCHL1
+Biperiden	PARK2
+Biperiden	DBH
+Biperiden	NDUFV2
+Bisoprolol	KCNMB1
+Bisoprolol	NR3C2
+Bisoprolol	AGTR1
+Bisoprolol	PTGIS
+Bisoprolol	ADD1
+Bisoprolol	AGT
+Bisoprolol	ECE1
+Bisoprolol	GNB3
+Bisoprolol	RETN
+Bisoprolol	HSD11B2
+Bisoprolol	NOS3
+Bisoprolol	CYP3A5
+Bitolterol Mesylate	PHF11
+Bitolterol Mesylate	MS4A2
+Bitolterol Mesylate	ALOX5
+Bitolterol Mesylate	ADRB2
+Bitolterol Mesylate	PTGDR
+Bitolterol Mesylate	GPR154
+Bitolterol Mesylate	HNMT
+Bitolterol Mesylate	IL12B
+Bitolterol Mesylate	IL13
+Bitolterol Mesylate	PLA2G7
+Bitolterol Mesylate	SCGB3A2
+Bitolterol Mesylate	TNF
+Bitolterol Mesylate	SCGB1A1
+Bitolterol Mesylate	MMP1
+Bivalirudin	MASTL
+Bivalirudin	MPL
+Bivalirudin	WAS
+Bivalirudin	F5
+Bleomycin	RAP1GDS1
+Bleomycin	ATM
+Bleomycin	BCL8
+Bleomycin	BCL10
+Bleomycin	RAD54B
+Bleomycin	RAD54L
+Bleomycin	FCGR2B
+Bleomycin	MAD1L1
+Bleomycin	MSH2
+Bleomycin	SH2D1A
+Bleomycin	FAS
+Bleomycin	ING1
+Bleomycin	TNFRSF10B
+Bortezomib	IRF4
+Bortezomib	LIG4
+Bosentan	KCNMB1
+Bosentan	NR3C2
+Bosentan	AGTR1
+Bosentan	PTGIS
+Bosentan	ADD1
+Bosentan	AGT
+Bosentan	ECE1
+Bosentan	GNB3
+Bosentan	RETN
+Bosentan	HSD11B2
+Bosentan	NOS3
+Bosentan	CYP3A5
+Bosentan	BMPR2
+Botulinum Toxin	ATP1A3
+Botulinum Toxin	TOR1A
+Botulinum Toxin	GCH1
+Botulinum Toxin	DRD2
+Botulinum Toxin	SGCE
+Botulinum Toxin	DRD5
+Botulinum toxin type B	ATP1A3
+Botulinum toxin type B	TOR1A
+Botulinum toxin type B	GCH1
+Botulinum toxin type B	DRD2
+Botulinum toxin type B	SGCE
+Botulinum toxin type B	DRD5
+Bretylium	SCN5A
+Bretylium	GNAI2
+Bretylium	CASQ2
+Bretylium	RYR2
+Brimonidine	MYOC
+Brimonidine	OPTN
+Brimonidine	CYP1B1
+Brimonidine	OPA1
+Brimonidine	KCNMB1
+Brimonidine	NR3C2
+Brimonidine	AGTR1
+Brimonidine	PTGIS
+Brimonidine	ADD1
+Brimonidine	AGT
+Brimonidine	ECE1
+Brimonidine	GNB3
+Brimonidine	RETN
+Brimonidine	HSD11B2
+Brimonidine	NOS3
+Brimonidine	CYP3A5
+Brinzolamide	MYOC
+Brinzolamide	OPTN
+Brinzolamide	CYP1B1
+Brinzolamide	OPA1
+Brinzolamide	KCNMB1
+Brinzolamide	NR3C2
+Brinzolamide	AGTR1
+Brinzolamide	PTGIS
+Brinzolamide	ADD1
+Brinzolamide	AGT
+Brinzolamide	ECE1
+Brinzolamide	GNB3
+Brinzolamide	RETN
+Brinzolamide	HSD11B2
+Brinzolamide	NOS3
+Brinzolamide	CYP3A5
+Bromfenac	CRYAA
+Bromfenac	CRYBB2
+Bromfenac	PITX3
+Bromfenac	BFSP2
+Bromfenac	PAX6
+Bromfenac	CRYBA1
+Bromfenac	CRYGC
+Bromfenac	LIM2
+Bromfenac	CRYGD
+Bromfenac	HSF4
+Bromfenac	MIP
+Bromfenac	CRYAB
+Bromfenac	CRYBB1
+Bromfenac	GJA8
+Bromfenac	GJA3
+Bromfenac	EYA1
+Bromfenac	FOXE3
+Bromfenac	FOXC1
+Bromfenac	PITX3
+Bromocriptine	GNAS
+Bromocriptine	SSTR5
+Bromocriptine	NR4A2
+Bromocriptine	SNCAIP
+Bromocriptine	TBP
+Bromocriptine	SNCA
+Bromocriptine	PARK7
+Bromocriptine	LRRK2
+Bromocriptine	PINK1
+Bromocriptine	UCHL1
+Bromocriptine	PARK2
+Bromocriptine	DBH
+Bromocriptine	NDUFV2
+Brompheniramine	IL13
+Budesonide	CARD15
+Budesonide	DLG5
+Bumetanide	ADRA2C
+Bumetanide	ADRB1
+Bumetanide	SCO1
+Bumetanide	NPHS1
+Bumetanide	NPHS2
+Busulfan	TAL1
+Busulfan	TAL2
+Busulfan	FLT3
+Busulfan	NBN
+Busulfan	ZNFN1A1
+Busulfan	HOXD4
+Busulfan	BCR
+Busulfan	ARNT
+Busulfan	KRAS
+Busulfan	GMPS
+Busulfan	MLLT10
+Busulfan	ARHGEF12
+Busulfan	PICALM
+Busulfan	CEBPA
+Busulfan	CHIC2
+Busulfan	KIT
+Busulfan	LPP
+Busulfan	NPM1
+Busulfan	NUP214
+Busulfan	RUNX1
+Busulfan	WHSC1L1
+Busulfan	MLLT11
+Busulfan	NUMA1
+Busulfan	ZBTB16
+Busulfan	PML
+Busulfan	STAT5B
+Busulfan	ARL11
+Busulfan	P2RX7
+Busulfan	ARHGAP26
+Busulfan	NF1
+Busulfan	PTPN11
+Busulfan	BCL2
+Busulfan	CCND1
+Busulfan	TRA@
+Busulfan	GATA1
+Busulfan	ABL1
+Busulfan	NQO1
+Busulfan	ACSL6
+Busulfan	IRF1
+Busulfan	CBFB
+Busulfan	CSF1R
+Butabarbital	GABRB3
+Butabarbital	PRNP
+Butalbital	ATP1A2
+Butalbital	EDNRA
+Butalbital	ESR1
+Butalbital	TNF
+Cabergoline	APC
+Cabergoline	MUTYH
+Cabergoline	PLAG1
+Cabergoline	APC
+Caffeine	BCHE
+Calcidiol	CASR
+Calcidiol	GATA3
+Calcidiol	CLCN5
+Calcidiol	PHEX
+Calcidiol	PDLIM4
+Calcidiol	CYP2R1
+Calcidiol	VDR
+Calcidiol	CASR
+Calcidiol	GATA3
+Calcidiol	CLCN5
+Calcidiol	PHEX
+Calcidiol	PDLIM4
+Calcidiol	CYP2R1
+Calcidiol	VDR
+"Calcitonin, salmon"	PDLIM4
+Calcitriol	CASR
+Calcitriol	GATA3
+Calcitriol	CLCN5
+Calcitriol	PHEX
+Calcitriol	PDLIM4
+Calcitriol	CYP2R1
+Calcitriol	VDR
+Calcitriol	CASR
+Calcitriol	GATA3
+Calcitriol	CLCN5
+Calcitriol	PHEX
+Calcitriol	PDLIM4
+Calcitriol	CYP2R1
+Calcitriol	VDR
+Calcium Chloride	CASR
+Calcium Gluceptate	CASR
+Candesartan	KCNMB1
+Candesartan	NR3C2
+Candesartan	AGTR1
+Candesartan	PTGIS
+Candesartan	ADD1
+Candesartan	AGT
+Candesartan	ECE1
+Candesartan	GNB3
+Candesartan	RETN
+Candesartan	HSD11B2
+Candesartan	NOS3
+Candesartan	CYP3A5
+Candoxatril	ACE
+Candoxatril	KCNMB1
+Candoxatril	NR3C2
+Candoxatril	AGTR1
+Candoxatril	PTGIS
+Candoxatril	ADD1
+Candoxatril	AGT
+Candoxatril	ECE1
+Candoxatril	GNB3
+Candoxatril	RETN
+Candoxatril	HSD11B2
+Candoxatril	NOS3
+Candoxatril	CYP3A5
+Capecitabine	CHEK2
+Capecitabine	PIK3CA
+Capecitabine	PPM1D
+Capecitabine	SLC22A18
+Capecitabine	TP53
+Capecitabine	BRCA1
+Capecitabine	BRCA2
+Capecitabine	TSG101
+Capecitabine	BRIP1
+Capecitabine	RAD54L
+Capecitabine	CDH1
+Capecitabine	AR
+Capecitabine	KRAS
+Capecitabine	RB1CC1
+Capecitabine	PHB
+Capecitabine	ATM
+Capecitabine	BARD1
+Capecitabine	RAD51
+Capecitabine	XRCC3
+Capreomycin	IFNGR1
+Capreomycin	IFNG
+Capromab	RNASEL
+Capromab	BRCA2
+Capromab	PTEN
+Capromab	AR
+Capromab	CHEK2
+Capromab	MSR1
+Capromab	EPHB2
+Capromab	KLF6
+Capromab	MAD1L1
+Capromab	ATBF1
+Capromab	ELAC2
+Capromab	MXI1
+Captopril	KCNMB1
+Captopril	NR3C2
+Captopril	AGTR1
+Captopril	PTGIS
+Captopril	ADD1
+Captopril	AGT
+Captopril	ECE1
+Captopril	GNB3
+Captopril	RETN
+Captopril	HSD11B2
+Captopril	NOS3
+Captopril	CYP3A5
+Carbachol	MYOC
+Carbachol	OPTN
+Carbachol	CYP1B1
+Carbachol	OPA1
+Carbamazepine	KCNQ2
+Carbamazepine	KCNQ3
+Carbamazepine	GABRG2
+Carbamazepine	CLCN2
+Carbamazepine	JRK
+Carbamazepine	CACNB4
+Carbamazepine	SCN1A
+Carbamazepine	ME2
+Carbamazepine	GABRA1
+Carbamazepine	EPM2A
+Carbamazepine	NHLRC1
+Carbamazepine	SLC25A22
+Carbamazepine	CHRNA4
+Carbamazepine	CHRNB2
+Carbamazepine	LGI1
+Carbamazepine	CSTB
+Carbamazepine	SYN1
+Carbenicillin	MBL2
+Carbidopa	NR4A2
+Carbidopa	SNCAIP
+Carbidopa	TBP
+Carbidopa	SNCA
+Carbidopa	PARK7
+Carbidopa	LRRK2
+Carbidopa	PINK1
+Carbidopa	UCHL1
+Carbidopa	PARK2
+Carbidopa	DBH
+Carbidopa	NDUFV2
+Carbimazole	TPO
+Carbinoxamine	IL13
+Carboprost Tromethamine	IGF1R
+Carboprost Tromethamine	IGF2
+Carmustine	TP73L
+Carmustine	RAP1GDS1
+Carmustine	ATM
+Carmustine	BCL8
+Carmustine	BCL10
+Carmustine	RAD54B
+Carmustine	RAD54L
+Carmustine	FCGR2B
+Carmustine	MAD1L1
+Carmustine	MSH2
+Carmustine	SH2D1A
+Carmustine	IRF4
+Carmustine	LIG4
+Carmustine	CASP10
+Carteolol	MYOC
+Carteolol	OPTN
+Carteolol	CYP1B1
+Carteolol	OPA1
+Carteolol	KCNMB1
+Carteolol	NR3C2
+Carteolol	AGTR1
+Carteolol	PTGIS
+Carteolol	ADD1
+Carteolol	AGT
+Carteolol	ECE1
+Carteolol	GNB3
+Carteolol	RETN
+Carteolol	HSD11B2
+Carteolol	NOS3
+Carteolol	CYP3A5
+Cefditoren Pivoxil	MBL2
+Celecoxib	APC
+Celecoxib	MATN3
+Celecoxib	FRZB
+Celecoxib	ASPN
+Celecoxib	COL2A1
+Celecoxib	BMPR1A
+Celecoxib	SMAD4
+Celecoxib	IL10
+Celecoxib	CIITA
+Celecoxib	NFKBIL1
+Celecoxib	PADI4
+Celecoxib	PTPN22
+Celecoxib	RUNX1
+Celecoxib	SLC22A4
+Celecoxib	MIF
+Cerivastatin	APOB
+Cerivastatin	LDLR
+Cerivastatin	PCSK9
+Cerivastatin	LDLRAP1
+Cerivastatin	EPHX2
+Cerivastatin	APOA2
+Cerivastatin	C7orf16
+Cerivastatin	ITIH4
+Cetirizine	IL13
+Chlorambucil	TP73L
+Chlorambucil	TAL1
+Chlorambucil	TAL2
+Chlorambucil	FLT3
+Chlorambucil	NBN
+Chlorambucil	ZNFN1A1
+Chlorambucil	HOXD4
+Chlorambucil	BCR
+Chlorambucil	ARNT
+Chlorambucil	KRAS
+Chlorambucil	GMPS
+Chlorambucil	MLLT10
+Chlorambucil	ARHGEF12
+Chlorambucil	PICALM
+Chlorambucil	CEBPA
+Chlorambucil	CHIC2
+Chlorambucil	KIT
+Chlorambucil	LPP
+Chlorambucil	NPM1
+Chlorambucil	NUP214
+Chlorambucil	RUNX1
+Chlorambucil	WHSC1L1
+Chlorambucil	MLLT11
+Chlorambucil	NUMA1
+Chlorambucil	ZBTB16
+Chlorambucil	PML
+Chlorambucil	STAT5B
+Chlorambucil	ARL11
+Chlorambucil	P2RX7
+Chlorambucil	ARHGAP26
+Chlorambucil	NF1
+Chlorambucil	PTPN11
+Chlorambucil	BCL2
+Chlorambucil	CCND1
+Chlorambucil	TRA@
+Chlorambucil	GATA1
+Chlorambucil	ABL1
+Chlorambucil	NQO1
+Chlorambucil	RAP1GDS1
+Chlorambucil	ATM
+Chlorambucil	BCL8
+Chlorambucil	BCL10
+Chlorambucil	RAD54B
+Chlorambucil	RAD54L
+Chlorambucil	FCGR2B
+Chlorambucil	MAD1L1
+Chlorambucil	MSH2
+Chlorambucil	SH2D1A
+Chloramphenicol	PLG
+Chlordiazepoxide	GABRA2
+Chlorhexidine	CTSC
+Chloroquine	CD36
+Chloroquine	ICAM1
+Chloroquine	TNF
+Chloroquine	GYPC
+Chloroquine	NOS2A
+Chloroquine	IL10
+Chloroquine	CIITA
+Chloroquine	NFKBIL1
+Chloroquine	PADI4
+Chloroquine	PTPN22
+Chloroquine	RUNX1
+Chloroquine	SLC22A4
+Chloroquine	MIF
+Chlorothiazide	KRT18
+Chlorothiazide	KRT8
+Chlorothiazide	CIRH1A
+Chlorothiazide	ADRA2C
+Chlorothiazide	ADRB1
+Chlorothiazide	SCO1
+Chlorothiazide	KCNMB1
+Chlorothiazide	NR3C2
+Chlorothiazide	AGTR1
+Chlorothiazide	PTGIS
+Chlorothiazide	ADD1
+Chlorothiazide	AGT
+Chlorothiazide	ECE1
+Chlorothiazide	GNB3
+Chlorothiazide	RETN
+Chlorothiazide	HSD11B2
+Chlorothiazide	NOS3
+Chlorothiazide	CYP3A5
+Chlorotrianisene	CHEK2
+Chlorotrianisene	PIK3CA
+Chlorotrianisene	PPM1D
+Chlorotrianisene	SLC22A18
+Chlorotrianisene	TP53
+Chlorotrianisene	BRCA1
+Chlorotrianisene	BRCA2
+Chlorotrianisene	TSG101
+Chlorotrianisene	BRIP1
+Chlorotrianisene	RAD54L
+Chlorotrianisene	CDH1
+Chlorotrianisene	AR
+Chlorotrianisene	KRAS
+Chlorotrianisene	RB1CC1
+Chlorotrianisene	PHB
+Chlorotrianisene	ATM
+Chlorotrianisene	BARD1
+Chlorotrianisene	RAD51
+Chlorotrianisene	XRCC3
+Chlorotrianisene	RNASEL
+Chlorotrianisene	BRCA2
+Chlorotrianisene	PTEN
+Chlorotrianisene	AR
+Chlorotrianisene	CHEK2
+Chlorotrianisene	MSR1
+Chlorotrianisene	EPHB2
+Chlorotrianisene	KLF6
+Chlorotrianisene	MAD1L1
+Chlorotrianisene	ATBF1
+Chlorotrianisene	ELAC2
+Chlorotrianisene	MXI1
+Chlorpheniramine	PHF11
+Chlorpheniramine	MS4A2
+Chlorpheniramine	ALOX5
+Chlorpheniramine	ADRB2
+Chlorpheniramine	PTGDR
+Chlorpheniramine	GPR154
+Chlorpheniramine	HNMT
+Chlorpheniramine	IL12B
+Chlorpheniramine	IL13
+Chlorpheniramine	PLA2G7
+Chlorpheniramine	SCGB3A2
+Chlorpheniramine	TNF
+Chlorpheniramine	SCGB1A1
+Chlorpheniramine	IL13
+Chlorpromazine	DISC1
+Chlorpromazine	TAAR6
+Chlorpromazine	APP
+Chlorpromazine	COMT
+Chlorpromazine	HTR2A
+Chlorpromazine	RTN4R
+Chlorpromazine	SYN2
+Chlorpromazine	ENTH
+Chlorpromazine	PRODH
+Chlorpropamide	ABCC8
+Chlorpropamide	TCF1
+Chlorpropamide	SUMO4
+Chlorpropamide	PTPN22
+Chlorpropamide	INSR
+Chlorpropamide	PPARG
+Chlorpropamide	GCK
+Chlorpropamide	GCGR
+Chlorpropamide	GPD2
+Chlorpropamide	HNF4A
+Chlorpropamide	IRS2
+Chlorpropamide	MAPK8IP1
+Chlorpropamide	NEUROD1
+Chlorpropamide	TCF2
+Chlorpropamide	IRS1
+Chlorpropamide	SLC2A2
+Chlorpropamide	SLC2A4
+Chlorpropamide	CAPN10
+Chlorpropamide	ENPP1
+Chlorpropamide	RETN
+Chlorpropamide	PTF1A
+Chlorpropamide	KCNJ11
+Chlorpropamide	AKT2
+Chlorpropamide	IPF1
+Chlorpropamide	FOXP3
+Chlorpropamide	ACE
+Chlorpropamide	VEGF
+Chlorprothixene	XBP1
+Chlorprothixene	DISC1
+Chlorprothixene	TAAR6
+Chlorprothixene	APP
+Chlorprothixene	COMT
+Chlorprothixene	HTR2A
+Chlorprothixene	RTN4R
+Chlorprothixene	SYN2
+Chlorprothixene	ENTH
+Chlorprothixene	PRODH
+Chlorthalidone	KCNMB1
+Chlorthalidone	NR3C2
+Chlorthalidone	AGTR1
+Chlorthalidone	PTGIS
+Chlorthalidone	ADD1
+Chlorthalidone	AGT
+Chlorthalidone	ECE1
+Chlorthalidone	GNB3
+Chlorthalidone	RETN
+Chlorthalidone	HSD11B2
+Chlorthalidone	NOS3
+Chlorthalidone	CYP3A5
+Cidofovir	KIR3DL1
+Cidofovir	IFNG
+Cidofovir	CXCL12
+Cidofovir	CD3E
+Cidofovir	CD3G
+Cidofovir	AICDA
+Cidofovir	CD40
+Cidofovir	UNG
+Cidofovir	CD40LG
+Cinacalcet	MEN1
+Cinacalcet	CDC73
+Cinacalcet	CASR
+Cinacalcet	TSHR
+Cinacalcet	TP53
+Cinacalcet	MINPP1
+Cinacalcet	PTEN
+Cinacalcet	HRAS
+Cinacalcet	GOLGA5
+Cinacalcet	NCOA4
+Cinacalcet	PCM1
+Cinacalcet	PRKAR1A
+Cinacalcet	TRIM33
+Cinacalcet	TRIM24
+Cinalukast	PHF11
+Cinalukast	MS4A2
+Cinalukast	ALOX5
+Cinalukast	ADRB2
+Cinalukast	PTGDR
+Cinalukast	GPR154
+Cinalukast	HNMT
+Cinalukast	IL12B
+Cinalukast	IL13
+Cinalukast	PLA2G7
+Cinalukast	SCGB3A2
+Cinalukast	TNF
+Cinalukast	SCGB1A1
+Cinnarizine	COCH
+Ciprofloxacin	MBL2
+Cisplatin	FGFR3
+Cisplatin	KRAS
+Cisplatin	RB1
+Cisplatin	HRAS
+Cisplatin	BRCA1
+Cisplatin	MSH2
+Cisplatin	PIK3CA
+Cisplatin	MSH6
+Cisplatin	ERBB2
+Cisplatin	CDH1
+Cisplatin	RRAS2
+Cisplatin	CTNNB1
+Cladribine	CDAN1
+Cladribine	RPS19
+Cladribine	PKLR
+Cladribine	NT5C3
+Cladribine	RHAG
+Cladribine	SLC11A2
+Cladribine	SPTB
+Cladribine	ALAS2
+Cladribine	ABCB7
+Cladribine	TAL1
+Cladribine	TAL2
+Cladribine	FLT3
+Cladribine	NBN
+Cladribine	ZNFN1A1
+Cladribine	HOXD4
+Cladribine	BCR
+Cladribine	ARNT
+Cladribine	KRAS
+Cladribine	GMPS
+Cladribine	MLLT10
+Cladribine	ARHGEF12
+Cladribine	PICALM
+Cladribine	CEBPA
+Cladribine	CHIC2
+Cladribine	KIT
+Cladribine	LPP
+Cladribine	NPM1
+Cladribine	NUP214
+Cladribine	RUNX1
+Cladribine	WHSC1L1
+Cladribine	MLLT11
+Cladribine	NUMA1
+Cladribine	ZBTB16
+Cladribine	PML
+Cladribine	STAT5B
+Cladribine	ARL11
+Cladribine	P2RX7
+Cladribine	ARHGAP26
+Cladribine	NF1
+Cladribine	PTPN11
+Cladribine	BCL2
+Cladribine	CCND1
+Cladribine	TRA@
+Cladribine	GATA1
+Cladribine	ABL1
+Cladribine	NQO1
+Cladribine	FCGR3A
+Cladribine	ELA2
+Cladribine	GFI1
+Cladribine	WAS
+Cladribine	MASTL
+Cladribine	MPL
+Cladribine	WAS
+Cladribine	F5
+Clemastine	IL13
+Clidinium	SCN4A
+Clobazam	KCNQ2
+Clobazam	KCNQ3
+Clobazam	GABRG2
+Clobazam	CLCN2
+Clobazam	JRK
+Clobazam	CACNB4
+Clobazam	SCN1A
+Clobazam	ME2
+Clobazam	GABRA1
+Clobazam	EPM2A
+Clobazam	NHLRC1
+Clobazam	SLC25A22
+Clobazam	CHRNA4
+Clobazam	CHRNB2
+Clobazam	LGI1
+Clobazam	CSTB
+Clobazam	SYN1
+Clodronate	TNFRSF11A
+Clodronate	MMP2
+Clofarabine	TAL1
+Clofarabine	TAL2
+Clofarabine	FLT3
+Clofarabine	NBN
+Clofarabine	ZNFN1A1
+Clofarabine	HOXD4
+Clofarabine	BCR
+Clofarabine	ARNT
+Clofarabine	KRAS
+Clofarabine	GMPS
+Clofarabine	MLLT10
+Clofarabine	ARHGEF12
+Clofarabine	PICALM
+Clofarabine	CEBPA
+Clofarabine	CHIC2
+Clofarabine	KIT
+Clofarabine	LPP
+Clofarabine	NPM1
+Clofarabine	NUP214
+Clofarabine	RUNX1
+Clofarabine	WHSC1L1
+Clofarabine	MLLT11
+Clofarabine	NUMA1
+Clofarabine	ZBTB16
+Clofarabine	PML
+Clofarabine	STAT5B
+Clofarabine	ARL11
+Clofarabine	P2RX7
+Clofarabine	ARHGAP26
+Clofarabine	NF1
+Clofarabine	PTPN11
+Clofarabine	BCL2
+Clofarabine	CCND1
+Clofarabine	TRA@
+Clofarabine	GATA1
+Clofarabine	ABL1
+Clofarabine	NQO1
+Clofazimine	PARK2
+Clofibrate	USF1
+Clofibrate	PROS1
+Clomipramine	HCRT
+Clomipramine	SLC6A4
+Clomipramine	BDNF
+Clomipramine	HTR2A
+Clonazepam	SCN2A1
+Clonidine	KCNMB1
+Clonidine	NR3C2
+Clonidine	AGTR1
+Clonidine	PTGIS
+Clonidine	ADD1
+Clonidine	AGT
+Clonidine	ECE1
+Clonidine	GNB3
+Clonidine	RETN
+Clonidine	HSD11B2
+Clonidine	NOS3
+Clonidine	CYP3A5
+Clonidine	ATP1A2
+Clonidine	EDNRA
+Clonidine	ESR1
+Clonidine	TNF
+Clopidogrel	ALOX5
+Clopidogrel	F7
+Clopidogrel	APOE
+Clopidogrel	ACE
+Clopidogrel	ALOX5AP
+Clopidogrel	LGALS2
+Clopidogrel	LTA
+Clopidogrel	OLR1
+Clopidogrel	THBD
+Clopidogrel	GCLM
+Clopidogrel	TNFSF4
+Clopidogrel	PDE4D
+Clopidogrel	ALOX5AP
+Clorazepate	SCN2A1
+Clozapine	DISC1
+Clozapine	TAAR6
+Clozapine	APP
+Clozapine	COMT
+Clozapine	HTR2A
+Clozapine	RTN4R
+Clozapine	SYN2
+Clozapine	ENTH
+Clozapine	PRODH
+Coagulation factor VIIa	F8
+Coagulation factor VIIa	F9
+Colesevelam	HMGCL
+Colesevelam	HMGCS2
+Colesevelam	APOB
+Colesevelam	LDLR
+Colesevelam	PCSK9
+Colesevelam	LDLRAP1
+Colesevelam	EPHX2
+Colesevelam	APOA2
+Colesevelam	C7orf16
+Colesevelam	ITIH4
+Colestipol	APOB
+Colestipol	LDLR
+Colestipol	PCSK9
+Colestipol	LDLRAP1
+Colestipol	EPHX2
+Colestipol	APOA2
+Colestipol	C7orf16
+Colestipol	ITIH4
+Colistimethate	MBL2
+Colistin	MBL2
+Conjugated Estrogens	CHEK2
+Conjugated Estrogens	PIK3CA
+Conjugated Estrogens	PPM1D
+Conjugated Estrogens	SLC22A18
+Conjugated Estrogens	TP53
+Conjugated Estrogens	BRCA1
+Conjugated Estrogens	BRCA2
+Conjugated Estrogens	TSG101
+Conjugated Estrogens	BRIP1
+Conjugated Estrogens	RAD54L
+Conjugated Estrogens	CDH1
+Conjugated Estrogens	AR
+Conjugated Estrogens	KRAS
+Conjugated Estrogens	RB1CC1
+Conjugated Estrogens	PHB
+Conjugated Estrogens	ATM
+Conjugated Estrogens	BARD1
+Conjugated Estrogens	RAD51
+Conjugated Estrogens	XRCC3
+Conjugated Estrogens	LHB
+Conjugated Estrogens	PDLIM4
+Conjugated Estrogens	BRCA1
+Conjugated Estrogens	MSH2
+Conjugated Estrogens	PIK3CA
+Conjugated Estrogens	MSH6
+Conjugated Estrogens	ERBB2
+Conjugated Estrogens	CDH1
+Conjugated Estrogens	RRAS2
+Conjugated Estrogens	CTNNB1
+Conjugated Estrogens	RNASEL
+Conjugated Estrogens	BRCA2
+Conjugated Estrogens	PTEN
+Conjugated Estrogens	AR
+Conjugated Estrogens	CHEK2
+Conjugated Estrogens	MSR1
+Conjugated Estrogens	EPHB2
+Conjugated Estrogens	KLF6
+Conjugated Estrogens	MAD1L1
+Conjugated Estrogens	ATBF1
+Conjugated Estrogens	ELAC2
+Conjugated Estrogens	MXI1
+Cromolyn	PHF11
+Cromolyn	MS4A2
+Cromolyn	ALOX5
+Cromolyn	ADRB2
+Cromolyn	PTGDR
+Cromolyn	GPR154
+Cromolyn	HNMT
+Cromolyn	IL12B
+Cromolyn	IL13
+Cromolyn	PLA2G7
+Cromolyn	SCGB3A2
+Cromolyn	TNF
+Cromolyn	SCGB1A1
+Cromolyn	PLG
+Cromolyn	PAX6
+Cryptenamine	KCNMB1
+Cryptenamine	NR3C2
+Cryptenamine	AGTR1
+Cryptenamine	PTGIS
+Cryptenamine	ADD1
+Cryptenamine	AGT
+Cryptenamine	ECE1
+Cryptenamine	GNB3
+Cryptenamine	RETN
+Cryptenamine	HSD11B2
+Cryptenamine	NOS3
+Cryptenamine	CYP3A5
+Cyclophosphamide	EGFR
+Cyclophosphamide	BRAF
+Cyclophosphamide	ERBB2
+Cyclophosphamide	PARK2
+Cyclophosphamide	TAL1
+Cyclophosphamide	TAL2
+Cyclophosphamide	FLT3
+Cyclophosphamide	NBN
+Cyclophosphamide	ZNFN1A1
+Cyclophosphamide	HOXD4
+Cyclophosphamide	BCR
+Cyclophosphamide	ARNT
+Cyclophosphamide	KRAS
+Cyclophosphamide	GMPS
+Cyclophosphamide	MLLT10
+Cyclophosphamide	ARHGEF12
+Cyclophosphamide	PICALM
+Cyclophosphamide	CEBPA
+Cyclophosphamide	CHIC2
+Cyclophosphamide	KIT
+Cyclophosphamide	LPP
+Cyclophosphamide	NPM1
+Cyclophosphamide	NUP214
+Cyclophosphamide	RUNX1
+Cyclophosphamide	WHSC1L1
+Cyclophosphamide	MLLT11
+Cyclophosphamide	NUMA1
+Cyclophosphamide	ZBTB16
+Cyclophosphamide	PML
+Cyclophosphamide	STAT5B
+Cyclophosphamide	ARL11
+Cyclophosphamide	P2RX7
+Cyclophosphamide	ARHGAP26
+Cyclophosphamide	NF1
+Cyclophosphamide	PTPN11
+Cyclophosphamide	BCL2
+Cyclophosphamide	CCND1
+Cyclophosphamide	TRA@
+Cyclophosphamide	GATA1
+Cyclophosphamide	ABL1
+Cyclophosphamide	NQO1
+Cyclophosphamide	RAP1GDS1
+Cyclophosphamide	ATM
+Cyclophosphamide	BCL8
+Cyclophosphamide	BCL10
+Cyclophosphamide	RAD54B
+Cyclophosphamide	RAD54L
+Cyclophosphamide	FCGR2B
+Cyclophosphamide	MAD1L1
+Cyclophosphamide	MSH2
+Cyclophosphamide	SH2D1A
+Cyclophosphamide	IRF4
+Cyclophosphamide	LIG4
+Cyclophosphamide	NME1
+Cyclophosphamide	PHOX2B
+Cyclophosphamide	RB1
+Cycloserine	IFNGR1
+Cycloserine	IFNG
+Cyclosporine	IL10
+Cyclosporine	CIITA
+Cyclosporine	NFKBIL1
+Cyclosporine	PADI4
+Cyclosporine	PTPN22
+Cyclosporine	RUNX1
+Cyclosporine	SLC22A4
+Cyclosporine	MIF
+Cyclothiazide	KRT18
+Cyclothiazide	KRT8
+Cyclothiazide	CIRH1A
+Cyclothiazide	ADRA2C
+Cyclothiazide	ADRB1
+Cyclothiazide	SCO1
+Cyclothiazide	KCNMB1
+Cyclothiazide	NR3C2
+Cyclothiazide	AGTR1
+Cyclothiazide	PTGIS
+Cyclothiazide	ADD1
+Cyclothiazide	AGT
+Cyclothiazide	ECE1
+Cyclothiazide	GNB3
+Cyclothiazide	RETN
+Cyclothiazide	HSD11B2
+Cyclothiazide	NOS3
+Cyclothiazide	CYP3A5
+Cycrimine	NR4A2
+Cycrimine	SNCAIP
+Cycrimine	TBP
+Cycrimine	SNCA
+Cycrimine	PARK7
+Cycrimine	LRRK2
+Cycrimine	PINK1
+Cycrimine	UCHL1
+Cycrimine	PARK2
+Cycrimine	DBH
+Cycrimine	NDUFV2
+Cyproheptadine	SERPING1
+Cyproheptadine	XPNPEP2
+Cyproheptadine	PLG
+Cyproheptadine	IL13
+Cytarabine	TAL1
+Cytarabine	TAL2
+Cytarabine	FLT3
+Cytarabine	NBN
+Cytarabine	ZNFN1A1
+Cytarabine	HOXD4
+Cytarabine	BCR
+Cytarabine	ARNT
+Cytarabine	KRAS
+Cytarabine	GMPS
+Cytarabine	MLLT10
+Cytarabine	ARHGEF12
+Cytarabine	PICALM
+Cytarabine	CEBPA
+Cytarabine	CHIC2
+Cytarabine	KIT
+Cytarabine	LPP
+Cytarabine	NPM1
+Cytarabine	NUP214
+Cytarabine	RUNX1
+Cytarabine	WHSC1L1
+Cytarabine	MLLT11
+Cytarabine	NUMA1
+Cytarabine	ZBTB16
+Cytarabine	PML
+Cytarabine	STAT5B
+Cytarabine	ARL11
+Cytarabine	P2RX7
+Cytarabine	ARHGAP26
+Cytarabine	NF1
+Cytarabine	PTPN11
+Cytarabine	BCL2
+Cytarabine	CCND1
+Cytarabine	TRA@
+Cytarabine	GATA1
+Cytarabine	ABL1
+Cytarabine	NQO1
+Dacarbazine	TP73L
+Dacarbazine	CDK4
+Dacarbazine	CDKN2A
+Dacarbazine	XRCC3
+Dacarbazine	STK11
+Dacarbazine	BRAF
+Dactinomycin	EWSR1
+Dactinomycin	SLC22A18
+Dactinomycin	FOXO1A
+Dactinomycin	PAX3
+Dactinomycin	PAX7
+Dactinomycin	BRCA2
+Dactinomycin	GPC3
+Dactinomycin	POU6F2
+Dactinomycin	WT1
+Dapsone	PARK2
+Darbepoetin alfa	CDAN1
+Darbepoetin alfa	RPS19
+Darbepoetin alfa	PKLR
+Darbepoetin alfa	NT5C3
+Darbepoetin alfa	RHAG
+Darbepoetin alfa	SLC11A2
+Darbepoetin alfa	SPTB
+Darbepoetin alfa	ALAS2
+Darbepoetin alfa	ABCB7
+Darbepoetin alfa	CCL5
+Darbepoetin alfa	IL10
+Darbepoetin alfa	CCR2
+Darbepoetin alfa	CCR5
+Daunorubicin	TAL1
+Daunorubicin	TAL2
+Daunorubicin	FLT3
+Daunorubicin	NBN
+Daunorubicin	ZNFN1A1
+Daunorubicin	HOXD4
+Daunorubicin	BCR
+Daunorubicin	ARNT
+Daunorubicin	KRAS
+Daunorubicin	GMPS
+Daunorubicin	MLLT10
+Daunorubicin	ARHGEF12
+Daunorubicin	PICALM
+Daunorubicin	CEBPA
+Daunorubicin	CHIC2
+Daunorubicin	KIT
+Daunorubicin	LPP
+Daunorubicin	NPM1
+Daunorubicin	NUP214
+Daunorubicin	RUNX1
+Daunorubicin	WHSC1L1
+Daunorubicin	MLLT11
+Daunorubicin	NUMA1
+Daunorubicin	ZBTB16
+Daunorubicin	PML
+Daunorubicin	STAT5B
+Daunorubicin	ARL11
+Daunorubicin	P2RX7
+Daunorubicin	ARHGAP26
+Daunorubicin	NF1
+Daunorubicin	PTPN11
+Daunorubicin	BCL2
+Daunorubicin	CCND1
+Daunorubicin	TRA@
+Daunorubicin	GATA1
+Daunorubicin	ABL1
+Daunorubicin	NQO1
+Daunorubicin	ACSL6
+Daunorubicin	IRF1
+Daunorubicin	CBFB
+Daunorubicin	CSF1R
+Dazoxiben	F7
+Dazoxiben	APOE
+Dazoxiben	ACE
+Dazoxiben	ALOX5AP
+Dazoxiben	LGALS2
+Dazoxiben	LTA
+Dazoxiben	OLR1
+Dazoxiben	THBD
+Dazoxiben	GCLM
+Dazoxiben	TNFSF4
+Dazoxiben	TEK
+Dazoxiben	SERPINA10
+Deferoxamine	CDAN1
+Deferoxamine	RPS19
+Deferoxamine	PKLR
+Deferoxamine	NT5C3
+Deferoxamine	RHAG
+Deferoxamine	SLC11A2
+Deferoxamine	SPTB
+Deferoxamine	ALAS2
+Deferoxamine	ABCB7
+Deferoxamine	TF
+Deferoxamine	FTH1
+Delavirdine	CCL5
+Delavirdine	IL10
+Delavirdine	CCR2
+Delavirdine	CCR5
+Delavirdine	FCGR3A
+Delavirdine	OAS1
+Demecarium bromide	MYOC
+Demecarium bromide	OPTN
+Demecarium bromide	CYP1B1
+Demecarium bromide	OPA1
+Demeclocycline	CD36
+Demeclocycline	ICAM1
+Demeclocycline	TNF
+Demeclocycline	GYPC
+Demeclocycline	NOS2A
+Denileukin diftitox	RAP1GDS1
+Denileukin diftitox	ATM
+Denileukin diftitox	BCL8
+Denileukin diftitox	BCL10
+Denileukin diftitox	RAD54B
+Denileukin diftitox	RAD54L
+Denileukin diftitox	FCGR2B
+Denileukin diftitox	MAD1L1
+Denileukin diftitox	MSH2
+Denileukin diftitox	SH2D1A
+Deserpidine	KCNMB1
+Deserpidine	NR3C2
+Deserpidine	AGTR1
+Deserpidine	PTGIS
+Deserpidine	ADD1
+Deserpidine	AGT
+Deserpidine	ECE1
+Deserpidine	GNB3
+Deserpidine	RETN
+Deserpidine	HSD11B2
+Deserpidine	NOS3
+Deserpidine	CYP3A5
+Deslanoside	ADRA2C
+Deslanoside	ADRB1
+Desloratadine	CCL5
+Desloratadine	IL10
+Desloratadine	CCR2
+Desloratadine	CCR5
+Desloratadine	IL13
+Desmopressin	AVPR2
+Desmopressin	AQP2
+Desmopressin	AVP
+Desmopressin acetate	AVPR2
+Desmopressin acetate	AQP2
+Desmopressin acetate	AVP
+Desoxycorticosterone Pivalate	NR5A1
+Desoxycorticosterone Pivalate	CIITA
+Desoxycorticosterone Pivalate	PTPRC
+Desoxycorticosterone Pivalate	IL10
+Desoxycorticosterone Pivalate	CIITA
+Desoxycorticosterone Pivalate	NFKBIL1
+Desoxycorticosterone Pivalate	PADI4
+Desoxycorticosterone Pivalate	PTPN22
+Desoxycorticosterone Pivalate	RUNX1
+Desoxycorticosterone Pivalate	SLC22A4
+Desoxycorticosterone Pivalate	MIF
+Dexfenfluramine	POMC
+Dexfenfluramine	MC4R
+Dexfenfluramine	AKR1C2
+Dexfenfluramine	NTRK2
+Dexfenfluramine	AGRP
+Dexfenfluramine	NR0B2
+Dexfenfluramine	LEP
+Dexfenfluramine	LEPR
+Dexfenfluramine	PPARG
+Dexfenfluramine	SIM1
+Dexfenfluramine	UCP3
+Dexfenfluramine	MC3R
+Dexfenfluramine	SLC6A14
+Dexfenfluramine	ADRB2
+Dexfenfluramine	ADRB3
+Dexfenfluramine	CART
+Dexfenfluramine	ENPP1
+Dexfenfluramine	GHRL
+Dexfenfluramine	UCP1
+Dexfenfluramine	UCP2
+Dexfenfluramine	PCSK1
+Dexrazoxane	CHEK2
+Dexrazoxane	PIK3CA
+Dexrazoxane	PPM1D
+Dexrazoxane	SLC22A18
+Dexrazoxane	TP53
+Dexrazoxane	BRCA1
+Dexrazoxane	BRCA2
+Dexrazoxane	TSG101
+Dexrazoxane	BRIP1
+Dexrazoxane	RAD54L
+Dexrazoxane	CDH1
+Dexrazoxane	AR
+Dexrazoxane	KRAS
+Dexrazoxane	RB1CC1
+Dexrazoxane	PHB
+Dexrazoxane	ATM
+Dexrazoxane	BARD1
+Dexrazoxane	RAD51
+Dexrazoxane	XRCC3
+Dexrazoxane	MYL3
+Dexrazoxane	ACTC
+Dexrazoxane	MYH7
+Dexrazoxane	LMNA
+Dexrazoxane	TNNT2
+Dexrazoxane	TTN
+Dexrazoxane	DES
+Dexrazoxane	EYA4
+Dexrazoxane	SGCD
+Dexrazoxane	CSRP3
+Dexrazoxane	TCAP
+Dexrazoxane	ABCC9
+Dexrazoxane	DMD
+Dexrazoxane	MYL2
+Dexrazoxane	CAV3
+Dexrazoxane	MYH6
+Dexrazoxane	TNNC1
+Dexrazoxane	TPM1
+Dexrazoxane	TNNI3
+Dexrazoxane	MYBPC3
+Dexrazoxane	COX15
+Dexrazoxane	MYLK2
+Dexrazoxane	PRKAG2
+Dexrazoxane	PLN
+Dexrazoxane	TAZ
+Dexrazoxane	ACTA1
+Dexrazoxane	CRYAB
+Dexrazoxane	MYF6
+Dexrazoxane	ITGA7
+Dexrazoxane	DES
+Dexrazoxane	DYSF
+Dexrazoxane	CAV3
+Dexrazoxane	CPT2
+Dexrazoxane	PGAM2
+Dexrazoxane	MYH7
+Diazepam	GABRB3
+Diazepam	PRNP
+Diazoxide	ABCC8
+Dichlorphenamide	MYOC
+Dichlorphenamide	OPTN
+Dichlorphenamide	CYP1B1
+Dichlorphenamide	OPA1
+Diclofenac	MATN3
+Diclofenac	FRZB
+Diclofenac	ASPN
+Diclofenac	COL2A1
+Diclofenac	IL10
+Diclofenac	CIITA
+Diclofenac	NFKBIL1
+Diclofenac	PADI4
+Diclofenac	PTPN22
+Diclofenac	RUNX1
+Diclofenac	SLC22A4
+Diclofenac	MIF
+Didanosine	CCL5
+Didanosine	IL10
+Didanosine	CCR2
+Didanosine	CCR5
+Didanosine	FCGR3A
+Didanosine	OAS1
+Diethylpropion	POMC
+Diethylpropion	MC4R
+Diethylpropion	AKR1C2
+Diethylpropion	NTRK2
+Diethylpropion	AGRP
+Diethylpropion	NR0B2
+Diethylpropion	LEP
+Diethylpropion	LEPR
+Diethylpropion	PPARG
+Diethylpropion	SIM1
+Diethylpropion	UCP3
+Diethylpropion	MC3R
+Diethylpropion	SLC6A14
+Diethylpropion	ADRB2
+Diethylpropion	ADRB3
+Diethylpropion	CART
+Diethylpropion	ENPP1
+Diethylpropion	GHRL
+Diethylpropion	UCP1
+Diethylpropion	UCP2
+Diethylpropion	PCSK1
+Diethylstilbestrol	RNASEL
+Diethylstilbestrol	BRCA2
+Diethylstilbestrol	PTEN
+Diethylstilbestrol	AR
+Diethylstilbestrol	CHEK2
+Diethylstilbestrol	MSR1
+Diethylstilbestrol	EPHB2
+Diethylstilbestrol	KLF6
+Diethylstilbestrol	MAD1L1
+Diethylstilbestrol	ATBF1
+Diethylstilbestrol	ELAC2
+Diethylstilbestrol	MXI1
+Diflunisal	MATN3
+Diflunisal	FRZB
+Diflunisal	ASPN
+Diflunisal	COL2A1
+Diflunisal	IL10
+Diflunisal	CIITA
+Diflunisal	NFKBIL1
+Diflunisal	PADI4
+Diflunisal	PTPN22
+Diflunisal	RUNX1
+Diflunisal	SLC22A4
+Diflunisal	MIF
+Digoxin	ADRA2C
+Digoxin	ADRB1
+Dihydroergotamine	ATP1A2
+Dihydroergotamine	EDNRA
+Dihydroergotamine	ESR1
+Dihydroergotamine	TNF
+Diltiazem	KCNMB1
+Diltiazem	NR3C2
+Diltiazem	AGTR1
+Diltiazem	PTGIS
+Diltiazem	ADD1
+Diltiazem	AGT
+Diltiazem	ECE1
+Diltiazem	GNB3
+Diltiazem	RETN
+Diltiazem	HSD11B2
+Diltiazem	NOS3
+Diltiazem	CYP3A5
+Dinoprost Tromethamine	IGF1R
+Dinoprost Tromethamine	IGF2
+Dinoprostone	IGF1R
+Dinoprostone	IGF2
+Diphenhydramine	COCH
+Diphenidol	COCH
+Diphenylpyraline	IL13
+Dipivefrin	MYOC
+Dipivefrin	OPTN
+Dipivefrin	CYP1B1
+Dipivefrin	OPA1
+Dirithromycin	MBL2
+Disopyramide	GNAI2
+Disopyramide	CASQ2
+Disopyramide	RYR2
+Disulfiram	GABRA2
+Divalproex	ATP1A2
+Divalproex	EDNRA
+Divalproex	ESR1
+Divalproex	TNF
+Docetaxel	CHEK2
+Docetaxel	PIK3CA
+Docetaxel	PPM1D
+Docetaxel	SLC22A18
+Docetaxel	TP53
+Docetaxel	BRCA1
+Docetaxel	BRCA2
+Docetaxel	TSG101
+Docetaxel	BRIP1
+Docetaxel	RAD54L
+Docetaxel	CDH1
+Docetaxel	AR
+Docetaxel	KRAS
+Docetaxel	RB1CC1
+Docetaxel	PHB
+Docetaxel	ATM
+Docetaxel	BARD1
+Docetaxel	RAD51
+Docetaxel	XRCC3
+Docetaxel	KRAS
+Docetaxel	PPP2R1B
+Docetaxel	SLC22A18
+Docetaxel	MAP3K8
+Docetaxel	RNASEL
+Docetaxel	BRCA2
+Docetaxel	PTEN
+Docetaxel	AR
+Docetaxel	CHEK2
+Docetaxel	MSR1
+Docetaxel	EPHB2
+Docetaxel	KLF6
+Docetaxel	MAD1L1
+Docetaxel	ATBF1
+Docetaxel	ELAC2
+Docetaxel	MXI1
+Dofetilide	KCNE2
+Dofetilide	KCNQ1
+Dofetilide	GATA4
+Dofetilide	MYH6
+Dofetilide	NKX2-5
+Donepezil	APP
+Donepezil	APOE
+Donepezil	PSEN2
+Donepezil	APBB2
+Donepezil	NOS3
+Donepezil	PLAU
+Donepezil	ACE
+Donepezil	MPO
+Donepezil	PAXIP1
+Donepezil	A2M
+Donepezil	BLMH
+Donepezil	PSEN1
+Dopamine	ADRA2C
+Dopamine	ADRB1
+Dopamine	TCF2
+Dopamine	INS
+Dopamine	HNF4A
+Dopamine	GCK
+Dopamine	TCF1
+Dopamine	IPF1
+Dopamine	F7
+Dopamine	APOE
+Dopamine	ACE
+Dopamine	ALOX5AP
+Dopamine	LGALS2
+Dopamine	LTA
+Dopamine	OLR1
+Dopamine	THBD
+Dopamine	GCLM
+Dopamine	TNFSF4
+Dornase alfa (Dnase)	CFTR
+Dornase alfa (Dnase)	KIF21A
+Dornase alfa (Dnase)	PHOX2A
+Dorzolamide	MYOC
+Dorzolamide	OPTN
+Dorzolamide	CYP1B1
+Dorzolamide	OPA1
+Dorzolamide	KCNMB1
+Dorzolamide	NR3C2
+Dorzolamide	AGTR1
+Dorzolamide	PTGIS
+Dorzolamide	ADD1
+Dorzolamide	AGT
+Dorzolamide	ECE1
+Dorzolamide	GNB3
+Dorzolamide	RETN
+Dorzolamide	HSD11B2
+Dorzolamide	NOS3
+Dorzolamide	CYP3A5
+Doxazosin	KCNMB1
+Doxazosin	NR3C2
+Doxazosin	AGTR1
+Doxazosin	PTGIS
+Doxazosin	ADD1
+Doxazosin	AGT
+Doxazosin	ECE1
+Doxazosin	GNB3
+Doxazosin	RETN
+Doxazosin	HSD11B2
+Doxazosin	NOS3
+Doxazosin	CYP3A5
+Doxorubicin	KIR3DL1
+Doxorubicin	IFNG
+Doxorubicin	CXCL12
+Drotrecogin alfa	CASP12P1
+Drotrecogin alfa	TNF
+Duloxetine	FKBP5
+Dyphylline	PHF11
+Dyphylline	MS4A2
+Dyphylline	ALOX5
+Dyphylline	ADRB2
+Dyphylline	PTGDR
+Dyphylline	GPR154
+Dyphylline	HNMT
+Dyphylline	IL12B
+Dyphylline	IL13
+Dyphylline	PLA2G7
+Dyphylline	SCGB3A2
+Dyphylline	TNF
+Dyphylline	SCGB1A1
+Dyphylline	SERPINA1
+Echothiophate Iodide	MYOC
+Echothiophate Iodide	OPTN
+Echothiophate Iodide	CYP1B1
+Echothiophate Iodide	OPA1
+Edrophonium	FIMG1
+Edrophonium	SCN4A
+Edrophonium	CHRNB1
+Edrophonium	CHRNE
+Edrophonium	RAPSN
+Edrophonium	CHAT
+Edrophonium	CHRNA1
+Edrophonium	CHRND
+Efavirenz	KIR3DL1
+Efavirenz	IFNG
+Efavirenz	CXCL12
+Efavirenz	CCL5
+Efavirenz	IL10
+Efavirenz	CCR2
+Efavirenz	CCR5
+Eletriptan	ATP1A2
+Eletriptan	EDNRA
+Eletriptan	ESR1
+Eletriptan	TNF
+Emedastine	PLG
+Emtricitabine	CCL5
+Emtricitabine	IL10
+Emtricitabine	CCR2
+Emtricitabine	CCR5
+Emtricitabine	FCGR3A
+Emtricitabine	OAS1
+Enalapril	KCNMB1
+Enalapril	NR3C2
+Enalapril	AGTR1
+Enalapril	PTGIS
+Enalapril	ADD1
+Enalapril	AGT
+Enalapril	ECE1
+Enalapril	GNB3
+Enalapril	RETN
+Enalapril	HSD11B2
+Enalapril	NOS3
+Enalapril	CYP3A5
+Enalkiren	KCNMB1
+Enalkiren	NR3C2
+Enalkiren	AGTR1
+Enalkiren	PTGIS
+Enalkiren	ADD1
+Enalkiren	AGT
+Enalkiren	ECE1
+Enalkiren	GNB3
+Enalkiren	RETN
+Enalkiren	HSD11B2
+Enalkiren	NOS3
+Enalkiren	CYP3A5
+Enfuvirtide	KIR3DL1
+Enfuvirtide	IFNG
+Enfuvirtide	CXCL12
+Enfuvirtide	CCL5
+Enfuvirtide	IL10
+Enfuvirtide	CCR2
+Enfuvirtide	CCR5
+Enoxaparin	F7
+Enoxaparin	APOE
+Enoxaparin	ACE
+Enoxaparin	ALOX5AP
+Enoxaparin	LGALS2
+Enoxaparin	LTA
+Enoxaparin	OLR1
+Enoxaparin	THBD
+Enoxaparin	GCLM
+Enoxaparin	TNFSF4
+Enprofylline	PHF11
+Enprofylline	MS4A2
+Enprofylline	ALOX5
+Enprofylline	ADRB2
+Enprofylline	PTGDR
+Enprofylline	GPR154
+Enprofylline	HNMT
+Enprofylline	IL12B
+Enprofylline	IL13
+Enprofylline	PLA2G7
+Enprofylline	SCGB3A2
+Enprofylline	TNF
+Enprofylline	SCGB1A1
+Enprofylline	SERPINA3
+Enprofylline	EGR2
+Enprofylline	MPZ
+Enprofylline	HSPB1
+Enprofylline	HSPB8
+Enprofylline	SPTLC1
+Enprofylline	NGFB
+Enprofylline	HSN2
+Enprofylline	PMP22
+Entacapone	NR4A2
+Entacapone	SNCAIP
+Entacapone	TBP
+Entacapone	SNCA
+Entacapone	PARK7
+Entacapone	LRRK2
+Entacapone	PINK1
+Entacapone	UCHL1
+Entacapone	PARK2
+Entacapone	DBH
+Entacapone	NDUFV2
+Entecavir	FCGR3A
+Entecavir	OAS1
+Epinastine	PLG
+Epirubicin	CHEK2
+Epirubicin	PIK3CA
+Epirubicin	PPM1D
+Epirubicin	SLC22A18
+Epirubicin	TP53
+Epirubicin	BRCA1
+Epirubicin	BRCA2
+Epirubicin	TSG101
+Epirubicin	BRIP1
+Epirubicin	RAD54L
+Epirubicin	CDH1
+Epirubicin	AR
+Epirubicin	KRAS
+Epirubicin	RB1CC1
+Epirubicin	PHB
+Epirubicin	ATM
+Epirubicin	BARD1
+Epirubicin	RAD51
+Epirubicin	XRCC3
+Eplerenone	ADRA2C
+Eplerenone	ADRB1
+Eplerenone	F7
+Eplerenone	APOE
+Eplerenone	ACE
+Eplerenone	ALOX5AP
+Eplerenone	LGALS2
+Eplerenone	LTA
+Eplerenone	OLR1
+Eplerenone	THBD
+Eplerenone	GCLM
+Eplerenone	TNFSF4
+Epoetin alfa	CDAN1
+Epoetin alfa	RPS19
+Epoetin alfa	PKLR
+Epoetin alfa	NT5C3
+Epoetin alfa	RHAG
+Epoetin alfa	SLC11A2
+Epoetin alfa	SPTB
+Epoetin alfa	ALAS2
+Epoetin alfa	ABCB7
+Epoetin alfa	CCL5
+Epoetin alfa	IL10
+Epoetin alfa	CCR2
+Epoetin alfa	CCR5
+Epoprostenol	KCNMB1
+Epoprostenol	NR3C2
+Epoprostenol	AGTR1
+Epoprostenol	PTGIS
+Epoprostenol	ADD1
+Epoprostenol	AGT
+Epoprostenol	ECE1
+Epoprostenol	GNB3
+Epoprostenol	RETN
+Epoprostenol	HSD11B2
+Epoprostenol	NOS3
+Epoprostenol	CYP3A5
+Epoprostenol	BMPR2
+Eprosartan	KCNMB1
+Eprosartan	NR3C2
+Eprosartan	AGTR1
+Eprosartan	PTGIS
+Eprosartan	ADD1
+Eprosartan	AGT
+Eprosartan	ECE1
+Eprosartan	GNB3
+Eprosartan	RETN
+Eprosartan	HSD11B2
+Eprosartan	NOS3
+Eprosartan	CYP3A5
+Eptifibatide	F7
+Eptifibatide	APOE
+Eptifibatide	ACE
+Eptifibatide	ALOX5AP
+Eptifibatide	LGALS2
+Eptifibatide	LTA
+Eptifibatide	OLR1
+Eptifibatide	THBD
+Eptifibatide	GCLM
+Eptifibatide	TNFSF4
+Ergoloid Mesylate	ITM2B
+Ergoloid Mesylate	PSEN1
+Ergoloid Mesylate	MAPT
+Ergoloid Mesylate	SNCA
+Ergoloid Mesylate	SNCB
+Ergoloid Mesylate	TNF
+Ergotamine	ATP1A2
+Ergotamine	EDNRA
+Ergotamine	ESR1
+Ergotamine	TNF
+Erlotinib	KRAS
+Erlotinib	PPP2R1B
+Erlotinib	SLC22A18
+Erlotinib	MAP3K8
+Erlotinib	ARMET
+Erlotinib	BRCA2
+Erlotinib	TP53
+Erlotinib	SMAD4
+Erlotinib	CDKN2A
+Erlotinib	ACVR1B
+Erlotinib	STK11
+Erlotinib	KRAS
+Erlotinib	RBBP8
+Escitalopram	FKBP5
+Esmolol	KCNE2
+Esmolol	KCNQ1
+Esmolol	GATA4
+Esmolol	MYH6
+Esmolol	NKX2-5
+Esmolol	SCN5A
+Esmolol	GNAI2
+Esmolol	CASQ2
+Esmolol	RYR2
+Estazolam	GABRB3
+Estazolam	PRNP
+Eszopiclone	GABRB3
+Eszopiclone	PRNP
+Etanercept	IL10
+Etanercept	CIITA
+Etanercept	NFKBIL1
+Etanercept	PADI4
+Etanercept	PTPN22
+Etanercept	RUNX1
+Etanercept	SLC22A4
+Etanercept	MIF
+Ethacrynic acid	ADRA2C
+Ethacrynic acid	ADRB1
+Ethambutol	IFNGR1
+Ethambutol	IFNG
+Ethchlorvynol	GABRB3
+Ethchlorvynol	PRNP
+Ethinamate	GABRB3
+Ethinamate	PRNP
+Ethinyl Estradiol	CHEK2
+Ethinyl Estradiol	PIK3CA
+Ethinyl Estradiol	PPM1D
+Ethinyl Estradiol	SLC22A18
+Ethinyl Estradiol	TP53
+Ethinyl Estradiol	BRCA1
+Ethinyl Estradiol	BRCA2
+Ethinyl Estradiol	TSG101
+Ethinyl Estradiol	BRIP1
+Ethinyl Estradiol	RAD54L
+Ethinyl Estradiol	CDH1
+Ethinyl Estradiol	AR
+Ethinyl Estradiol	KRAS
+Ethinyl Estradiol	RB1CC1
+Ethinyl Estradiol	PHB
+Ethinyl Estradiol	ATM
+Ethinyl Estradiol	BARD1
+Ethinyl Estradiol	RAD51
+Ethinyl Estradiol	XRCC3
+Ethinyl Estradiol	LHB
+Ethionamide	IFNGR1
+Ethionamide	IFNG
+Ethopropazine	NR4A2
+Ethopropazine	SNCAIP
+Ethopropazine	TBP
+Ethopropazine	SNCA
+Ethopropazine	PARK7
+Ethopropazine	LRRK2
+Ethopropazine	PINK1
+Ethopropazine	UCHL1
+Ethopropazine	PARK2
+Ethopropazine	DBH
+Ethopropazine	NDUFV2
+Ethosuximide	KCNQ2
+Ethosuximide	KCNQ3
+Ethosuximide	GABRG2
+Ethosuximide	CLCN2
+Ethosuximide	JRK
+Ethosuximide	CACNB4
+Ethosuximide	SCN1A
+Ethosuximide	ME2
+Ethosuximide	GABRA1
+Ethosuximide	EPM2A
+Ethosuximide	NHLRC1
+Ethosuximide	SLC25A22
+Ethosuximide	CHRNA4
+Ethosuximide	CHRNB2
+Ethosuximide	LGI1
+Ethosuximide	CSTB
+Ethosuximide	SYN1
+Ethotoin	SCN2A1
+Ethoxzolamide	KCNQ2
+Ethoxzolamide	KCNQ3
+Ethoxzolamide	GABRG2
+Ethoxzolamide	CLCN2
+Ethoxzolamide	JRK
+Ethoxzolamide	CACNB4
+Ethoxzolamide	SCN1A
+Ethoxzolamide	ME2
+Ethoxzolamide	GABRA1
+Ethoxzolamide	EPM2A
+Ethoxzolamide	NHLRC1
+Ethoxzolamide	SLC25A22
+Ethoxzolamide	CHRNA4
+Ethoxzolamide	CHRNB2
+Ethoxzolamide	LGI1
+Ethoxzolamide	CSTB
+Ethoxzolamide	SYN1
+Ethoxzolamide	MYOC
+Ethoxzolamide	OPTN
+Ethoxzolamide	CYP1B1
+Ethoxzolamide	OPA1
+Ethoxzolamide	SCN2A1
+Etidronate	ENPP1
+Etidronate	TNFRSF11B
+Etidronate	SQSTM1
+Etidronate	TNFRSF11A
+Etodolac	MATN3
+Etodolac	FRZB
+Etodolac	ASPN
+Etodolac	COL2A1
+Etodolac	IL10
+Etodolac	CIITA
+Etodolac	NFKBIL1
+Etodolac	PADI4
+Etodolac	PTPN22
+Etodolac	RUNX1
+Etodolac	SLC22A4
+Etodolac	MIF
+Etoposide	MSH2
+Etoposide	DMBT1
+Etoposide	ERBB2
+Etoposide	LGI1
+Etoposide	PPARG
+Etoposide	TAL1
+Etoposide	TAL2
+Etoposide	FLT3
+Etoposide	NBN
+Etoposide	ZNFN1A1
+Etoposide	HOXD4
+Etoposide	BCR
+Etoposide	ARNT
+Etoposide	KRAS
+Etoposide	GMPS
+Etoposide	MLLT10
+Etoposide	ARHGEF12
+Etoposide	PICALM
+Etoposide	CEBPA
+Etoposide	CHIC2
+Etoposide	KIT
+Etoposide	LPP
+Etoposide	NPM1
+Etoposide	NUP214
+Etoposide	RUNX1
+Etoposide	WHSC1L1
+Etoposide	MLLT11
+Etoposide	NUMA1
+Etoposide	ZBTB16
+Etoposide	PML
+Etoposide	STAT5B
+Etoposide	ARL11
+Etoposide	P2RX7
+Etoposide	ARHGAP26
+Etoposide	NF1
+Etoposide	PTPN11
+Etoposide	BCL2
+Etoposide	CCND1
+Etoposide	TRA@
+Etoposide	GATA1
+Etoposide	ABL1
+Etoposide	NQO1
+Etoposide	KRAS
+Etoposide	PPP2R1B
+Etoposide	SLC22A18
+Etoposide	MAP3K8
+Etoposide	RAP1GDS1
+Etoposide	ATM
+Etoposide	BCL8
+Etoposide	BCL10
+Etoposide	RAD54B
+Etoposide	RAD54L
+Etoposide	FCGR2B
+Etoposide	MAD1L1
+Etoposide	MSH2
+Etoposide	SH2D1A
+Exemestane	CHEK2
+Exemestane	PIK3CA
+Exemestane	PPM1D
+Exemestane	SLC22A18
+Exemestane	TP53
+Exemestane	BRCA1
+Exemestane	BRCA2
+Exemestane	TSG101
+Exemestane	BRIP1
+Exemestane	RAD54L
+Exemestane	CDH1
+Exemestane	AR
+Exemestane	KRAS
+Exemestane	RB1CC1
+Exemestane	PHB
+Exemestane	ATM
+Exemestane	BARD1
+Exemestane	RAD51
+Exemestane	XRCC3
+Ezetimibe	APOB
+Ezetimibe	LDLR
+Ezetimibe	PCSK9
+Ezetimibe	LDLRAP1
+Ezetimibe	EPHX2
+Ezetimibe	APOA2
+Ezetimibe	C7orf16
+Ezetimibe	ITIH4
+Factor IX	F8
+Factor IX	F9
+Famciclovir	CCL5
+Famciclovir	IL10
+Famciclovir	CCR2
+Famciclovir	CCR5
+Felbamate	CDAN1
+Felbamate	RPS19
+Felbamate	PKLR
+Felbamate	NT5C3
+Felbamate	RHAG
+Felbamate	SLC11A2
+Felbamate	SPTB
+Felbamate	ALAS2
+Felbamate	ABCB7
+Felbamate	IFNG
+Felbamate	TERC
+Felbamate	TERT
+Felbamate	KCNQ2
+Felbamate	KCNQ3
+Felbamate	GABRG2
+Felbamate	CLCN2
+Felbamate	JRK
+Felbamate	CACNB4
+Felbamate	SCN1A
+Felbamate	ME2
+Felbamate	GABRA1
+Felbamate	EPM2A
+Felbamate	NHLRC1
+Felbamate	SLC25A22
+Felbamate	CHRNA4
+Felbamate	CHRNB2
+Felbamate	LGI1
+Felbamate	CSTB
+Felbamate	SYN1
+Felodipine	KCNMB1
+Felodipine	NR3C2
+Felodipine	AGTR1
+Felodipine	PTGIS
+Felodipine	ADD1
+Felodipine	AGT
+Felodipine	ECE1
+Felodipine	GNB3
+Felodipine	RETN
+Felodipine	HSD11B2
+Felodipine	NOS3
+Felodipine	CYP3A5
+Fenfluramine	POMC
+Fenfluramine	MC4R
+Fenfluramine	AKR1C2
+Fenfluramine	NTRK2
+Fenfluramine	AGRP
+Fenfluramine	NR0B2
+Fenfluramine	LEP
+Fenfluramine	LEPR
+Fenfluramine	PPARG
+Fenfluramine	SIM1
+Fenfluramine	UCP3
+Fenfluramine	MC3R
+Fenfluramine	SLC6A14
+Fenfluramine	ADRB2
+Fenfluramine	ADRB3
+Fenfluramine	CART
+Fenfluramine	ENPP1
+Fenfluramine	GHRL
+Fenfluramine	UCP1
+Fenfluramine	UCP2
+Fenfluramine	PCSK1
+Fenofibrate	APOB
+Fenofibrate	LDLR
+Fenofibrate	PCSK9
+Fenofibrate	LDLRAP1
+Fenofibrate	EPHX2
+Fenofibrate	APOA2
+Fenofibrate	C7orf16
+Fenofibrate	ITIH4
+Fenoldopam	KCNMB1
+Fenoldopam	NR3C2
+Fenoldopam	AGTR1
+Fenoldopam	PTGIS
+Fenoldopam	ADD1
+Fenoldopam	AGT
+Fenoldopam	ECE1
+Fenoldopam	GNB3
+Fenoldopam	RETN
+Fenoldopam	HSD11B2
+Fenoldopam	NOS3
+Fenoldopam	CYP3A5
+Fenoprofen	MATN3
+Fenoprofen	FRZB
+Fenoprofen	ASPN
+Fenoprofen	COL2A1
+Fenoprofen	IL10
+Fenoprofen	CIITA
+Fenoprofen	NFKBIL1
+Fenoprofen	PADI4
+Fenoprofen	PTPN22
+Fenoprofen	RUNX1
+Fenoprofen	SLC22A4
+Fenoprofen	MIF
+Fexofenadine	IL13
+Filgrastim	FCGR3A
+Filgrastim	ELA2
+Filgrastim	GFI1
+Filgrastim	WAS
+Flecainide	GNAI2
+Flecainide	CASQ2
+Flecainide	RYR2
+Floxuridine	EGFR
+Floxuridine	BRAF
+Floxuridine	ERBB2
+Floxuridine	PARK2
+Fludarabine	TAL1
+Fludarabine	TAL2
+Fludarabine	FLT3
+Fludarabine	NBN
+Fludarabine	ZNFN1A1
+Fludarabine	HOXD4
+Fludarabine	BCR
+Fludarabine	ARNT
+Fludarabine	KRAS
+Fludarabine	GMPS
+Fludarabine	MLLT10
+Fludarabine	ARHGEF12
+Fludarabine	PICALM
+Fludarabine	CEBPA
+Fludarabine	CHIC2
+Fludarabine	KIT
+Fludarabine	LPP
+Fludarabine	NPM1
+Fludarabine	NUP214
+Fludarabine	RUNX1
+Fludarabine	WHSC1L1
+Fludarabine	MLLT11
+Fludarabine	NUMA1
+Fludarabine	ZBTB16
+Fludarabine	PML
+Fludarabine	STAT5B
+Fludarabine	ARL11
+Fludarabine	P2RX7
+Fludarabine	ARHGAP26
+Fludarabine	NF1
+Fludarabine	PTPN11
+Fludarabine	BCL2
+Fludarabine	CCND1
+Fludarabine	TRA@
+Fludarabine	GATA1
+Fludarabine	ABL1
+Fludarabine	NQO1
+Fludrocortisone	NR5A1
+Flunisolide	PHF11
+Flunisolide	MS4A2
+Flunisolide	ALOX5
+Flunisolide	ADRB2
+Flunisolide	PTGDR
+Flunisolide	GPR154
+Flunisolide	HNMT
+Flunisolide	IL12B
+Flunisolide	IL13
+Flunisolide	PLA2G7
+Flunisolide	SCGB3A2
+Flunisolide	TNF
+Flunisolide	SCGB1A1
+Fluorouracil	RASA1
+Fluorouracil	PTCH2
+Fluorouracil	PTCH
+Fluorouracil	SMO
+Fluorouracil	CHEK2
+Fluorouracil	PIK3CA
+Fluorouracil	PPM1D
+Fluorouracil	SLC22A18
+Fluorouracil	TP53
+Fluorouracil	BRCA1
+Fluorouracil	BRCA2
+Fluorouracil	TSG101
+Fluorouracil	BRIP1
+Fluorouracil	RAD54L
+Fluorouracil	CDH1
+Fluorouracil	AR
+Fluorouracil	KRAS
+Fluorouracil	RB1CC1
+Fluorouracil	PHB
+Fluorouracil	ATM
+Fluorouracil	BARD1
+Fluorouracil	RAD51
+Fluorouracil	XRCC3
+Fluorouracil	RAD54B
+Fluorouracil	RAD54L
+Fluorouracil	BCL10
+Fluorouracil	PTPN12
+Fluorouracil	TGFBR2
+Fluorouracil	SRC
+Fluorouracil	MLH3
+Fluorouracil	PTPRJ
+Fluorouracil	ODC1
+Fluorouracil	MUTYH
+Fluorouracil	AXIN2
+Fluorouracil	BUB1B
+Fluorouracil	EP300
+Fluorouracil	PDGFRL
+Fluorouracil	PIK3CA
+Fluorouracil	TP53
+Fluorouracil	APC
+Fluorouracil	BAX
+Fluorouracil	CTNNB1
+Fluorouracil	DCC
+Fluorouracil	MCC
+Fluorouracil	NRAS
+Fluorouracil	MSH2
+Fluorouracil	MLH1
+Fluorouracil	PMS1
+Fluorouracil	PMS2
+Fluorouracil	MSH6
+Fluorouracil	FGFR3
+Fluorouracil	FLCN
+Fluorouracil	BRAF
+Fluorouracil	DLC1
+Fluorouracil	PLA2G2A
+Fluorouracil	CCND1
+Fluorouracil	BUB1
+Fluorouracil	KRAS
+Fluoxetine	SLC6A4
+Fluoxetine	BDNF
+Fluoxetine	HTR2A
+Flupenthixol	DISC1
+Flupenthixol	TAAR6
+Flupenthixol	APP
+Flupenthixol	COMT
+Flupenthixol	HTR2A
+Flupenthixol	RTN4R
+Flupenthixol	SYN2
+Flupenthixol	ENTH
+Flupenthixol	PRODH
+Flurazepam	GABRB3
+Flurazepam	PRNP
+Flurbiprofen	IL10
+Flurbiprofen	CIITA
+Flurbiprofen	NFKBIL1
+Flurbiprofen	PADI4
+Flurbiprofen	PTPN22
+Flurbiprofen	RUNX1
+Flurbiprofen	SLC22A4
+Flurbiprofen	MIF
+Fluticasone Propionate	PHF11
+Fluticasone Propionate	MS4A2
+Fluticasone Propionate	ALOX5
+Fluticasone Propionate	ADRB2
+Fluticasone Propionate	PTGDR
+Fluticasone Propionate	GPR154
+Fluticasone Propionate	HNMT
+Fluticasone Propionate	IL12B
+Fluticasone Propionate	IL13
+Fluticasone Propionate	PLA2G7
+Fluticasone Propionate	SCGB3A2
+Fluticasone Propionate	TNF
+Fluticasone Propionate	SCGB1A1
+Fluvastatin	APOB
+Fluvastatin	LDLR
+Fluvastatin	PCSK9
+Fluvastatin	LDLRAP1
+Fluvastatin	EPHX2
+Fluvastatin	APOA2
+Fluvastatin	C7orf16
+Fluvastatin	ITIH4
+Fluvoxamine	SLC6A4
+Fluvoxamine	BDNF
+Fluvoxamine	HTR2A
+Folic Acid	CDAN1
+Folic Acid	RPS19
+Folic Acid	PKLR
+Folic Acid	NT5C3
+Folic Acid	RHAG
+Folic Acid	SLC11A2
+Folic Acid	SPTB
+Folic Acid	ALAS2
+Folic Acid	ABCB7
+Folic Acid	CUBN
+Folic Acid	AMN
+Formoterol	PHF11
+Formoterol	MS4A2
+Formoterol	ALOX5
+Formoterol	ADRB2
+Formoterol	PTGDR
+Formoterol	GPR154
+Formoterol	HNMT
+Formoterol	IL12B
+Formoterol	IL13
+Formoterol	PLA2G7
+Formoterol	SCGB3A2
+Formoterol	TNF
+Formoterol	SCGB1A1
+Foscarnet	KIR3DL1
+Foscarnet	IFNG
+Foscarnet	CXCL12
+Foscarnet	CD3E
+Foscarnet	CD3G
+Foscarnet	AICDA
+Foscarnet	CD40
+Foscarnet	UNG
+Foscarnet	CD40LG
+Fosinopril	KCNMB1
+Fosinopril	NR3C2
+Fosinopril	AGTR1
+Fosinopril	PTGIS
+Fosinopril	ADD1
+Fosinopril	AGT
+Fosinopril	ECE1
+Fosinopril	GNB3
+Fosinopril	RETN
+Fosinopril	HSD11B2
+Fosinopril	NOS3
+Fosinopril	CYP3A5
+Fotemustine	CDK4
+Fotemustine	CDKN2A
+Fotemustine	XRCC3
+Fotemustine	STK11
+Fotemustine	BRAF
+Frovatriptan	ATP1A2
+Frovatriptan	EDNRA
+Frovatriptan	ESR1
+Frovatriptan	TNF
+Fulvestrant	CHEK2
+Fulvestrant	PIK3CA
+Fulvestrant	PPM1D
+Fulvestrant	SLC22A18
+Fulvestrant	TP53
+Fulvestrant	BRCA1
+Fulvestrant	BRCA2
+Fulvestrant	TSG101
+Fulvestrant	BRIP1
+Fulvestrant	RAD54L
+Fulvestrant	CDH1
+Fulvestrant	AR
+Fulvestrant	KRAS
+Fulvestrant	RB1CC1
+Fulvestrant	PHB
+Fulvestrant	ATM
+Fulvestrant	BARD1
+Fulvestrant	RAD51
+Fulvestrant	XRCC3
+Furosemide	KRT18
+Furosemide	KRT8
+Furosemide	CIRH1A
+Furosemide	ADRA2C
+Furosemide	ADRB1
+Furosemide	KCNMB1
+Furosemide	NR3C2
+Furosemide	AGTR1
+Furosemide	PTGIS
+Furosemide	ADD1
+Furosemide	AGT
+Furosemide	ECE1
+Furosemide	GNB3
+Furosemide	RETN
+Furosemide	HSD11B2
+Furosemide	NOS3
+Furosemide	CYP3A5
+Furosemide	NPHS1
+Furosemide	NPHS2
+Gabapentin	KCNQ2
+Gabapentin	KCNQ3
+Gabapentin	GABRG2
+Gabapentin	CLCN2
+Gabapentin	JRK
+Gabapentin	CACNB4
+Gabapentin	SCN1A
+Gabapentin	ME2
+Gabapentin	GABRA1
+Gabapentin	EPM2A
+Gabapentin	NHLRC1
+Gabapentin	SLC25A22
+Gabapentin	CHRNA4
+Gabapentin	CHRNB2
+Gabapentin	LGI1
+Gabapentin	CSTB
+Gabapentin	SYN1
+Gabapentin	SCN2A1
+Galantamine	APP
+Galantamine	APOE
+Galantamine	PSEN2
+Galantamine	APBB2
+Galantamine	NOS3
+Galantamine	PLAU
+Galantamine	ACE
+Galantamine	MPO
+Galantamine	PAXIP1
+Galantamine	A2M
+Galantamine	BLMH
+Galantamine	PSEN1
+Galantamine	ITM2B
+Galantamine	PSEN1
+Galantamine	MAPT
+Galantamine	SNCA
+Galantamine	SNCB
+Galantamine	TNF
+Ganciclovir	KIR3DL1
+Ganciclovir	IFNG
+Ganciclovir	CXCL12
+Ganciclovir	CD3E
+Ganciclovir	CD3G
+Ganciclovir	AICDA
+Ganciclovir	CD40
+Ganciclovir	UNG
+Ganciclovir	CD40LG
+Ganirelix	FSHR
+Gefitinib	KRAS
+Gefitinib	PPP2R1B
+Gefitinib	SLC22A18
+Gefitinib	MAP3K8
+Gemcitabine	EGFR
+Gemcitabine	BRAF
+Gemcitabine	ERBB2
+Gemcitabine	PARK2
+Gemcitabine	CHEK2
+Gemcitabine	PIK3CA
+Gemcitabine	PPM1D
+Gemcitabine	SLC22A18
+Gemcitabine	TP53
+Gemcitabine	BRCA1
+Gemcitabine	BRCA2
+Gemcitabine	TSG101
+Gemcitabine	BRIP1
+Gemcitabine	RAD54L
+Gemcitabine	CDH1
+Gemcitabine	AR
+Gemcitabine	KRAS
+Gemcitabine	RB1CC1
+Gemcitabine	PHB
+Gemcitabine	ATM
+Gemcitabine	BARD1
+Gemcitabine	RAD51
+Gemcitabine	XRCC3
+Gemcitabine	KRAS
+Gemcitabine	PPP2R1B
+Gemcitabine	SLC22A18
+Gemcitabine	MAP3K8
+Gemfibrozil	USF1
+Gemfibrozil	PRSS1
+Gemfibrozil	SPINK1
+Gemfibrozil	CFTR
+Gemtuzumab ozogamicin	TAL1
+Gemtuzumab ozogamicin	TAL2
+Gemtuzumab ozogamicin	FLT3
+Gemtuzumab ozogamicin	NBN
+Gemtuzumab ozogamicin	ZNFN1A1
+Gemtuzumab ozogamicin	HOXD4
+Gemtuzumab ozogamicin	BCR
+Gemtuzumab ozogamicin	ARNT
+Gemtuzumab ozogamicin	KRAS
+Gemtuzumab ozogamicin	GMPS
+Gemtuzumab ozogamicin	MLLT10
+Gemtuzumab ozogamicin	ARHGEF12
+Gemtuzumab ozogamicin	PICALM
+Gemtuzumab ozogamicin	CEBPA
+Gemtuzumab ozogamicin	CHIC2
+Gemtuzumab ozogamicin	KIT
+Gemtuzumab ozogamicin	LPP
+Gemtuzumab ozogamicin	NPM1
+Gemtuzumab ozogamicin	NUP214
+Gemtuzumab ozogamicin	RUNX1
+Gemtuzumab ozogamicin	WHSC1L1
+Gemtuzumab ozogamicin	MLLT11
+Gemtuzumab ozogamicin	NUMA1
+Gemtuzumab ozogamicin	ZBTB16
+Gemtuzumab ozogamicin	PML
+Gemtuzumab ozogamicin	STAT5B
+Gemtuzumab ozogamicin	ARL11
+Gemtuzumab ozogamicin	P2RX7
+Gemtuzumab ozogamicin	ARHGAP26
+Gemtuzumab ozogamicin	NF1
+Gemtuzumab ozogamicin	PTPN11
+Gemtuzumab ozogamicin	BCL2
+Gemtuzumab ozogamicin	CCND1
+Gemtuzumab ozogamicin	TRA@
+Gemtuzumab ozogamicin	GATA1
+Gemtuzumab ozogamicin	ABL1
+Gemtuzumab ozogamicin	NQO1
+Glatiramer Acetate	CIITA
+Glatiramer Acetate	PTPRC
+Gliclazide	ABCC8
+Gliclazide	TCF1
+Gliclazide	SUMO4
+Gliclazide	PTPN22
+Gliclazide	INSR
+Gliclazide	PPARG
+Gliclazide	GCK
+Gliclazide	GCGR
+Gliclazide	GPD2
+Gliclazide	HNF4A
+Gliclazide	IRS2
+Gliclazide	MAPK8IP1
+Gliclazide	NEUROD1
+Gliclazide	TCF2
+Gliclazide	IRS1
+Gliclazide	SLC2A2
+Gliclazide	SLC2A4
+Gliclazide	CAPN10
+Gliclazide	ENPP1
+Gliclazide	RETN
+Gliclazide	PTF1A
+Gliclazide	KCNJ11
+Gliclazide	AKT2
+Gliclazide	IPF1
+Gliclazide	FOXP3
+Gliclazide	ACE
+Gliclazide	VEGF
+Glimepiride	ABCC8
+Glimepiride	TCF1
+Glimepiride	SUMO4
+Glimepiride	PTPN22
+Glimepiride	INSR
+Glimepiride	PPARG
+Glimepiride	GCK
+Glimepiride	GCGR
+Glimepiride	GPD2
+Glimepiride	HNF4A
+Glimepiride	IRS2
+Glimepiride	MAPK8IP1
+Glimepiride	NEUROD1
+Glimepiride	TCF2
+Glimepiride	IRS1
+Glimepiride	SLC2A2
+Glimepiride	SLC2A4
+Glimepiride	CAPN10
+Glimepiride	ENPP1
+Glimepiride	RETN
+Glimepiride	PTF1A
+Glimepiride	KCNJ11
+Glimepiride	AKT2
+Glimepiride	IPF1
+Glimepiride	FOXP3
+Glimepiride	ACE
+Glimepiride	VEGF
+Glipizide	ABCC8
+Glipizide	TCF1
+Glipizide	SUMO4
+Glipizide	PTPN22
+Glipizide	INSR
+Glipizide	PPARG
+Glipizide	GCK
+Glipizide	GCGR
+Glipizide	GPD2
+Glipizide	HNF4A
+Glipizide	IRS2
+Glipizide	MAPK8IP1
+Glipizide	NEUROD1
+Glipizide	TCF2
+Glipizide	IRS1
+Glipizide	SLC2A2
+Glipizide	SLC2A4
+Glipizide	CAPN10
+Glipizide	ENPP1
+Glipizide	RETN
+Glipizide	PTF1A
+Glipizide	KCNJ11
+Glipizide	AKT2
+Glipizide	IPF1
+Glipizide	FOXP3
+Glipizide	ACE
+Glipizide	VEGF
+Glucagon recombinant	ABCC8
+Glyburide	ABCC8
+Glyburide	TCF1
+Glyburide	SUMO4
+Glyburide	PTPN22
+Glyburide	INSR
+Glyburide	PPARG
+Glyburide	GCK
+Glyburide	GCGR
+Glyburide	GPD2
+Glyburide	HNF4A
+Glyburide	IRS2
+Glyburide	MAPK8IP1
+Glyburide	NEUROD1
+Glyburide	TCF2
+Glyburide	IRS1
+Glyburide	SLC2A2
+Glyburide	SLC2A4
+Glyburide	CAPN10
+Glyburide	ENPP1
+Glyburide	RETN
+Glyburide	PTF1A
+Glyburide	KCNJ11
+Glyburide	AKT2
+Glyburide	IPF1
+Glyburide	FOXP3
+Glyburide	ACE
+Glyburide	VEGF
+Gonadorelin	PRKCA
+Goserelin	CHEK2
+Goserelin	PIK3CA
+Goserelin	PPM1D
+Goserelin	SLC22A18
+Goserelin	TP53
+Goserelin	BRCA1
+Goserelin	BRCA2
+Goserelin	TSG101
+Goserelin	BRIP1
+Goserelin	RAD54L
+Goserelin	CDH1
+Goserelin	AR
+Goserelin	KRAS
+Goserelin	RB1CC1
+Goserelin	PHB
+Goserelin	ATM
+Goserelin	BARD1
+Goserelin	RAD51
+Goserelin	XRCC3
+Goserelin	RNASEL
+Goserelin	BRCA2
+Goserelin	PTEN
+Goserelin	AR
+Goserelin	CHEK2
+Goserelin	MSR1
+Goserelin	EPHB2
+Goserelin	KLF6
+Goserelin	MAD1L1
+Goserelin	ATBF1
+Goserelin	ELAC2
+Goserelin	MXI1
+Guanadrel Sulfate	KCNMB1
+Guanadrel Sulfate	NR3C2
+Guanadrel Sulfate	AGTR1
+Guanadrel Sulfate	PTGIS
+Guanadrel Sulfate	ADD1
+Guanadrel Sulfate	AGT
+Guanadrel Sulfate	ECE1
+Guanadrel Sulfate	GNB3
+Guanadrel Sulfate	RETN
+Guanadrel Sulfate	HSD11B2
+Guanadrel Sulfate	NOS3
+Guanadrel Sulfate	CYP3A5
+Guanethidine	KCNMB1
+Guanethidine	NR3C2
+Guanethidine	AGTR1
+Guanethidine	PTGIS
+Guanethidine	ADD1
+Guanethidine	AGT
+Guanethidine	ECE1
+Guanethidine	GNB3
+Guanethidine	RETN
+Guanethidine	HSD11B2
+Guanethidine	NOS3
+Guanethidine	CYP3A5
+Guanidine	FIMG1
+Guanidine	SCN4A
+Guanidine	CHRNB1
+Guanidine	CHRNE
+Guanidine	RAPSN
+Guanidine	CHAT
+Guanidine	CHRNA1
+Guanidine	CHRND
+Halofantrine	CD36
+Halofantrine	ICAM1
+Halofantrine	TNF
+Halofantrine	GYPC
+Halofantrine	NOS2A
+Haloperidol	MECP2
+Haloperidol	CDKL5
+Heparin	TEK
+Heparin	SERPINA10
+Hesperetin	CYP19A1
+Hexobarbital	GABRB3
+Hexobarbital	PRNP
+Human Serum Albumin	PROS1
+Hydrocortisone	PHF11
+Hydrocortisone	MS4A2
+Hydrocortisone	ALOX5
+Hydrocortisone	ADRB2
+Hydrocortisone	PTGDR
+Hydrocortisone	GPR154
+Hydrocortisone	HNMT
+Hydrocortisone	IL12B
+Hydrocortisone	IL13
+Hydrocortisone	PLA2G7
+Hydrocortisone	SCGB3A2
+Hydrocortisone	TNF
+Hydrocortisone	SCGB1A1
+Hydrocortisone	CARD15
+Hydrocortisone	DLG5
+Hydroflumethiazide	KRT18
+Hydroflumethiazide	KRT8
+Hydroflumethiazide	CIRH1A
+Hydroflumethiazide	ADRA2C
+Hydroflumethiazide	ADRB1
+Hydroflumethiazide	SCO1
+Hydroflumethiazide	KCNMB1
+Hydroflumethiazide	NR3C2
+Hydroflumethiazide	AGTR1
+Hydroflumethiazide	PTGIS
+Hydroflumethiazide	ADD1
+Hydroflumethiazide	AGT
+Hydroflumethiazide	ECE1
+Hydroflumethiazide	GNB3
+Hydroflumethiazide	RETN
+Hydroflumethiazide	HSD11B2
+Hydroflumethiazide	NOS3
+Hydroflumethiazide	CYP3A5
+Hydromorphone	F7
+Hydromorphone	APOE
+Hydromorphone	ACE
+Hydromorphone	ALOX5AP
+Hydromorphone	LGALS2
+Hydromorphone	LTA
+Hydromorphone	OLR1
+Hydromorphone	THBD
+Hydromorphone	GCLM
+Hydromorphone	TNFSF4
+Hydroxocobalamin	GABRA2
+Hydroxocobalamin	CDAN1
+Hydroxocobalamin	RPS19
+Hydroxocobalamin	PKLR
+Hydroxocobalamin	NT5C3
+Hydroxocobalamin	RHAG
+Hydroxocobalamin	SLC11A2
+Hydroxocobalamin	SPTB
+Hydroxocobalamin	ALAS2
+Hydroxocobalamin	ABCB7
+Hydroxocobalamin	TPO
+Hydroxocobalamin	ARMET
+Hydroxocobalamin	BRCA2
+Hydroxocobalamin	TP53
+Hydroxocobalamin	SMAD4
+Hydroxocobalamin	CDKN2A
+Hydroxocobalamin	ACVR1B
+Hydroxocobalamin	STK11
+Hydroxocobalamin	KRAS
+Hydroxocobalamin	RBBP8
+Hydroxypropyl Cellulose	PLG
+Hydroxypropyl Cellulose	PAX6
+Hydroxyurea	CDAN1
+Hydroxyurea	RPS19
+Hydroxyurea	PKLR
+Hydroxyurea	NT5C3
+Hydroxyurea	RHAG
+Hydroxyurea	SLC11A2
+Hydroxyurea	SPTB
+Hydroxyurea	ALAS2
+Hydroxyurea	ABCB7
+Hydroxyurea	TAL1
+Hydroxyurea	TAL2
+Hydroxyurea	FLT3
+Hydroxyurea	NBN
+Hydroxyurea	ZNFN1A1
+Hydroxyurea	HOXD4
+Hydroxyurea	BCR
+Hydroxyurea	ARNT
+Hydroxyurea	KRAS
+Hydroxyurea	GMPS
+Hydroxyurea	MLLT10
+Hydroxyurea	ARHGEF12
+Hydroxyurea	PICALM
+Hydroxyurea	CEBPA
+Hydroxyurea	CHIC2
+Hydroxyurea	KIT
+Hydroxyurea	LPP
+Hydroxyurea	NPM1
+Hydroxyurea	NUP214
+Hydroxyurea	RUNX1
+Hydroxyurea	WHSC1L1
+Hydroxyurea	MLLT11
+Hydroxyurea	NUMA1
+Hydroxyurea	ZBTB16
+Hydroxyurea	PML
+Hydroxyurea	STAT5B
+Hydroxyurea	ARL11
+Hydroxyurea	P2RX7
+Hydroxyurea	ARHGAP26
+Hydroxyurea	NF1
+Hydroxyurea	PTPN11
+Hydroxyurea	BCL2
+Hydroxyurea	CCND1
+Hydroxyurea	TRA@
+Hydroxyurea	GATA1
+Hydroxyurea	ABL1
+Hydroxyurea	NQO1
+Hydroxyurea	CDK4
+Hydroxyurea	CDKN2A
+Hydroxyurea	XRCC3
+Hydroxyurea	STK11
+Hydroxyurea	BRAF
+Hydroxyurea	HBB
+Hyoscyamine	PRSS1
+Hyoscyamine	SPINK1
+Hyoscyamine	CFTR
+Hyoscyamine	NR4A2
+Hyoscyamine	SNCAIP
+Hyoscyamine	TBP
+Hyoscyamine	SNCA
+Hyoscyamine	PARK7
+Hyoscyamine	LRRK2
+Hyoscyamine	PINK1
+Hyoscyamine	UCHL1
+Hyoscyamine	PARK2
+Hyoscyamine	DBH
+Hyoscyamine	NDUFV2
+Hyoscyamine	IL13
+Ibandronate	PDLIM4
+Ibritumomab	TP73L
+Ibritumomab	RAP1GDS1
+Ibritumomab	ATM
+Ibritumomab	BCL8
+Ibritumomab	BCL10
+Ibritumomab	RAD54B
+Ibritumomab	RAD54L
+Ibritumomab	FCGR2B
+Ibritumomab	MAD1L1
+Ibritumomab	MSH2
+Ibritumomab	SH2D1A
+Ibritumomab	CASP10
+Ibutilide Fumarate	KCNE2
+Ibutilide Fumarate	KCNQ1
+Ibutilide Fumarate	GATA4
+Ibutilide Fumarate	MYH6
+Ibutilide Fumarate	NKX2-5
+Icosapent	CFTR
+Icosapent	KIF21A
+Icosapent	PHOX2A
+Icosapent	CD151
+Idarubicin	TAL1
+Idarubicin	TAL2
+Idarubicin	FLT3
+Idarubicin	NBN
+Idarubicin	ZNFN1A1
+Idarubicin	HOXD4
+Idarubicin	BCR
+Idarubicin	ARNT
+Idarubicin	KRAS
+Idarubicin	GMPS
+Idarubicin	MLLT10
+Idarubicin	ARHGEF12
+Idarubicin	PICALM
+Idarubicin	CEBPA
+Idarubicin	CHIC2
+Idarubicin	KIT
+Idarubicin	LPP
+Idarubicin	NPM1
+Idarubicin	NUP214
+Idarubicin	RUNX1
+Idarubicin	WHSC1L1
+Idarubicin	MLLT11
+Idarubicin	NUMA1
+Idarubicin	ZBTB16
+Idarubicin	PML
+Idarubicin	STAT5B
+Idarubicin	ARL11
+Idarubicin	P2RX7
+Idarubicin	ARHGAP26
+Idarubicin	NF1
+Idarubicin	PTPN11
+Idarubicin	BCL2
+Idarubicin	CCND1
+Idarubicin	TRA@
+Idarubicin	GATA1
+Idarubicin	ABL1
+Idarubicin	NQO1
+Idoxuridine	PLG
+Idoxuridine	PAX6
+Iloprost	KCNMB1
+Iloprost	NR3C2
+Iloprost	AGTR1
+Iloprost	PTGIS
+Iloprost	ADD1
+Iloprost	AGT
+Iloprost	ECE1
+Iloprost	GNB3
+Iloprost	RETN
+Iloprost	HSD11B2
+Iloprost	NOS3
+Iloprost	CYP3A5
+Iloprost	BMPR2
+Imatinib	KIT
+Imatinib	PDGFRA
+Imatinib	TAL1
+Imatinib	TAL2
+Imatinib	FLT3
+Imatinib	NBN
+Imatinib	ZNFN1A1
+Imatinib	HOXD4
+Imatinib	BCR
+Imatinib	ARNT
+Imatinib	KRAS
+Imatinib	GMPS
+Imatinib	MLLT10
+Imatinib	ARHGEF12
+Imatinib	PICALM
+Imatinib	CEBPA
+Imatinib	CHIC2
+Imatinib	KIT
+Imatinib	LPP
+Imatinib	NPM1
+Imatinib	NUP214
+Imatinib	RUNX1
+Imatinib	WHSC1L1
+Imatinib	MLLT11
+Imatinib	NUMA1
+Imatinib	ZBTB16
+Imatinib	PML
+Imatinib	STAT5B
+Imatinib	ARL11
+Imatinib	P2RX7
+Imatinib	ARHGAP26
+Imatinib	NF1
+Imatinib	PTPN11
+Imatinib	BCL2
+Imatinib	CCND1
+Imatinib	TRA@
+Imatinib	GATA1
+Imatinib	ABL1
+Imatinib	NQO1
+Imatinib	ZNF198
+Imiglucerase	GBA
+Imiglucerase	PSAP
+Immune globulin	TAL1
+Immune globulin	TAL2
+Immune globulin	FLT3
+Immune globulin	NBN
+Immune globulin	ZNFN1A1
+Immune globulin	HOXD4
+Immune globulin	BCR
+Immune globulin	ARNT
+Immune globulin	KRAS
+Immune globulin	GMPS
+Immune globulin	MLLT10
+Immune globulin	ARHGEF12
+Immune globulin	PICALM
+Immune globulin	CEBPA
+Immune globulin	CHIC2
+Immune globulin	KIT
+Immune globulin	LPP
+Immune globulin	NPM1
+Immune globulin	NUP214
+Immune globulin	RUNX1
+Immune globulin	WHSC1L1
+Immune globulin	MLLT11
+Immune globulin	NUMA1
+Immune globulin	ZBTB16
+Immune globulin	PML
+Immune globulin	STAT5B
+Immune globulin	ARL11
+Immune globulin	P2RX7
+Immune globulin	ARHGAP26
+Immune globulin	NF1
+Immune globulin	PTPN11
+Immune globulin	BCL2
+Immune globulin	CCND1
+Immune globulin	TRA@
+Immune globulin	GATA1
+Immune globulin	ABL1
+Immune globulin	NQO1
+Indapamide	ADRA2C
+Indapamide	ADRB1
+Indapamide	KCNMB1
+Indapamide	NR3C2
+Indapamide	AGTR1
+Indapamide	PTGIS
+Indapamide	ADD1
+Indapamide	AGT
+Indapamide	ECE1
+Indapamide	GNB3
+Indapamide	RETN
+Indapamide	HSD11B2
+Indapamide	NOS3
+Indapamide	CYP3A5
+Indecainide	GNAI2
+Indecainide	CASQ2
+Indecainide	RYR2
+Indinavir	CCL5
+Indinavir	IL10
+Indinavir	CCR2
+Indinavir	CCR5
+Indomethacin	MATN3
+Indomethacin	FRZB
+Indomethacin	ASPN
+Indomethacin	COL2A1
+Indomethacin	IL10
+Indomethacin	CIITA
+Indomethacin	NFKBIL1
+Indomethacin	PADI4
+Indomethacin	PTPN22
+Indomethacin	RUNX1
+Indomethacin	SLC22A4
+Indomethacin	MIF
+Infliximab	CARD15
+Infliximab	DLG5
+Interferon alfa-2a	KIR3DL1
+Interferon alfa-2a	IFNG
+Interferon alfa-2a	CXCL12
+Interferon alfa-2a	IL6
+Interferon alfa-2a	TAL1
+Interferon alfa-2a	TAL2
+Interferon alfa-2a	FLT3
+Interferon alfa-2a	NBN
+Interferon alfa-2a	ZNFN1A1
+Interferon alfa-2a	HOXD4
+Interferon alfa-2a	BCR
+Interferon alfa-2a	ARNT
+Interferon alfa-2a	KRAS
+Interferon alfa-2a	GMPS
+Interferon alfa-2a	MLLT10
+Interferon alfa-2a	ARHGEF12
+Interferon alfa-2a	PICALM
+Interferon alfa-2a	CEBPA
+Interferon alfa-2a	CHIC2
+Interferon alfa-2a	KIT
+Interferon alfa-2a	LPP
+Interferon alfa-2a	NPM1
+Interferon alfa-2a	NUP214
+Interferon alfa-2a	RUNX1
+Interferon alfa-2a	WHSC1L1
+Interferon alfa-2a	MLLT11
+Interferon alfa-2a	NUMA1
+Interferon alfa-2a	ZBTB16
+Interferon alfa-2a	PML
+Interferon alfa-2a	STAT5B
+Interferon alfa-2a	ARL11
+Interferon alfa-2a	P2RX7
+Interferon alfa-2a	ARHGAP26
+Interferon alfa-2a	NF1
+Interferon alfa-2a	PTPN11
+Interferon alfa-2a	BCL2
+Interferon alfa-2a	CCND1
+Interferon alfa-2a	TRA@
+Interferon alfa-2a	GATA1
+Interferon alfa-2a	ABL1
+Interferon alfa-2a	NQO1
+Interferon alfa-2a	ACSL6
+Interferon alfa-2a	IRF1
+Interferon alfa-2a	CBFB
+Interferon alfa-2a	CSF1R
+Interferon alfa-2b	KIR3DL1
+Interferon alfa-2b	IFNG
+Interferon alfa-2b	CXCL12
+Interferon alfa-2b	IL6
+Interferon alfa-2b	TAL1
+Interferon alfa-2b	TAL2
+Interferon alfa-2b	FLT3
+Interferon alfa-2b	NBN
+Interferon alfa-2b	ZNFN1A1
+Interferon alfa-2b	HOXD4
+Interferon alfa-2b	BCR
+Interferon alfa-2b	ARNT
+Interferon alfa-2b	KRAS
+Interferon alfa-2b	GMPS
+Interferon alfa-2b	MLLT10
+Interferon alfa-2b	ARHGEF12
+Interferon alfa-2b	PICALM
+Interferon alfa-2b	CEBPA
+Interferon alfa-2b	CHIC2
+Interferon alfa-2b	KIT
+Interferon alfa-2b	LPP
+Interferon alfa-2b	NPM1
+Interferon alfa-2b	NUP214
+Interferon alfa-2b	RUNX1
+Interferon alfa-2b	WHSC1L1
+Interferon alfa-2b	MLLT11
+Interferon alfa-2b	NUMA1
+Interferon alfa-2b	ZBTB16
+Interferon alfa-2b	PML
+Interferon alfa-2b	STAT5B
+Interferon alfa-2b	ARL11
+Interferon alfa-2b	P2RX7
+Interferon alfa-2b	ARHGAP26
+Interferon alfa-2b	NF1
+Interferon alfa-2b	PTPN11
+Interferon alfa-2b	BCL2
+Interferon alfa-2b	CCND1
+Interferon alfa-2b	TRA@
+Interferon alfa-2b	GATA1
+Interferon alfa-2b	ABL1
+Interferon alfa-2b	NQO1
+Interferon alfa-2b	CDK4
+Interferon alfa-2b	CDKN2A
+Interferon alfa-2b	XRCC3
+Interferon alfa-2b	STK11
+Interferon alfa-2b	BRAF
+Interferon alfacon-1	KIR3DL1
+Interferon alfacon-1	IFNG
+Interferon alfacon-1	CXCL12
+Interferon alfacon-1	IL6
+Interferon alfacon-1	TAL1
+Interferon alfacon-1	TAL2
+Interferon alfacon-1	FLT3
+Interferon alfacon-1	NBN
+Interferon alfacon-1	ZNFN1A1
+Interferon alfacon-1	HOXD4
+Interferon alfacon-1	BCR
+Interferon alfacon-1	ARNT
+Interferon alfacon-1	KRAS
+Interferon alfacon-1	GMPS
+Interferon alfacon-1	MLLT10
+Interferon alfacon-1	ARHGEF12
+Interferon alfacon-1	PICALM
+Interferon alfacon-1	CEBPA
+Interferon alfacon-1	CHIC2
+Interferon alfacon-1	KIT
+Interferon alfacon-1	LPP
+Interferon alfacon-1	NPM1
+Interferon alfacon-1	NUP214
+Interferon alfacon-1	RUNX1
+Interferon alfacon-1	WHSC1L1
+Interferon alfacon-1	MLLT11
+Interferon alfacon-1	NUMA1
+Interferon alfacon-1	ZBTB16
+Interferon alfacon-1	PML
+Interferon alfacon-1	STAT5B
+Interferon alfacon-1	ARL11
+Interferon alfacon-1	P2RX7
+Interferon alfacon-1	ARHGAP26
+Interferon alfacon-1	NF1
+Interferon alfacon-1	PTPN11
+Interferon alfacon-1	BCL2
+Interferon alfacon-1	CCND1
+Interferon alfacon-1	TRA@
+Interferon alfacon-1	GATA1
+Interferon alfacon-1	ABL1
+Interferon alfacon-1	NQO1
+Interferon alfacon-1	CDK4
+Interferon alfacon-1	CDKN2A
+Interferon alfacon-1	XRCC3
+Interferon alfacon-1	STK11
+Interferon alfacon-1	BRAF
+Interferon alfa-n3	KIR3DL1
+Interferon alfa-n3	IFNG
+Interferon alfa-n3	CXCL12
+Interferon alfa-n3	IL6
+Interferon alfa-n3	TAL1
+Interferon alfa-n3	TAL2
+Interferon alfa-n3	FLT3
+Interferon alfa-n3	NBN
+Interferon alfa-n3	ZNFN1A1
+Interferon alfa-n3	HOXD4
+Interferon alfa-n3	BCR
+Interferon alfa-n3	ARNT
+Interferon alfa-n3	KRAS
+Interferon alfa-n3	GMPS
+Interferon alfa-n3	MLLT10
+Interferon alfa-n3	ARHGEF12
+Interferon alfa-n3	PICALM
+Interferon alfa-n3	CEBPA
+Interferon alfa-n3	CHIC2
+Interferon alfa-n3	KIT
+Interferon alfa-n3	LPP
+Interferon alfa-n3	NPM1
+Interferon alfa-n3	NUP214
+Interferon alfa-n3	RUNX1
+Interferon alfa-n3	WHSC1L1
+Interferon alfa-n3	MLLT11
+Interferon alfa-n3	NUMA1
+Interferon alfa-n3	ZBTB16
+Interferon alfa-n3	PML
+Interferon alfa-n3	STAT5B
+Interferon alfa-n3	ARL11
+Interferon alfa-n3	P2RX7
+Interferon alfa-n3	ARHGAP26
+Interferon alfa-n3	NF1
+Interferon alfa-n3	PTPN11
+Interferon alfa-n3	BCL2
+Interferon alfa-n3	CCND1
+Interferon alfa-n3	TRA@
+Interferon alfa-n3	GATA1
+Interferon alfa-n3	ABL1
+Interferon alfa-n3	NQO1
+Interferon alfa-n3	CDK4
+Interferon alfa-n3	CDKN2A
+Interferon alfa-n3	XRCC3
+Interferon alfa-n3	STK11
+Interferon alfa-n3	BRAF
+Interferon beta-1a	CIITA
+Interferon beta-1a	PTPRC
+Interferon beta-1b	CIITA
+Interferon beta-1b	PTPRC
+Interferon gamma-1b	CYBA
+Interferon gamma-1b	NCF1
+Interferon gamma-1b	NCF2
+Interferon gamma-1b	CYBB
+Interferon gamma-1b	LRP5
+Interferon gamma-1b	CLCN7
+Interferon gamma-1b	OSTM1
+Interferon gamma-1b	TCIRG1
+Inulin	ABCC8
+Inulin	TCF1
+Inulin	SUMO4
+Inulin	PTPN22
+Inulin	INSR
+Inulin	PPARG
+Inulin	GCK
+Inulin	GCGR
+Inulin	GPD2
+Inulin	HNF4A
+Inulin	IRS2
+Inulin	MAPK8IP1
+Inulin	NEUROD1
+Inulin	TCF2
+Inulin	IRS1
+Inulin	SLC2A2
+Inulin	SLC2A4
+Inulin	CAPN10
+Inulin	ENPP1
+Inulin	RETN
+Inulin	PTF1A
+Inulin	KCNJ11
+Inulin	AKT2
+Inulin	IPF1
+Inulin	FOXP3
+Inulin	ACE
+Inulin	VEGF
+Ipratropium	SERPINA1
+Irbesartan	KCNMB1
+Irbesartan	NR3C2
+Irbesartan	AGTR1
+Irbesartan	PTGIS
+Irbesartan	ADD1
+Irbesartan	AGT
+Irbesartan	ECE1
+Irbesartan	GNB3
+Irbesartan	RETN
+Irbesartan	HSD11B2
+Irbesartan	NOS3
+Irbesartan	CYP3A5
+Iron Dextran	TF
+Iron Dextran	FTH1
+Isoetharine	PHF11
+Isoetharine	MS4A2
+Isoetharine	ALOX5
+Isoetharine	ADRB2
+Isoetharine	PTGDR
+Isoetharine	GPR154
+Isoetharine	HNMT
+Isoetharine	IL12B
+Isoetharine	IL13
+Isoetharine	PLA2G7
+Isoetharine	SCGB3A2
+Isoetharine	TNF
+Isoetharine	SCGB1A1
+Isoflurophate	MYOC
+Isoflurophate	OPTN
+Isoflurophate	CYP1B1
+Isoflurophate	OPA1
+Isoniazid	IFNGR1
+Isoniazid	IFNG
+Isoproterenol	PHF11
+Isoproterenol	MS4A2
+Isoproterenol	ALOX5
+Isoproterenol	ADRB2
+Isoproterenol	PTGDR
+Isoproterenol	GPR154
+Isoproterenol	HNMT
+Isoproterenol	IL12B
+Isoproterenol	IL13
+Isoproterenol	PLA2G7
+Isoproterenol	SCGB3A2
+Isoproterenol	TNF
+Isoproterenol	SCGB1A1
+Isoproterenol	SCN5A
+Isosorbide Dinitrate	MEF2A
+Isosorbide Dinitrate	ABCA1
+Isosorbide Dinitrate	KL
+Isosorbide Dinitrate	PON1
+Isosorbide Dinitrate	PON2
+Isosorbide Dinitrate	MMP3
+Isosorbide Mononitrate	MEF2A
+Isosorbide Mononitrate	ABCA1
+Isosorbide Mononitrate	KL
+Isosorbide Mononitrate	PON1
+Isosorbide Mononitrate	PON2
+Isosorbide Mononitrate	MMP3
+Isosorbide Mononitrate	KCNMB1
+Isosorbide Mononitrate	NR3C2
+Isosorbide Mononitrate	AGTR1
+Isosorbide Mononitrate	PTGIS
+Isosorbide Mononitrate	ADD1
+Isosorbide Mononitrate	AGT
+Isosorbide Mononitrate	ECE1
+Isosorbide Mononitrate	GNB3
+Isosorbide Mononitrate	RETN
+Isosorbide Mononitrate	HSD11B2
+Isosorbide Mononitrate	NOS3
+Isosorbide Mononitrate	CYP3A5
+Isosorbide Mononitrate	F7
+Isosorbide Mononitrate	APOE
+Isosorbide Mononitrate	ACE
+Isosorbide Mononitrate	ALOX5AP
+Isosorbide Mononitrate	LGALS2
+Isosorbide Mononitrate	LTA
+Isosorbide Mononitrate	OLR1
+Isosorbide Mononitrate	THBD
+Isosorbide Mononitrate	GCLM
+Isosorbide Mononitrate	TNFSF4
+Isradipine	KCNMB1
+Isradipine	NR3C2
+Isradipine	AGTR1
+Isradipine	PTGIS
+Isradipine	ADD1
+Isradipine	AGT
+Isradipine	ECE1
+Isradipine	GNB3
+Isradipine	RETN
+Isradipine	HSD11B2
+Isradipine	NOS3
+Isradipine	CYP3A5
+Ketoconazole	MBL2
+Ketoprofen	MATN3
+Ketoprofen	FRZB
+Ketoprofen	ASPN
+Ketoprofen	COL2A1
+Ketoprofen	IL10
+Ketoprofen	CIITA
+Ketoprofen	NFKBIL1
+Ketoprofen	PADI4
+Ketoprofen	PTPN22
+Ketoprofen	RUNX1
+Ketoprofen	SLC22A4
+Ketoprofen	MIF
+Ketotifen Fumarate	PHF11
+Ketotifen Fumarate	MS4A2
+Ketotifen Fumarate	ALOX5
+Ketotifen Fumarate	ADRB2
+Ketotifen Fumarate	PTGDR
+Ketotifen Fumarate	GPR154
+Ketotifen Fumarate	HNMT
+Ketotifen Fumarate	IL12B
+Ketotifen Fumarate	IL13
+Ketotifen Fumarate	PLA2G7
+Ketotifen Fumarate	SCGB3A2
+Ketotifen Fumarate	TNF
+Ketotifen Fumarate	SCGB1A1
+Ketotifen Fumarate	PLG
+Labetalol	KCNMB1
+Labetalol	NR3C2
+Labetalol	AGTR1
+Labetalol	PTGIS
+Labetalol	ADD1
+Labetalol	AGT
+Labetalol	ECE1
+Labetalol	GNB3
+Labetalol	RETN
+Labetalol	HSD11B2
+Labetalol	NOS3
+Labetalol	CYP3A5
+Lactulose	SERPINI1
+Lactulose	COX10
+L-Alanine	PROS1
+Lamivudine	CCL5
+Lamivudine	IL10
+Lamivudine	CCR2
+Lamivudine	CCR5
+Lamotrigine	XBP1
+Lamotrigine	KCNQ2
+Lamotrigine	KCNQ3
+Lamotrigine	GABRG2
+Lamotrigine	CLCN2
+Lamotrigine	JRK
+Lamotrigine	CACNB4
+Lamotrigine	SCN1A
+Lamotrigine	ME2
+Lamotrigine	GABRA1
+Lamotrigine	EPM2A
+Lamotrigine	NHLRC1
+Lamotrigine	SLC25A22
+Lamotrigine	CHRNA4
+Lamotrigine	CHRNB2
+Lamotrigine	LGI1
+Lamotrigine	CSTB
+Lamotrigine	SYN1
+Lamotrigine	KCNMA1
+Lamotrigine	SCN1B
+Lamotrigine	SCN2A1
+Laronidase	IDUA
+Laronidase	IDS
+Laronidase	GALNS
+Laronidase	GLB1
+Laronidase	GNS
+Laronidase	HYAL1
+Laronidase	GUSB
+L-Aspartic Acid	KIR3DL1
+L-Aspartic Acid	IFNG
+L-Aspartic Acid	CXCL12
+Latanoprost	MYOC
+Latanoprost	OPTN
+Latanoprost	CYP1B1
+Latanoprost	OPA1
+Latanoprost	KCNMB1
+Latanoprost	NR3C2
+Latanoprost	AGTR1
+Latanoprost	PTGIS
+Latanoprost	ADD1
+Latanoprost	AGT
+Latanoprost	ECE1
+Latanoprost	GNB3
+Latanoprost	RETN
+Latanoprost	HSD11B2
+Latanoprost	NOS3
+Latanoprost	CYP3A5
+L-Cystine	MATN3
+L-Cystine	FRZB
+L-Cystine	ASPN
+L-Cystine	COL2A1
+L-Cystine	IL10
+L-Cystine	CIITA
+L-Cystine	NFKBIL1
+L-Cystine	PADI4
+L-Cystine	PTPN22
+L-Cystine	RUNX1
+L-Cystine	SLC22A4
+L-Cystine	MIF
+Leflunomide	IL10
+Leflunomide	CIITA
+Leflunomide	NFKBIL1
+Leflunomide	PADI4
+Leflunomide	PTPN22
+Leflunomide	RUNX1
+Leflunomide	SLC22A4
+Leflunomide	MIF
+Lepirudin	MASTL
+Lepirudin	MPL
+Lepirudin	WAS
+Lepirudin	F5
+Lercanidipine	KCNMB1
+Lercanidipine	NR3C2
+Lercanidipine	AGTR1
+Lercanidipine	PTGIS
+Lercanidipine	ADD1
+Lercanidipine	AGT
+Lercanidipine	ECE1
+Lercanidipine	GNB3
+Lercanidipine	RETN
+Lercanidipine	HSD11B2
+Lercanidipine	NOS3
+Lercanidipine	CYP3A5
+Letrozole	CHEK2
+Letrozole	PIK3CA
+Letrozole	PPM1D
+Letrozole	SLC22A18
+Letrozole	TP53
+Letrozole	BRCA1
+Letrozole	BRCA2
+Letrozole	TSG101
+Letrozole	BRIP1
+Letrozole	RAD54L
+Letrozole	CDH1
+Letrozole	AR
+Letrozole	KRAS
+Letrozole	RB1CC1
+Letrozole	PHB
+Letrozole	ATM
+Letrozole	BARD1
+Letrozole	RAD51
+Letrozole	XRCC3
+Leucovorin	CDAN1
+Leucovorin	RPS19
+Leucovorin	PKLR
+Leucovorin	NT5C3
+Leucovorin	RHAG
+Leucovorin	SLC11A2
+Leucovorin	SPTB
+Leucovorin	ALAS2
+Leucovorin	ABCB7
+Leucovorin	DPYD
+Leucovorin	CUBN
+Leucovorin	AMN
+Leucovorin	TP53
+Leucovorin	CHEK2
+Leuprolide	RNASEL
+Leuprolide	BRCA2
+Leuprolide	PTEN
+Leuprolide	AR
+Leuprolide	CHEK2
+Leuprolide	MSR1
+Leuprolide	EPHB2
+Leuprolide	KLF6
+Leuprolide	MAD1L1
+Leuprolide	ATBF1
+Leuprolide	ELAC2
+Leuprolide	MXI1
+Levamisole	RAD54B
+Levamisole	RAD54L
+Levamisole	BCL10
+Levamisole	PTPN12
+Levamisole	TGFBR2
+Levamisole	SRC
+Levamisole	MLH3
+Levamisole	PTPRJ
+Levamisole	ODC1
+Levamisole	MUTYH
+Levamisole	AXIN2
+Levamisole	BUB1B
+Levamisole	EP300
+Levamisole	PDGFRL
+Levamisole	PIK3CA
+Levamisole	TP53
+Levamisole	APC
+Levamisole	BAX
+Levamisole	CTNNB1
+Levamisole	DCC
+Levamisole	MCC
+Levamisole	NRAS
+Levamisole	MSH2
+Levamisole	MLH1
+Levamisole	PMS1
+Levamisole	PMS2
+Levamisole	MSH6
+Levamisole	FGFR3
+Levamisole	FLCN
+Levamisole	BRAF
+Levamisole	DLC1
+Levamisole	PLA2G2A
+Levamisole	CCND1
+Levamisole	BUB1
+Levamisole	CDK4
+Levamisole	CDKN2A
+Levamisole	XRCC3
+Levamisole	STK11
+Levamisole	BRAF
+Levetiracetam	KCNQ2
+Levetiracetam	KCNQ3
+Levetiracetam	GABRG2
+Levetiracetam	CLCN2
+Levetiracetam	JRK
+Levetiracetam	CACNB4
+Levetiracetam	SCN1A
+Levetiracetam	ME2
+Levetiracetam	GABRA1
+Levetiracetam	EPM2A
+Levetiracetam	NHLRC1
+Levetiracetam	SLC25A22
+Levetiracetam	CHRNA4
+Levetiracetam	CHRNB2
+Levetiracetam	LGI1
+Levetiracetam	CSTB
+Levetiracetam	SYN1
+Levetiracetam	SCN2A1
+Levobunolol	MYOC
+Levobunolol	OPTN
+Levobunolol	CYP1B1
+Levobunolol	OPA1
+Levobunolol	KCNMB1
+Levobunolol	NR3C2
+Levobunolol	AGTR1
+Levobunolol	PTGIS
+Levobunolol	ADD1
+Levobunolol	AGT
+Levobunolol	ECE1
+Levobunolol	GNB3
+Levobunolol	RETN
+Levobunolol	HSD11B2
+Levobunolol	NOS3
+Levobunolol	CYP3A5
+Levocabastine	PLG
+Levocabastine	IL13
+Levocarnitine	ACADL
+Levocarnitine	ACADM
+Levocarnitine	ACADS
+Levocarnitine	SLC22A5
+Levocarnitine	APOC2
+Levocarnitine	APOE
+Levocarnitine	PROS1
+Levodopa	NR4A2
+Levodopa	SNCAIP
+Levodopa	TBP
+Levodopa	SNCA
+Levodopa	PARK7
+Levodopa	LRRK2
+Levodopa	PINK1
+Levodopa	UCHL1
+Levodopa	PARK2
+Levodopa	DBH
+Levodopa	NDUFV2
+Levothyroxine	TPO
+Levothyroxine	TG
+Levothyroxine	CTLA4
+Levothyroxine	SLC5A5
+Levothyroxine	DUOX2
+Levothyroxine	PAX8
+Levothyroxine	TSHR
+Levothyroxine	TG
+Levothyroxine	TSHB
+L-Glutamic Acid	PROS1
+L-Histidine	CDAN1
+L-Histidine	RPS19
+L-Histidine	PKLR
+L-Histidine	NT5C3
+L-Histidine	RHAG
+L-Histidine	SLC11A2
+L-Histidine	SPTB
+L-Histidine	ALAS2
+L-Histidine	ABCB7
+L-Histidine	IL10
+L-Histidine	CIITA
+L-Histidine	NFKBIL1
+L-Histidine	PADI4
+L-Histidine	PTPN22
+L-Histidine	RUNX1
+L-Histidine	SLC22A4
+L-Histidine	MIF
+Liothyronine	CTLA4
+Liothyronine	SLC5A5
+Liothyronine	DUOX2
+Liothyronine	PAX8
+Liothyronine	TSHR
+Liothyronine	TG
+Liothyronine	TSHB
+Lisinopril	KCNMB1
+Lisinopril	NR3C2
+Lisinopril	AGTR1
+Lisinopril	PTGIS
+Lisinopril	ADD1
+Lisinopril	AGT
+Lisinopril	ECE1
+Lisinopril	GNB3
+Lisinopril	RETN
+Lisinopril	HSD11B2
+Lisinopril	NOS3
+Lisinopril	CYP3A5
+Lisinopril	F7
+Lisinopril	APOE
+Lisinopril	ACE
+Lisinopril	ALOX5AP
+Lisinopril	LGALS2
+Lisinopril	LTA
+Lisinopril	OLR1
+Lisinopril	THBD
+Lisinopril	GCLM
+Lisinopril	TNFSF4
+L-Isoleucine	SERPINI1
+L-Isoleucine	COX10
+Lisuride	NR4A2
+Lisuride	SNCAIP
+Lisuride	TBP
+Lisuride	SNCA
+Lisuride	PARK7
+Lisuride	LRRK2
+Lisuride	PINK1
+Lisuride	UCHL1
+Lisuride	PARK2
+Lisuride	DBH
+Lisuride	NDUFV2
+L-Leucine	MTR
+L-Leucine	PROS1
+L-Methionine	PROS1
+Lomefloxacin	MBL2
+Lomustine	BCL7A
+Lomustine	CHEK2
+Lomustine	PIK3CA
+Lomustine	PPM1D
+Lomustine	SLC22A18
+Lomustine	TP53
+Lomustine	BRCA1
+Lomustine	BRCA2
+Lomustine	TSG101
+Lomustine	BRIP1
+Lomustine	RAD54L
+Lomustine	CDH1
+Lomustine	AR
+Lomustine	KRAS
+Lomustine	RB1CC1
+Lomustine	PHB
+Lomustine	ATM
+Lomustine	BARD1
+Lomustine	RAD51
+Lomustine	XRCC3
+Lomustine	TP73L
+Lomustine	KRAS
+Lomustine	PPP2R1B
+Lomustine	SLC22A18
+Lomustine	MAP3K8
+Lomustine	RAP1GDS1
+Lomustine	ATM
+Lomustine	BCL8
+Lomustine	BCL10
+Lomustine	RAD54B
+Lomustine	RAD54L
+Lomustine	FCGR2B
+Lomustine	MAD1L1
+Lomustine	MSH2
+Lomustine	SH2D1A
+Lomustine	CDK4
+Lomustine	CDKN2A
+Lomustine	XRCC3
+Lomustine	STK11
+Lomustine	BRAF
+Lomustine	IRF4
+Lomustine	LIG4
+Lomustine	CASP10
+Lomustine	BRCA1
+Lomustine	MSH2
+Lomustine	PIK3CA
+Lomustine	MSH6
+Lomustine	ERBB2
+Lomustine	CDH1
+Lomustine	RRAS2
+Lomustine	CTNNB1
+Lomustine	ARMET
+Lomustine	BRCA2
+Lomustine	TP53
+Lomustine	SMAD4
+Lomustine	CDKN2A
+Lomustine	ACVR1B
+Lomustine	STK11
+Lomustine	KRAS
+Lomustine	RBBP8
+Loperamide	CHD7
+Loracarbef	MBL2
+Loratadine	IL13
+Losartan	KCNMB1
+Losartan	NR3C2
+Losartan	AGTR1
+Losartan	PTGIS
+Losartan	ADD1
+Losartan	AGT
+Losartan	ECE1
+Losartan	GNB3
+Losartan	RETN
+Losartan	HSD11B2
+Losartan	NOS3
+Losartan	CYP3A5
+Loteprednol Etabonate	PLG
+Loteprednol Etabonate	PAX6
+Loteprednol Etabonate	IL13
+Lovastatin	APOB
+Lovastatin	LDLR
+Lovastatin	PCSK9
+Lovastatin	LDLRAP1
+Lovastatin	EPHX2
+Lovastatin	APOA2
+Lovastatin	C7orf16
+Lovastatin	ITIH4
+L-Threonine	KIR3DL1
+L-Threonine	IFNG
+L-Threonine	CXCL12
+L-Threonine	PROS1
+L-Tyrosine	HCRT
+L-Valine	SERPINI1
+L-Valine	COX10
+L-Valine	PAH
+L-Valine	QDPR
+L-Valine	PTS
+Magnesium Sulfate	MASS1
+Magnesium Sulfate	CASR
+Magnesium Sulfate	FXYD2
+Magnesium Sulfate	CLDN16
+Magnesium Sulfate	TRPM6
+Marinol	KIR3DL1
+Marinol	IFNG
+Marinol	CXCL12
+Mazindol	CFH
+Mazindol	MCFD2
+Mazindol	F7
+Mazindol	F10
+Mazindol	F11
+Mazindol	F12
+Mazindol	F13A1
+Mazindol	F13B
+Mazindol	USF1
+Mazindol	KCNMB1
+Mazindol	NR3C2
+Mazindol	AGTR1
+Mazindol	PTGIS
+Mazindol	ADD1
+Mazindol	AGT
+Mazindol	ECE1
+Mazindol	GNB3
+Mazindol	RETN
+Mazindol	HSD11B2
+Mazindol	NOS3
+Mazindol	CYP3A5
+Mazindol	FBN1
+Mazindol	POMC
+Mazindol	MC4R
+Mazindol	AKR1C2
+Mazindol	NTRK2
+Mazindol	AGRP
+Mazindol	NR0B2
+Mazindol	LEP
+Mazindol	LEPR
+Mazindol	PPARG
+Mazindol	SIM1
+Mazindol	UCP3
+Mazindol	MC3R
+Mazindol	SLC6A14
+Mazindol	ADRB2
+Mazindol	ADRB3
+Mazindol	CART
+Mazindol	ENPP1
+Mazindol	GHRL
+Mazindol	UCP1
+Mazindol	UCP2
+Mazindol	PCSK1
+Mecamylamine	KCNMB1
+Mecamylamine	NR3C2
+Mecamylamine	AGTR1
+Mecamylamine	PTGIS
+Mecamylamine	ADD1
+Mecamylamine	AGT
+Mecamylamine	ECE1
+Mecamylamine	GNB3
+Mecamylamine	RETN
+Mecamylamine	HSD11B2
+Mecamylamine	NOS3
+Mecamylamine	CYP3A5
+Mechlorethamine	TP73L
+Mechlorethamine	TAL1
+Mechlorethamine	TAL2
+Mechlorethamine	FLT3
+Mechlorethamine	NBN
+Mechlorethamine	ZNFN1A1
+Mechlorethamine	HOXD4
+Mechlorethamine	BCR
+Mechlorethamine	ARNT
+Mechlorethamine	KRAS
+Mechlorethamine	GMPS
+Mechlorethamine	MLLT10
+Mechlorethamine	ARHGEF12
+Mechlorethamine	PICALM
+Mechlorethamine	CEBPA
+Mechlorethamine	CHIC2
+Mechlorethamine	KIT
+Mechlorethamine	LPP
+Mechlorethamine	NPM1
+Mechlorethamine	NUP214
+Mechlorethamine	RUNX1
+Mechlorethamine	WHSC1L1
+Mechlorethamine	MLLT11
+Mechlorethamine	NUMA1
+Mechlorethamine	ZBTB16
+Mechlorethamine	PML
+Mechlorethamine	STAT5B
+Mechlorethamine	ARL11
+Mechlorethamine	P2RX7
+Mechlorethamine	ARHGAP26
+Mechlorethamine	NF1
+Mechlorethamine	PTPN11
+Mechlorethamine	BCL2
+Mechlorethamine	CCND1
+Mechlorethamine	TRA@
+Mechlorethamine	GATA1
+Mechlorethamine	ABL1
+Mechlorethamine	NQO1
+Mechlorethamine	VHL
+Mechlorethamine	JAK2
+Meclofenamate	MATN3
+Meclofenamate	FRZB
+Meclofenamate	ASPN
+Meclofenamate	COL2A1
+Meclofenamate	IL10
+Meclofenamate	CIITA
+Meclofenamate	NFKBIL1
+Meclofenamate	PADI4
+Meclofenamate	PTPN22
+Meclofenamate	RUNX1
+Meclofenamate	SLC22A4
+Meclofenamate	MIF
+Medrysone	PLG
+Mefenamic acid	MATN3
+Mefenamic acid	FRZB
+Mefenamic acid	ASPN
+Mefenamic acid	COL2A1
+Mefenamic acid	IL10
+Mefenamic acid	CIITA
+Mefenamic acid	NFKBIL1
+Mefenamic acid	PADI4
+Mefenamic acid	PTPN22
+Mefenamic acid	RUNX1
+Mefenamic acid	SLC22A4
+Mefenamic acid	MIF
+Mefloquine	CD36
+Mefloquine	ICAM1
+Mefloquine	TNF
+Mefloquine	GYPC
+Mefloquine	NOS2A
+Megestrol	KIR3DL1
+Megestrol	IFNG
+Megestrol	CXCL12
+Megestrol	CHEK2
+Megestrol	PIK3CA
+Megestrol	PPM1D
+Megestrol	SLC22A18
+Megestrol	TP53
+Megestrol	BRCA1
+Megestrol	BRCA2
+Megestrol	TSG101
+Megestrol	BRIP1
+Megestrol	RAD54L
+Megestrol	CDH1
+Megestrol	AR
+Megestrol	KRAS
+Megestrol	RB1CC1
+Megestrol	PHB
+Megestrol	ATM
+Megestrol	BARD1
+Megestrol	RAD51
+Megestrol	XRCC3
+Megestrol	CD3E
+Megestrol	CD3G
+Megestrol	AICDA
+Megestrol	CD40
+Megestrol	UNG
+Megestrol	CD40LG
+Megestrol	RNASEL
+Megestrol	BRCA2
+Megestrol	PTEN
+Megestrol	AR
+Megestrol	CHEK2
+Megestrol	MSR1
+Megestrol	EPHB2
+Megestrol	KLF6
+Megestrol	MAD1L1
+Megestrol	ATBF1
+Megestrol	ELAC2
+Megestrol	MXI1
+Melatonin	GABRB3
+Melatonin	PRNP
+Meloxicam	MATN3
+Meloxicam	FRZB
+Meloxicam	ASPN
+Meloxicam	COL2A1
+Memantine	APP
+Memantine	APOE
+Memantine	PSEN2
+Memantine	APBB2
+Memantine	NOS3
+Memantine	PLAU
+Memantine	ACE
+Memantine	MPO
+Memantine	PAXIP1
+Memantine	A2M
+Memantine	BLMH
+Memantine	PSEN1
+Memantine	ITM2B
+Memantine	PSEN1
+Memantine	MAPT
+Memantine	SNCA
+Memantine	SNCB
+Memantine	TNF
+Mephenytoin	KCNQ2
+Mephenytoin	KCNQ3
+Mephenytoin	GABRG2
+Mephenytoin	CLCN2
+Mephenytoin	JRK
+Mephenytoin	CACNB4
+Mephenytoin	SCN1A
+Mephenytoin	ME2
+Mephenytoin	GABRA1
+Mephenytoin	EPM2A
+Mephenytoin	NHLRC1
+Mephenytoin	SLC25A22
+Mephenytoin	CHRNA4
+Mephenytoin	CHRNB2
+Mephenytoin	LGI1
+Mephenytoin	CSTB
+Mephenytoin	SYN1
+Mequitazine	CCL5
+Mequitazine	IL10
+Mequitazine	CCR2
+Mequitazine	CCR5
+Mequitazine	IL13
+Mercaptopurine	TAL1
+Mercaptopurine	TAL2
+Mercaptopurine	FLT3
+Mercaptopurine	NBN
+Mercaptopurine	ZNFN1A1
+Mercaptopurine	HOXD4
+Mercaptopurine	BCR
+Mercaptopurine	ARNT
+Mercaptopurine	KRAS
+Mercaptopurine	GMPS
+Mercaptopurine	MLLT10
+Mercaptopurine	ARHGEF12
+Mercaptopurine	PICALM
+Mercaptopurine	CEBPA
+Mercaptopurine	CHIC2
+Mercaptopurine	KIT
+Mercaptopurine	LPP
+Mercaptopurine	NPM1
+Mercaptopurine	NUP214
+Mercaptopurine	RUNX1
+Mercaptopurine	WHSC1L1
+Mercaptopurine	MLLT11
+Mercaptopurine	NUMA1
+Mercaptopurine	ZBTB16
+Mercaptopurine	PML
+Mercaptopurine	STAT5B
+Mercaptopurine	ARL11
+Mercaptopurine	P2RX7
+Mercaptopurine	ARHGAP26
+Mercaptopurine	NF1
+Mercaptopurine	PTPN11
+Mercaptopurine	BCL2
+Mercaptopurine	CCND1
+Mercaptopurine	TRA@
+Mercaptopurine	GATA1
+Mercaptopurine	ABL1
+Mercaptopurine	NQO1
+Mesoridazine	GABRA2
+Mesoridazine	DISC1
+Mesoridazine	TAAR6
+Mesoridazine	APP
+Mesoridazine	COMT
+Mesoridazine	HTR2A
+Mesoridazine	RTN4R
+Mesoridazine	SYN2
+Mesoridazine	ENTH
+Mesoridazine	PRODH
+Metaproterenol	PHF11
+Metaproterenol	MS4A2
+Metaproterenol	ALOX5
+Metaproterenol	ADRB2
+Metaproterenol	PTGDR
+Metaproterenol	GPR154
+Metaproterenol	HNMT
+Metaproterenol	IL12B
+Metaproterenol	IL13
+Metaproterenol	PLA2G7
+Metaproterenol	SCGB3A2
+Metaproterenol	TNF
+Metaproterenol	SCGB1A1
+Metaproterenol	SERPINA1
+Methantheline	PRSS1
+Methantheline	SPINK1
+Methantheline	CFTR
+Metharbital	KCNQ2
+Metharbital	KCNQ3
+Metharbital	GABRG2
+Metharbital	CLCN2
+Metharbital	JRK
+Metharbital	CACNB4
+Metharbital	SCN1A
+Metharbital	ME2
+Metharbital	GABRA1
+Metharbital	EPM2A
+Metharbital	NHLRC1
+Metharbital	SLC25A22
+Metharbital	CHRNA4
+Metharbital	CHRNB2
+Metharbital	LGI1
+Metharbital	CSTB
+Metharbital	SYN1
+Methazolamide	MYOC
+Methazolamide	OPTN
+Methazolamide	CYP1B1
+Methazolamide	OPA1
+Methimazole	TPO
+Methimazole	TG
+Methimazole	CTLA4
+Methimazole	GC
+Methimazole	TPO
+Methotrexate	APC
+Methotrexate	IL10
+Methotrexate	CIITA
+Methotrexate	NFKBIL1
+Methotrexate	PADI4
+Methotrexate	PTPN22
+Methotrexate	RUNX1
+Methotrexate	SLC22A4
+Methotrexate	MIF
+Methyclothiazide	KRT18
+Methyclothiazide	KRT8
+Methyclothiazide	CIRH1A
+Methyclothiazide	ADRA2C
+Methyclothiazide	ADRB1
+Methyclothiazide	SCO1
+Methyclothiazide	KCNMB1
+Methyclothiazide	NR3C2
+Methyclothiazide	AGTR1
+Methyclothiazide	PTGIS
+Methyclothiazide	ADD1
+Methyclothiazide	AGT
+Methyclothiazide	ECE1
+Methyclothiazide	GNB3
+Methyclothiazide	RETN
+Methyclothiazide	HSD11B2
+Methyclothiazide	NOS3
+Methyclothiazide	CYP3A5
+Methyl aminolevulinate	PANK2
+Methyl aminolevulinate	MECP2
+Methyl aminolevulinate	CDKL5
+Methyldopa	KCNMB1
+Methyldopa	NR3C2
+Methyldopa	AGTR1
+Methyldopa	PTGIS
+Methyldopa	ADD1
+Methyldopa	AGT
+Methyldopa	ECE1
+Methyldopa	GNB3
+Methyldopa	RETN
+Methyldopa	HSD11B2
+Methyldopa	NOS3
+Methyldopa	CYP3A5
+Methylprednisolone	IL10
+Methylprednisolone	CIITA
+Methylprednisolone	NFKBIL1
+Methylprednisolone	PADI4
+Methylprednisolone	PTPN22
+Methylprednisolone	RUNX1
+Methylprednisolone	SLC22A4
+Methylprednisolone	MIF
+Methyprylon	GABRB3
+Methyprylon	PRNP
+Metipranolol	MYOC
+Metipranolol	OPTN
+Metipranolol	CYP1B1
+Metipranolol	OPA1
+Metipranolol	KCNMB1
+Metipranolol	NR3C2
+Metipranolol	AGTR1
+Metipranolol	PTGIS
+Metipranolol	ADD1
+Metipranolol	AGT
+Metipranolol	ECE1
+Metipranolol	GNB3
+Metipranolol	RETN
+Metipranolol	HSD11B2
+Metipranolol	NOS3
+Metipranolol	CYP3A5
+Metixene	NR4A2
+Metixene	SNCAIP
+Metixene	TBP
+Metixene	SNCA
+Metixene	PARK7
+Metixene	LRRK2
+Metixene	PINK1
+Metixene	UCHL1
+Metixene	PARK2
+Metixene	DBH
+Metixene	NDUFV2
+Metolazone	KCNMB1
+Metolazone	NR3C2
+Metolazone	AGTR1
+Metolazone	PTGIS
+Metolazone	ADD1
+Metolazone	AGT
+Metolazone	ECE1
+Metolazone	GNB3
+Metolazone	RETN
+Metolazone	HSD11B2
+Metolazone	NOS3
+Metolazone	CYP3A5
+Metoprolol	KCNMB1
+Metoprolol	NR3C2
+Metoprolol	AGTR1
+Metoprolol	PTGIS
+Metoprolol	ADD1
+Metoprolol	AGT
+Metoprolol	ECE1
+Metoprolol	GNB3
+Metoprolol	RETN
+Metoprolol	HSD11B2
+Metoprolol	NOS3
+Metoprolol	CYP3A5
+Metyrosine	SDHD
+Metyrosine	VHL
+Metyrosine	SDHB
+Mexiletine	SCN5A
+Mexiletine	GNAI2
+Mexiletine	CASQ2
+Mexiletine	RYR2
+Micafungin	ZNF198
+Mifepristone	IGF1R
+Mifepristone	IGF2
+Miglitol	ABCC8
+Miglitol	TCF1
+Miglitol	SUMO4
+Miglitol	PTPN22
+Miglitol	INSR
+Miglitol	PPARG
+Miglitol	GCK
+Miglitol	GCGR
+Miglitol	GPD2
+Miglitol	HNF4A
+Miglitol	IRS2
+Miglitol	MAPK8IP1
+Miglitol	NEUROD1
+Miglitol	TCF2
+Miglitol	IRS1
+Miglitol	SLC2A2
+Miglitol	SLC2A4
+Miglitol	CAPN10
+Miglitol	ENPP1
+Miglitol	RETN
+Miglitol	PTF1A
+Miglitol	KCNJ11
+Miglitol	AKT2
+Miglitol	IPF1
+Miglitol	FOXP3
+Miglitol	ACE
+Miglitol	VEGF
+Miglustat	GBA
+Miglustat	PSAP
+Milrinone	ADRA2C
+Milrinone	ADRB1
+Minoxidil	KCNMB1
+Minoxidil	NR3C2
+Minoxidil	AGTR1
+Minoxidil	PTGIS
+Minoxidil	ADD1
+Minoxidil	AGT
+Minoxidil	ECE1
+Minoxidil	GNB3
+Minoxidil	RETN
+Minoxidil	HSD11B2
+Minoxidil	NOS3
+Minoxidil	CYP3A5
+Mirtazapine	FKBP5
+Mitoxantrone	CIITA
+Mitoxantrone	PTPRC
+Modafinil	HCRT
+Moexipril	KCNMB1
+Moexipril	NR3C2
+Moexipril	AGTR1
+Moexipril	PTGIS
+Moexipril	ADD1
+Moexipril	AGT
+Moexipril	ECE1
+Moexipril	GNB3
+Moexipril	RETN
+Moexipril	HSD11B2
+Moexipril	NOS3
+Moexipril	CYP3A5
+Mometasone	PHF11
+Mometasone	MS4A2
+Mometasone	ALOX5
+Mometasone	ADRB2
+Mometasone	PTGDR
+Mometasone	GPR154
+Mometasone	HNMT
+Mometasone	IL12B
+Mometasone	IL13
+Mometasone	PLA2G7
+Mometasone	SCGB3A2
+Mometasone	TNF
+Mometasone	SCGB1A1
+Mometasone	IL13
+Montelukast	PHF11
+Montelukast	MS4A2
+Montelukast	ALOX5
+Montelukast	ADRB2
+Montelukast	PTGDR
+Montelukast	GPR154
+Montelukast	HNMT
+Montelukast	IL12B
+Montelukast	IL13
+Montelukast	PLA2G7
+Montelukast	SCGB3A2
+Montelukast	TNF
+Montelukast	SCGB1A1
+Moxifloxacin	MBL2
+Moxifloxacin	PLG
+Nabumetone	MATN3
+Nabumetone	FRZB
+Nabumetone	ASPN
+Nabumetone	COL2A1
+Nabumetone	IL10
+Nabumetone	CIITA
+Nabumetone	NFKBIL1
+Nabumetone	PADI4
+Nabumetone	PTPN22
+Nabumetone	RUNX1
+Nabumetone	SLC22A4
+Nabumetone	MIF
+Nadolol	KCNMB1
+Nadolol	NR3C2
+Nadolol	AGTR1
+Nadolol	PTGIS
+Nadolol	ADD1
+Nadolol	AGT
+Nadolol	ECE1
+Nadolol	GNB3
+Nadolol	RETN
+Nadolol	HSD11B2
+Nadolol	NOS3
+Nadolol	CYP3A5
+Nafarelin	LHCGR
+Naltrexone	HTR2A
+Nandrolone Phenpropionate	CDAN1
+Nandrolone Phenpropionate	RPS19
+Nandrolone Phenpropionate	PKLR
+Nandrolone Phenpropionate	NT5C3
+Nandrolone Phenpropionate	RHAG
+Nandrolone Phenpropionate	SLC11A2
+Nandrolone Phenpropionate	SPTB
+Nandrolone Phenpropionate	ALAS2
+Nandrolone Phenpropionate	ABCB7
+Nandrolone Phenpropionate	SERPING1
+Nandrolone Phenpropionate	XPNPEP2
+Nandrolone Phenpropionate	SERPINC1
+Naproxen	MATN3
+Naproxen	FRZB
+Naproxen	ASPN
+Naproxen	COL2A1
+Naproxen	IL10
+Naproxen	CIITA
+Naproxen	NFKBIL1
+Naproxen	PADI4
+Naproxen	PTPN22
+Naproxen	RUNX1
+Naproxen	SLC22A4
+Naproxen	MIF
+Naratriptan	ATP1A2
+Naratriptan	EDNRA
+Naratriptan	ESR1
+Naratriptan	TNF
+Natalizumab	CIITA
+Natalizumab	PTPRC
+Natamycin	PLG
+Natamycin	PAX6
+Nateglinide	ABCC8
+Nateglinide	TCF1
+Nateglinide	SUMO4
+Nateglinide	PTPN22
+Nateglinide	INSR
+Nateglinide	PPARG
+Nateglinide	GCK
+Nateglinide	GCGR
+Nateglinide	GPD2
+Nateglinide	HNF4A
+Nateglinide	IRS2
+Nateglinide	MAPK8IP1
+Nateglinide	NEUROD1
+Nateglinide	TCF2
+Nateglinide	IRS1
+Nateglinide	SLC2A2
+Nateglinide	SLC2A4
+Nateglinide	CAPN10
+Nateglinide	ENPP1
+Nateglinide	RETN
+Nateglinide	PTF1A
+Nateglinide	KCNJ11
+Nateglinide	AKT2
+Nateglinide	IPF1
+Nateglinide	FOXP3
+Nateglinide	ACE
+Nateglinide	VEGF
+Nedocromil	PHF11
+Nedocromil	MS4A2
+Nedocromil	ALOX5
+Nedocromil	ADRB2
+Nedocromil	PTGDR
+Nedocromil	GPR154
+Nedocromil	HNMT
+Nedocromil	IL12B
+Nedocromil	IL13
+Nedocromil	PLA2G7
+Nedocromil	SCGB3A2
+Nedocromil	TNF
+Nedocromil	SCGB1A1
+Nelfinavir	CCL5
+Nelfinavir	IL10
+Nelfinavir	CCR2
+Nelfinavir	CCR5
+Neomycin	KRT18
+Neomycin	KRT8
+Neomycin	CIRH1A
+Neomycin	SCO1
+Nevirapine	CCL5
+Nevirapine	IL10
+Nevirapine	CCR2
+Nevirapine	CCR5
+Nevirapine	FCGR3A
+Nevirapine	OAS1
+Nicardipine	KCNMB1
+Nicardipine	NR3C2
+Nicardipine	AGTR1
+Nicardipine	PTGIS
+Nicardipine	ADD1
+Nicardipine	AGT
+Nicardipine	ECE1
+Nicardipine	GNB3
+Nicardipine	RETN
+Nicardipine	HSD11B2
+Nicardipine	NOS3
+Nicardipine	CYP3A5
+Nicergoline	ITM2B
+Nicergoline	PSEN1
+Nicergoline	MAPT
+Nicergoline	SNCA
+Nicergoline	SNCB
+Nicergoline	TNF
+Nicergoline	CFH
+Nicergoline	HMCN1
+Nicergoline	FBLN5
+Nicergoline	CNGB3
+Nicergoline	RPGR
+Nicergoline	ATP1A2
+Nicergoline	EDNRA
+Nicergoline	ESR1
+Nicergoline	TNF
+Nicergoline	PLA2G7
+Nicergoline	P2RY12
+Nicergoline	RUNX1
+Nicergoline	CD36
+Nicotinic acid	KIR3DL1
+Nicotinic acid	IFNG
+Nicotinic acid	CXCL12
+Nicotinic acid	ALOX5
+Nicotinic acid	KCNMB1
+Nicotinic acid	NR3C2
+Nicotinic acid	AGTR1
+Nicotinic acid	PTGIS
+Nicotinic acid	ADD1
+Nicotinic acid	AGT
+Nicotinic acid	ECE1
+Nicotinic acid	GNB3
+Nicotinic acid	RETN
+Nicotinic acid	HSD11B2
+Nicotinic acid	NOS3
+Nicotinic acid	CYP3A5
+Nicotinic acid	ATP1A2
+Nicotinic acid	EDNRA
+Nicotinic acid	ESR1
+Nicotinic acid	TNF
+Nicotinic acid	DISC1
+Nicotinic acid	TAAR6
+Nicotinic acid	APP
+Nicotinic acid	COMT
+Nicotinic acid	HTR2A
+Nicotinic acid	RTN4R
+Nicotinic acid	SYN2
+Nicotinic acid	ENTH
+Nicotinic acid	PRODH
+Nifedipine	KCNMB1
+Nifedipine	NR3C2
+Nifedipine	AGTR1
+Nifedipine	PTGIS
+Nifedipine	ADD1
+Nifedipine	AGT
+Nifedipine	ECE1
+Nifedipine	GNB3
+Nifedipine	RETN
+Nifedipine	HSD11B2
+Nifedipine	NOS3
+Nifedipine	CYP3A5
+Nilutamide	RNASEL
+Nilutamide	BRCA2
+Nilutamide	PTEN
+Nilutamide	AR
+Nilutamide	CHEK2
+Nilutamide	MSR1
+Nilutamide	EPHB2
+Nilutamide	KLF6
+Nilutamide	MAD1L1
+Nilutamide	ATBF1
+Nilutamide	ELAC2
+Nilutamide	MXI1
+Nisoldipine	KCNMB1
+Nisoldipine	NR3C2
+Nisoldipine	AGTR1
+Nisoldipine	PTGIS
+Nisoldipine	ADD1
+Nisoldipine	AGT
+Nisoldipine	ECE1
+Nisoldipine	GNB3
+Nisoldipine	RETN
+Nisoldipine	HSD11B2
+Nisoldipine	NOS3
+Nisoldipine	CYP3A5
+Nitisinone	FAH
+Nitisinone	TAT
+Nitisinone	HPD
+Nitrendipine	KCNMB1
+Nitrendipine	NR3C2
+Nitrendipine	AGTR1
+Nitrendipine	PTGIS
+Nitrendipine	ADD1
+Nitrendipine	AGT
+Nitrendipine	ECE1
+Nitrendipine	GNB3
+Nitrendipine	RETN
+Nitrendipine	HSD11B2
+Nitrendipine	NOS3
+Nitrendipine	CYP3A5
+Nitroprusside	ADRA2C
+Nitroprusside	ADRB1
+Octreotide acetate	GNAS
+Octreotide acetate	SSTR5
+Olanzapine	XBP1
+Olanzapine	DISC1
+Olanzapine	TAAR6
+Olanzapine	APP
+Olanzapine	COMT
+Olanzapine	HTR2A
+Olanzapine	RTN4R
+Olanzapine	SYN2
+Olanzapine	ENTH
+Olanzapine	PRODH
+Olmesartan Medoxomil	KCNMB1
+Olmesartan Medoxomil	NR3C2
+Olmesartan Medoxomil	AGTR1
+Olmesartan Medoxomil	PTGIS
+Olmesartan Medoxomil	ADD1
+Olmesartan Medoxomil	AGT
+Olmesartan Medoxomil	ECE1
+Olmesartan Medoxomil	GNB3
+Olmesartan Medoxomil	RETN
+Olmesartan Medoxomil	HSD11B2
+Olmesartan Medoxomil	NOS3
+Olmesartan Medoxomil	CYP3A5
+Olopatadine	PLG
+Omalizumab	PHF11
+Omalizumab	MS4A2
+Omalizumab	ALOX5
+Omalizumab	ADRB2
+Omalizumab	PTGDR
+Omalizumab	GPR154
+Omalizumab	HNMT
+Omalizumab	IL12B
+Omalizumab	IL13
+Omalizumab	PLA2G7
+Omalizumab	SCGB3A2
+Omalizumab	TNF
+Omalizumab	SCGB1A1
+Omapatrilat	KCNMB1
+Omapatrilat	NR3C2
+Omapatrilat	AGTR1
+Omapatrilat	PTGIS
+Omapatrilat	ADD1
+Omapatrilat	AGT
+Omapatrilat	ECE1
+Omapatrilat	GNB3
+Omapatrilat	RETN
+Omapatrilat	HSD11B2
+Omapatrilat	NOS3
+Omapatrilat	CYP3A5
+Oprelvekin	PLA2G7
+Oprelvekin	P2RY12
+Oprelvekin	RUNX1
+Oprelvekin	CD36
+Oral interferon alfa	CCL5
+Oral interferon alfa	IL10
+Oral interferon alfa	CCR2
+Oral interferon alfa	CCR5
+Orlistat	POMC
+Orlistat	MC4R
+Orlistat	AKR1C2
+Orlistat	NTRK2
+Orlistat	AGRP
+Orlistat	NR0B2
+Orlistat	LEP
+Orlistat	LEPR
+Orlistat	PPARG
+Orlistat	SIM1
+Orlistat	UCP3
+Orlistat	MC3R
+Orlistat	SLC6A14
+Orlistat	ADRB2
+Orlistat	ADRB3
+Orlistat	CART
+Orlistat	ENPP1
+Orlistat	GHRL
+Orlistat	UCP1
+Orlistat	UCP2
+Orlistat	PCSK1
+Orphenadrine	NR4A2
+Orphenadrine	SNCAIP
+Orphenadrine	TBP
+Orphenadrine	SNCA
+Orphenadrine	PARK7
+Orphenadrine	LRRK2
+Orphenadrine	PINK1
+Orphenadrine	UCHL1
+Orphenadrine	PARK2
+Orphenadrine	DBH
+Orphenadrine	NDUFV2
+Ouabain	KCNE2
+Ouabain	KCNQ1
+Ouabain	GATA4
+Ouabain	MYH6
+Ouabain	NKX2-5
+Oxaprozin	MATN3
+Oxaprozin	FRZB
+Oxaprozin	ASPN
+Oxaprozin	COL2A1
+Oxaprozin	IL10
+Oxaprozin	CIITA
+Oxaprozin	NFKBIL1
+Oxaprozin	PADI4
+Oxaprozin	PTPN22
+Oxaprozin	RUNX1
+Oxaprozin	SLC22A4
+Oxaprozin	MIF
+Paclitaxel	CHEK2
+Paclitaxel	PIK3CA
+Paclitaxel	PPM1D
+Paclitaxel	SLC22A18
+Paclitaxel	TP53
+Paclitaxel	BRCA1
+Paclitaxel	BRCA2
+Paclitaxel	TSG101
+Paclitaxel	BRIP1
+Paclitaxel	RAD54L
+Paclitaxel	CDH1
+Paclitaxel	AR
+Paclitaxel	KRAS
+Paclitaxel	RB1CC1
+Paclitaxel	PHB
+Paclitaxel	ATM
+Paclitaxel	BARD1
+Paclitaxel	RAD51
+Paclitaxel	XRCC3
+Paclitaxel	IL6
+Paclitaxel	KRAS
+Paclitaxel	PPP2R1B
+Paclitaxel	SLC22A18
+Paclitaxel	MAP3K8
+Paclitaxel	BRCA1
+Paclitaxel	MSH2
+Paclitaxel	PIK3CA
+Paclitaxel	MSH6
+Paclitaxel	ERBB2
+Paclitaxel	CDH1
+Paclitaxel	RRAS2
+Paclitaxel	CTNNB1
+Pancrelipase	CFTR
+Pancrelipase	KIF21A
+Pancrelipase	PHOX2A
+Pancrelipase	PRSS1
+Pancrelipase	SPINK1
+Pancrelipase	CFTR
+Paramethadione	SCN2A1
+Paricalcitol	MEN1
+Paricalcitol	CDC73
+Paricalcitol	CASR
+Paroxetine	SLC6A4
+Paroxetine	BDNF
+Paroxetine	HTR2A
+Pegademase bovine	ADA
+Pegaspargase	TAL1
+Pegaspargase	TAL2
+Pegaspargase	FLT3
+Pegaspargase	NBN
+Pegaspargase	ZNFN1A1
+Pegaspargase	HOXD4
+Pegaspargase	BCR
+Pegaspargase	ARNT
+Pegaspargase	KRAS
+Pegaspargase	GMPS
+Pegaspargase	MLLT10
+Pegaspargase	ARHGEF12
+Pegaspargase	PICALM
+Pegaspargase	CEBPA
+Pegaspargase	CHIC2
+Pegaspargase	KIT
+Pegaspargase	LPP
+Pegaspargase	NPM1
+Pegaspargase	NUP214
+Pegaspargase	RUNX1
+Pegaspargase	WHSC1L1
+Pegaspargase	MLLT11
+Pegaspargase	NUMA1
+Pegaspargase	ZBTB16
+Pegaspargase	PML
+Pegaspargase	STAT5B
+Pegaspargase	ARL11
+Pegaspargase	P2RX7
+Pegaspargase	ARHGAP26
+Pegaspargase	NF1
+Pegaspargase	PTPN11
+Pegaspargase	BCL2
+Pegaspargase	CCND1
+Pegaspargase	TRA@
+Pegaspargase	GATA1
+Pegaspargase	ABL1
+Pegaspargase	NQO1
+Pegfilgrastim	FCGR3A
+Pegfilgrastim	ELA2
+Pegfilgrastim	GFI1
+Pegfilgrastim	WAS
+Peginterferon alfa-2a	KIR3DL1
+Peginterferon alfa-2a	IFNG
+Peginterferon alfa-2a	CXCL12
+Peginterferon alfa-2a	IL6
+Peginterferon alfa-2a	TAL1
+Peginterferon alfa-2a	TAL2
+Peginterferon alfa-2a	FLT3
+Peginterferon alfa-2a	NBN
+Peginterferon alfa-2a	ZNFN1A1
+Peginterferon alfa-2a	HOXD4
+Peginterferon alfa-2a	BCR
+Peginterferon alfa-2a	ARNT
+Peginterferon alfa-2a	KRAS
+Peginterferon alfa-2a	GMPS
+Peginterferon alfa-2a	MLLT10
+Peginterferon alfa-2a	ARHGEF12
+Peginterferon alfa-2a	PICALM
+Peginterferon alfa-2a	CEBPA
+Peginterferon alfa-2a	CHIC2
+Peginterferon alfa-2a	KIT
+Peginterferon alfa-2a	LPP
+Peginterferon alfa-2a	NPM1
+Peginterferon alfa-2a	NUP214
+Peginterferon alfa-2a	RUNX1
+Peginterferon alfa-2a	WHSC1L1
+Peginterferon alfa-2a	MLLT11
+Peginterferon alfa-2a	NUMA1
+Peginterferon alfa-2a	ZBTB16
+Peginterferon alfa-2a	PML
+Peginterferon alfa-2a	STAT5B
+Peginterferon alfa-2a	ARL11
+Peginterferon alfa-2a	P2RX7
+Peginterferon alfa-2a	ARHGAP26
+Peginterferon alfa-2a	NF1
+Peginterferon alfa-2a	PTPN11
+Peginterferon alfa-2a	BCL2
+Peginterferon alfa-2a	CCND1
+Peginterferon alfa-2a	TRA@
+Peginterferon alfa-2a	GATA1
+Peginterferon alfa-2a	ABL1
+Peginterferon alfa-2a	NQO1
+Peginterferon alfa-2a	CDK4
+Peginterferon alfa-2a	CDKN2A
+Peginterferon alfa-2a	XRCC3
+Peginterferon alfa-2a	STK11
+Peginterferon alfa-2a	BRAF
+Peginterferon alfa-2b	KIR3DL1
+Peginterferon alfa-2b	IFNG
+Peginterferon alfa-2b	CXCL12
+Peginterferon alfa-2b	IL6
+Peginterferon alfa-2b	TAL1
+Peginterferon alfa-2b	TAL2
+Peginterferon alfa-2b	FLT3
+Peginterferon alfa-2b	NBN
+Peginterferon alfa-2b	ZNFN1A1
+Peginterferon alfa-2b	HOXD4
+Peginterferon alfa-2b	BCR
+Peginterferon alfa-2b	ARNT
+Peginterferon alfa-2b	KRAS
+Peginterferon alfa-2b	GMPS
+Peginterferon alfa-2b	MLLT10
+Peginterferon alfa-2b	ARHGEF12
+Peginterferon alfa-2b	PICALM
+Peginterferon alfa-2b	CEBPA
+Peginterferon alfa-2b	CHIC2
+Peginterferon alfa-2b	KIT
+Peginterferon alfa-2b	LPP
+Peginterferon alfa-2b	NPM1
+Peginterferon alfa-2b	NUP214
+Peginterferon alfa-2b	RUNX1
+Peginterferon alfa-2b	WHSC1L1
+Peginterferon alfa-2b	MLLT11
+Peginterferon alfa-2b	NUMA1
+Peginterferon alfa-2b	ZBTB16
+Peginterferon alfa-2b	PML
+Peginterferon alfa-2b	STAT5B
+Peginterferon alfa-2b	ARL11
+Peginterferon alfa-2b	P2RX7
+Peginterferon alfa-2b	ARHGAP26
+Peginterferon alfa-2b	NF1
+Peginterferon alfa-2b	PTPN11
+Peginterferon alfa-2b	BCL2
+Peginterferon alfa-2b	CCND1
+Peginterferon alfa-2b	TRA@
+Peginterferon alfa-2b	GATA1
+Peginterferon alfa-2b	ABL1
+Peginterferon alfa-2b	NQO1
+Peginterferon alfa-2b	CDK4
+Peginterferon alfa-2b	CDKN2A
+Peginterferon alfa-2b	XRCC3
+Peginterferon alfa-2b	STK11
+Peginterferon alfa-2b	BRAF
+Pegvisomant	GNAS
+Pegvisomant	SSTR5
+Peldesine	RAP1GDS1
+Peldesine	ATM
+Peldesine	BCL8
+Peldesine	BCL10
+Peldesine	RAD54B
+Peldesine	RAD54L
+Peldesine	FCGR2B
+Peldesine	MAD1L1
+Peldesine	MSH2
+Peldesine	SH2D1A
+Pemetrexed	KRAS
+Pemetrexed	PPP2R1B
+Pemetrexed	SLC22A18
+Pemetrexed	MAP3K8
+Pemetrexed	BCL10
+Pemirolast	PLG
+Pemoline	DRD5
+Penicillamine	SLC3A1
+Penicillamine	SLC7A9
+Penicillamine	IL10
+Penicillamine	CIITA
+Penicillamine	NFKBIL1
+Penicillamine	PADI4
+Penicillamine	PTPN22
+Penicillamine	RUNX1
+Penicillamine	SLC22A4
+Penicillamine	MIF
+Penicillamine	ATP7B
+Pentobarbital	GABRB3
+Pentobarbital	PRNP
+Pergolide	NR4A2
+Pergolide	SNCAIP
+Pergolide	TBP
+Pergolide	SNCA
+Pergolide	PARK7
+Pergolide	LRRK2
+Pergolide	PINK1
+Pergolide	UCHL1
+Pergolide	PARK2
+Pergolide	DBH
+Pergolide	NDUFV2
+Perindopril Erbumine	MEF2A
+Perindopril Erbumine	ABCA1
+Perindopril Erbumine	KL
+Perindopril Erbumine	PON1
+Perindopril Erbumine	PON2
+Perindopril Erbumine	MMP3
+Perindopril Erbumine	F7
+Perindopril Erbumine	APOE
+Perindopril Erbumine	ACE
+Perindopril Erbumine	ALOX5AP
+Perindopril Erbumine	LGALS2
+Perindopril Erbumine	LTA
+Perindopril Erbumine	OLR1
+Perindopril Erbumine	THBD
+Perindopril Erbumine	GCLM
+Perindopril Erbumine	TNFSF4
+Phenacemide	KCNQ2
+Phenacemide	KCNQ3
+Phenacemide	GABRG2
+Phenacemide	CLCN2
+Phenacemide	JRK
+Phenacemide	CACNB4
+Phenacemide	SCN1A
+Phenacemide	ME2
+Phenacemide	GABRA1
+Phenacemide	EPM2A
+Phenacemide	NHLRC1
+Phenacemide	SLC25A22
+Phenacemide	CHRNA4
+Phenacemide	CHRNB2
+Phenacemide	LGI1
+Phenacemide	CSTB
+Phenacemide	SYN1
+Phenacemide	SCN2A1
+Phenacetin	ATCAY
+Phenacetin	APTX
+Phenacetin	CACNB4
+Phenacetin	ALS4
+Phenacetin	TTPA
+Phenacetin	IL10
+Phenacetin	CIITA
+Phenacetin	NFKBIL1
+Phenacetin	PADI4
+Phenacetin	PTPN22
+Phenacetin	RUNX1
+Phenacetin	SLC22A4
+Phenacetin	MIF
+Phenformin	ABCC8
+Phenformin	TCF1
+Phenformin	SUMO4
+Phenformin	PTPN22
+Phenformin	INSR
+Phenformin	PPARG
+Phenformin	GCK
+Phenformin	GCGR
+Phenformin	GPD2
+Phenformin	HNF4A
+Phenformin	IRS2
+Phenformin	MAPK8IP1
+Phenformin	NEUROD1
+Phenformin	TCF2
+Phenformin	IRS1
+Phenformin	SLC2A2
+Phenformin	SLC2A4
+Phenformin	CAPN10
+Phenformin	ENPP1
+Phenformin	RETN
+Phenformin	PTF1A
+Phenformin	KCNJ11
+Phenformin	AKT2
+Phenformin	IPF1
+Phenformin	FOXP3
+Phenformin	ACE
+Phenformin	VEGF
+Phenindione	KCNE2
+Phenindione	KCNQ1
+Phenindione	GATA4
+Phenindione	MYH6
+Phenindione	NKX2-5
+Phenindione	MYL3
+Phenindione	ACTC
+Phenindione	MYH7
+Phenindione	LMNA
+Phenindione	TNNT2
+Phenindione	TTN
+Phenindione	DES
+Phenindione	EYA4
+Phenindione	SGCD
+Phenindione	CSRP3
+Phenindione	TCAP
+Phenindione	ABCC9
+Phenindione	DMD
+Phenindione	MYL2
+Phenindione	CAV3
+Phenindione	MYH6
+Phenindione	TNNC1
+Phenindione	TPM1
+Phenindione	TNNI3
+Phenindione	MYBPC3
+Phenindione	COX15
+Phenindione	MYLK2
+Phenindione	PRKAG2
+Phenindione	PLN
+Phenindione	TAZ
+Phenindione	ACTA1
+Phenindione	CRYAB
+Phenindione	MYF6
+Phenindione	ITGA7
+Phenindione	DES
+Phenindione	DYSF
+Phenindione	CAV3
+Phenindione	CPT2
+Phenindione	PGAM2
+Phenindione	MYH7
+Phenmetrazine	POMC
+Phenmetrazine	MC4R
+Phenmetrazine	AKR1C2
+Phenmetrazine	NTRK2
+Phenmetrazine	AGRP
+Phenmetrazine	NR0B2
+Phenmetrazine	LEP
+Phenmetrazine	LEPR
+Phenmetrazine	PPARG
+Phenmetrazine	SIM1
+Phenmetrazine	UCP3
+Phenmetrazine	MC3R
+Phenmetrazine	SLC6A14
+Phenmetrazine	ADRB2
+Phenmetrazine	ADRB3
+Phenmetrazine	CART
+Phenmetrazine	ENPP1
+Phenmetrazine	GHRL
+Phenmetrazine	UCP1
+Phenmetrazine	UCP2
+Phenmetrazine	PCSK1
+Phenobarbitone	KCNQ2
+Phenobarbitone	KCNQ3
+Phenobarbitone	GABRG2
+Phenobarbitone	CLCN2
+Phenobarbitone	JRK
+Phenobarbitone	CACNB4
+Phenobarbitone	SCN1A
+Phenobarbitone	ME2
+Phenobarbitone	GABRA1
+Phenobarbitone	EPM2A
+Phenobarbitone	NHLRC1
+Phenobarbitone	SLC25A22
+Phenobarbitone	CHRNA4
+Phenobarbitone	CHRNB2
+Phenobarbitone	LGI1
+Phenobarbitone	CSTB
+Phenobarbitone	SYN1
+Phenoxybenzamine	KCNMB1
+Phenoxybenzamine	NR3C2
+Phenoxybenzamine	AGTR1
+Phenoxybenzamine	PTGIS
+Phenoxybenzamine	ADD1
+Phenoxybenzamine	AGT
+Phenoxybenzamine	ECE1
+Phenoxybenzamine	GNB3
+Phenoxybenzamine	RETN
+Phenoxybenzamine	HSD11B2
+Phenoxybenzamine	NOS3
+Phenoxybenzamine	CYP3A5
+Phenprocoumon	KCNE2
+Phenprocoumon	KCNQ1
+Phenprocoumon	GATA4
+Phenprocoumon	MYH6
+Phenprocoumon	NKX2-5
+Phenprocoumon	PDE4D
+Phenprocoumon	ALOX5AP
+Phenprocoumon	TEK
+Phenprocoumon	SERPINA10
+Phensuximide	KCNQ2
+Phensuximide	KCNQ3
+Phensuximide	GABRG2
+Phensuximide	CLCN2
+Phensuximide	JRK
+Phensuximide	CACNB4
+Phensuximide	SCN1A
+Phensuximide	ME2
+Phensuximide	GABRA1
+Phensuximide	EPM2A
+Phensuximide	NHLRC1
+Phensuximide	SLC25A22
+Phensuximide	CHRNA4
+Phensuximide	CHRNB2
+Phensuximide	LGI1
+Phensuximide	CSTB
+Phensuximide	SYN1
+Phentermine	POMC
+Phentermine	MC4R
+Phentermine	AKR1C2
+Phentermine	NTRK2
+Phentermine	AGRP
+Phentermine	NR0B2
+Phentermine	LEP
+Phentermine	LEPR
+Phentermine	PPARG
+Phentermine	SIM1
+Phentermine	UCP3
+Phentermine	MC3R
+Phentermine	SLC6A14
+Phentermine	ADRB2
+Phentermine	ADRB3
+Phentermine	CART
+Phentermine	ENPP1
+Phentermine	GHRL
+Phentermine	UCP1
+Phentermine	UCP2
+Phentermine	PCSK1
+Phentolamine	SDHD
+Phentolamine	VHL
+Phentolamine	SDHB
+Phenylephrine	GNAI2
+Phenylephrine	CASQ2
+Phenylephrine	RYR2
+Phenylpropanolamine	POMC
+Phenylpropanolamine	MC4R
+Phenylpropanolamine	AKR1C2
+Phenylpropanolamine	NTRK2
+Phenylpropanolamine	AGRP
+Phenylpropanolamine	NR0B2
+Phenylpropanolamine	LEP
+Phenylpropanolamine	LEPR
+Phenylpropanolamine	PPARG
+Phenylpropanolamine	SIM1
+Phenylpropanolamine	UCP3
+Phenylpropanolamine	MC3R
+Phenylpropanolamine	SLC6A14
+Phenylpropanolamine	ADRB2
+Phenylpropanolamine	ADRB3
+Phenylpropanolamine	CART
+Phenylpropanolamine	ENPP1
+Phenylpropanolamine	GHRL
+Phenylpropanolamine	UCP1
+Phenylpropanolamine	UCP2
+Phenylpropanolamine	PCSK1
+Phenytoin	SCN2A1
+Phosphatidylserine	APP
+Phosphatidylserine	APOE
+Phosphatidylserine	PSEN2
+Phosphatidylserine	APBB2
+Phosphatidylserine	NOS3
+Phosphatidylserine	PLAU
+Phosphatidylserine	ACE
+Phosphatidylserine	MPO
+Phosphatidylserine	PAXIP1
+Phosphatidylserine	A2M
+Phosphatidylserine	BLMH
+Phosphatidylserine	PSEN1
+Phosphatidylserine	ITM2B
+Phosphatidylserine	PSEN1
+Phosphatidylserine	MAPT
+Phosphatidylserine	SNCA
+Phosphatidylserine	SNCB
+Phosphatidylserine	TNF
+Phosphatidylserine	BDNF
+Physostigmine	MYOC
+Physostigmine	OPTN
+Physostigmine	CYP1B1
+Physostigmine	OPA1
+Pimozide	MECP2
+Pimozide	CDKL5
+Pindolol	KCNE2
+Pindolol	KCNQ1
+Pindolol	GATA4
+Pindolol	MYH6
+Pindolol	NKX2-5
+Pindolol	KCNMB1
+Pindolol	NR3C2
+Pindolol	AGTR1
+Pindolol	PTGIS
+Pindolol	ADD1
+Pindolol	AGT
+Pindolol	ECE1
+Pindolol	GNB3
+Pindolol	RETN
+Pindolol	HSD11B2
+Pindolol	NOS3
+Pindolol	CYP3A5
+Pindolol	SCN5A
+Pindolol	GNAI2
+Pindolol	CASQ2
+Pindolol	RYR2
+Pioglitazone	ABCC8
+Pioglitazone	TCF1
+Pioglitazone	SUMO4
+Pioglitazone	PTPN22
+Pioglitazone	INSR
+Pioglitazone	PPARG
+Pioglitazone	GCK
+Pioglitazone	GCGR
+Pioglitazone	GPD2
+Pioglitazone	HNF4A
+Pioglitazone	IRS2
+Pioglitazone	MAPK8IP1
+Pioglitazone	NEUROD1
+Pioglitazone	TCF2
+Pioglitazone	IRS1
+Pioglitazone	SLC2A2
+Pioglitazone	SLC2A4
+Pioglitazone	CAPN10
+Pioglitazone	ENPP1
+Pioglitazone	RETN
+Pioglitazone	PTF1A
+Pioglitazone	KCNJ11
+Pioglitazone	AKT2
+Pioglitazone	IPF1
+Pioglitazone	FOXP3
+Pioglitazone	ACE
+Pioglitazone	VEGF
+Piretanide	KCNMB1
+Piretanide	NR3C2
+Piretanide	AGTR1
+Piretanide	PTGIS
+Piretanide	ADD1
+Piretanide	AGT
+Piretanide	ECE1
+Piretanide	GNB3
+Piretanide	RETN
+Piretanide	HSD11B2
+Piretanide	NOS3
+Piretanide	CYP3A5
+Piroxicam	MATN3
+Piroxicam	FRZB
+Piroxicam	ASPN
+Piroxicam	COL2A1
+Piroxicam	IL10
+Piroxicam	CIITA
+Piroxicam	NFKBIL1
+Piroxicam	PADI4
+Piroxicam	PTPN22
+Piroxicam	RUNX1
+Piroxicam	SLC22A4
+Piroxicam	MIF
+Porfimer	TGFBR2
+Porfimer	RNF6
+Porfimer	LZTS1
+Porfimer	WWOX
+Pralidoxime	FIMG1
+Pramipexole	NR4A2
+Pramipexole	SNCAIP
+Pramipexole	TBP
+Pramipexole	SNCA
+Pramipexole	PARK7
+Pramipexole	LRRK2
+Pramipexole	PINK1
+Pramipexole	UCHL1
+Pramipexole	PARK2
+Pramipexole	DBH
+Pramipexole	NDUFV2
+Pravastatin	APOB
+Pravastatin	LDLR
+Pravastatin	PCSK9
+Pravastatin	LDLRAP1
+Pravastatin	EPHX2
+Pravastatin	APOA2
+Pravastatin	C7orf16
+Pravastatin	ITIH4
+Pravastatin	F7
+Pravastatin	APOE
+Pravastatin	ACE
+Pravastatin	ALOX5AP
+Pravastatin	LGALS2
+Pravastatin	LTA
+Pravastatin	OLR1
+Pravastatin	THBD
+Pravastatin	GCLM
+Pravastatin	TNFSF4
+Prazosin	KCNMB1
+Prazosin	NR3C2
+Prazosin	AGTR1
+Prazosin	PTGIS
+Prazosin	ADD1
+Prazosin	AGT
+Prazosin	ECE1
+Prazosin	GNB3
+Prazosin	RETN
+Prazosin	HSD11B2
+Prazosin	NOS3
+Prazosin	CYP3A5
+Prednisolone	CYP11B1
+Prednisolone	CYP21A2
+Prednisolone	POR
+Prednisolone	NR0B1
+Prednisolone	NR5A1
+Prednisolone	CDAN1
+Prednisolone	RPS19
+Prednisolone	PKLR
+Prednisolone	NT5C3
+Prednisolone	RHAG
+Prednisolone	SLC11A2
+Prednisolone	SPTB
+Prednisolone	ALAS2
+Prednisolone	ABCB7
+Prednisolone	FAS
+Prednisolone	CASP10
+Prednisolone	CASP8
+Prednisolone	AIRE
+Prednisolone	TG
+Prednisolone	AK1
+Prednisolone	SLC4A1
+Prednisolone	BPGM
+Prednisolone	G6PD
+Prednisolone	GCLC
+Prednisolone	GPI
+Prednisolone	GSS
+Prednisolone	HK1
+Prednisolone	PGK1
+Prednisolone	TPI1
+Prednisolone	PPARG
+Prednisolone	PPP1R3A
+Prednisolone	PTPN1
+Prednisolone	TAL1
+Prednisolone	TAL2
+Prednisolone	FLT3
+Prednisolone	NBN
+Prednisolone	ZNFN1A1
+Prednisolone	HOXD4
+Prednisolone	BCR
+Prednisolone	ARNT
+Prednisolone	KRAS
+Prednisolone	GMPS
+Prednisolone	MLLT10
+Prednisolone	ARHGEF12
+Prednisolone	PICALM
+Prednisolone	CEBPA
+Prednisolone	CHIC2
+Prednisolone	KIT
+Prednisolone	LPP
+Prednisolone	NPM1
+Prednisolone	NUP214
+Prednisolone	RUNX1
+Prednisolone	WHSC1L1
+Prednisolone	MLLT11
+Prednisolone	NUMA1
+Prednisolone	ZBTB16
+Prednisolone	PML
+Prednisolone	STAT5B
+Prednisolone	ARL11
+Prednisolone	P2RX7
+Prednisolone	ARHGAP26
+Prednisolone	NF1
+Prednisolone	PTPN11
+Prednisolone	BCL2
+Prednisolone	CCND1
+Prednisolone	TRA@
+Prednisolone	GATA1
+Prednisolone	ABL1
+Prednisolone	NQO1
+Prednisolone	FCGR2A
+Prednisolone	RAP1GDS1
+Prednisolone	ATM
+Prednisolone	BCL8
+Prednisolone	BCL10
+Prednisolone	RAD54B
+Prednisolone	RAD54L
+Prednisolone	FCGR2B
+Prednisolone	MAD1L1
+Prednisolone	MSH2
+Prednisolone	SH2D1A
+Prednisolone	IL10
+Prednisolone	CIITA
+Prednisolone	NFKBIL1
+Prednisolone	PADI4
+Prednisolone	PTPN22
+Prednisolone	RUNX1
+Prednisolone	SLC22A4
+Prednisolone	MIF
+Prednisolone	FASLG
+Prednisolone	DNASE1
+Prednisolone	PTPN22
+Prednisolone	PDCD1
+Prednisolone	MASTL
+Prednisolone	MPL
+Prednisolone	WAS
+Prednisolone	F5
+Prednisone	CYP11B1
+Prednisone	CYP21A2
+Prednisone	POR
+Prednisone	NR0B1
+Prednisone	NR5A1
+Prednisone	CDAN1
+Prednisone	RPS19
+Prednisone	PKLR
+Prednisone	NT5C3
+Prednisone	RHAG
+Prednisone	SLC11A2
+Prednisone	SPTB
+Prednisone	ALAS2
+Prednisone	ABCB7
+Prednisone	PLG
+Prednisone	CARD15
+Prednisone	DLG5
+Prednisone	AK1
+Prednisone	SLC4A1
+Prednisone	BPGM
+Prednisone	G6PD
+Prednisone	GCLC
+Prednisone	GPI
+Prednisone	GSS
+Prednisone	HK1
+Prednisone	PGK1
+Prednisone	TPI1
+Prednisone	TP73L
+Prednisone	PAX6
+Prednisone	TAL1
+Prednisone	TAL2
+Prednisone	FLT3
+Prednisone	NBN
+Prednisone	ZNFN1A1
+Prednisone	HOXD4
+Prednisone	BCR
+Prednisone	ARNT
+Prednisone	KRAS
+Prednisone	GMPS
+Prednisone	MLLT10
+Prednisone	ARHGEF12
+Prednisone	PICALM
+Prednisone	CEBPA
+Prednisone	CHIC2
+Prednisone	KIT
+Prednisone	LPP
+Prednisone	NPM1
+Prednisone	NUP214
+Prednisone	RUNX1
+Prednisone	WHSC1L1
+Prednisone	MLLT11
+Prednisone	NUMA1
+Prednisone	ZBTB16
+Prednisone	PML
+Prednisone	STAT5B
+Prednisone	ARL11
+Prednisone	P2RX7
+Prednisone	ARHGAP26
+Prednisone	NF1
+Prednisone	PTPN11
+Prednisone	BCL2
+Prednisone	CCND1
+Prednisone	TRA@
+Prednisone	GATA1
+Prednisone	ABL1
+Prednisone	NQO1
+Prednisone	FCGR2A
+Prednisone	CIITA
+Prednisone	PTPRC
+Prednisone	FIMG1
+Prednisone	NPHS1
+Prednisone	NPHS2
+Prednisone	SFTPC
+Prednisone	CARD15
+Prednisone	BTNL2
+Prednisone	HLA-DRB1
+Prednisone	ZNF198
+Prednisone	HLA-B
+Prednisone	FASLG
+Prednisone	DNASE1
+Prednisone	PTPN22
+Prednisone	PDCD1
+Prednisone	MASTL
+Prednisone	MPL
+Prednisone	WAS
+Prednisone	F5
+Prednisone	IFNGR1
+Prednisone	IFNG
+Prednisone	IL13
+Pregabalin	EGR2
+Pregabalin	MPZ
+Pregabalin	HSPB1
+Pregabalin	HSPB8
+Pregabalin	SPTLC1
+Pregabalin	NGFB
+Pregabalin	HSN2
+Pregabalin	PMP22
+Primaquine	CD36
+Primaquine	ICAM1
+Primaquine	TNF
+Primaquine	GYPC
+Primaquine	NOS2A
+Primidone	KCNQ2
+Primidone	KCNQ3
+Primidone	GABRG2
+Primidone	CLCN2
+Primidone	JRK
+Primidone	CACNB4
+Primidone	SCN1A
+Primidone	ME2
+Primidone	GABRA1
+Primidone	EPM2A
+Primidone	NHLRC1
+Primidone	SLC25A22
+Primidone	CHRNA4
+Primidone	CHRNB2
+Primidone	LGI1
+Primidone	CSTB
+Primidone	SYN1
+Procarbazine	TP73L
+Procyclidine	NR4A2
+Procyclidine	SNCAIP
+Procyclidine	TBP
+Procyclidine	SNCA
+Procyclidine	PARK7
+Procyclidine	LRRK2
+Procyclidine	PINK1
+Procyclidine	UCHL1
+Procyclidine	PARK2
+Procyclidine	DBH
+Procyclidine	NDUFV2
+Progabide	KCNQ2
+Progabide	KCNQ3
+Progabide	GABRG2
+Progabide	CLCN2
+Progabide	JRK
+Progabide	CACNB4
+Progabide	SCN1A
+Progabide	ME2
+Progabide	GABRA1
+Progabide	EPM2A
+Progabide	NHLRC1
+Progabide	SLC25A22
+Progabide	CHRNA4
+Progabide	CHRNB2
+Progabide	LGI1
+Progabide	CSTB
+Progabide	SYN1
+Proguanil	CD36
+Proguanil	ICAM1
+Proguanil	TNF
+Proguanil	GYPC
+Proguanil	NOS2A
+Propafenone	KCNE2
+Propafenone	KCNQ1
+Propafenone	GATA4
+Propafenone	MYH6
+Propafenone	NKX2-5
+Propafenone	SCN5A
+Propafenone	GNAI2
+Propafenone	CASQ2
+Propafenone	RYR2
+Propranolol	ATP1A2
+Propranolol	EDNRA
+Propranolol	ESR1
+Propranolol	TNF
+Propylthiouracil	TPO
+Protriptyline	SLC6A4
+Protriptyline	BDNF
+Protriptyline	HTR2A
+Pseudoephedrine	IL13
+Pyrazinamide	IFNGR1
+Pyrazinamide	IFNG
+Pyridostigmine	FIMG1
+Pyrimethamine	CD36
+Pyrimethamine	ICAM1
+Pyrimethamine	TNF
+Pyrimethamine	GYPC
+Pyrimethamine	NOS2A
+Quetiapine	XBP1
+Quetiapine	DISC1
+Quetiapine	TAAR6
+Quetiapine	APP
+Quetiapine	COMT
+Quetiapine	HTR2A
+Quetiapine	RTN4R
+Quetiapine	SYN2
+Quetiapine	ENTH
+Quetiapine	PRODH
+Quinapril	KCNMB1
+Quinapril	NR3C2
+Quinapril	AGTR1
+Quinapril	PTGIS
+Quinapril	ADD1
+Quinapril	AGT
+Quinapril	ECE1
+Quinapril	GNB3
+Quinapril	RETN
+Quinapril	HSD11B2
+Quinapril	NOS3
+Quinapril	CYP3A5
+Quinine	SCN4A
+Quinine	CD36
+Quinine	ICAM1
+Quinine	TNF
+Quinine	GYPC
+Quinine	NOS2A
+Raloxifene	PDLIM4
+Ramelteon	GABRB3
+Ramelteon	PRNP
+Ramipril	ADRA2C
+Ramipril	ADRB1
+Remikiren	KCNMB1
+Remikiren	NR3C2
+Remikiren	AGTR1
+Remikiren	PTGIS
+Remikiren	ADD1
+Remikiren	AGT
+Remikiren	ECE1
+Remikiren	GNB3
+Remikiren	RETN
+Remikiren	HSD11B2
+Remikiren	NOS3
+Remikiren	CYP3A5
+Remoxipride	DISC1
+Remoxipride	TAAR6
+Remoxipride	APP
+Remoxipride	COMT
+Remoxipride	HTR2A
+Remoxipride	RTN4R
+Remoxipride	SYN2
+Remoxipride	ENTH
+Remoxipride	PRODH
+Repaglinide	ABCC8
+Repaglinide	TCF1
+Repaglinide	SUMO4
+Repaglinide	PTPN22
+Repaglinide	INSR
+Repaglinide	PPARG
+Repaglinide	GCK
+Repaglinide	GCGR
+Repaglinide	GPD2
+Repaglinide	HNF4A
+Repaglinide	IRS2
+Repaglinide	MAPK8IP1
+Repaglinide	NEUROD1
+Repaglinide	TCF2
+Repaglinide	IRS1
+Repaglinide	SLC2A2
+Repaglinide	SLC2A4
+Repaglinide	CAPN10
+Repaglinide	ENPP1
+Repaglinide	RETN
+Repaglinide	PTF1A
+Repaglinide	KCNJ11
+Repaglinide	AKT2
+Repaglinide	IPF1
+Repaglinide	FOXP3
+Repaglinide	ACE
+Repaglinide	VEGF
+Rescinnamine	KCNMB1
+Rescinnamine	NR3C2
+Rescinnamine	AGTR1
+Rescinnamine	PTGIS
+Rescinnamine	ADD1
+Rescinnamine	AGT
+Rescinnamine	ECE1
+Rescinnamine	GNB3
+Rescinnamine	RETN
+Rescinnamine	HSD11B2
+Rescinnamine	NOS3
+Rescinnamine	CYP3A5
+Reserpine	KCNMB1
+Reserpine	NR3C2
+Reserpine	AGTR1
+Reserpine	PTGIS
+Reserpine	ADD1
+Reserpine	AGT
+Reserpine	ECE1
+Reserpine	GNB3
+Reserpine	RETN
+Reserpine	HSD11B2
+Reserpine	NOS3
+Reserpine	CYP3A5
+Reteplase	F7
+Reteplase	APOE
+Reteplase	ACE
+Reteplase	ALOX5AP
+Reteplase	LGALS2
+Reteplase	LTA
+Reteplase	OLR1
+Reteplase	THBD
+Reteplase	GCLM
+Reteplase	TNFSF4
+Ridogrel	F7
+Ridogrel	APOE
+Ridogrel	ACE
+Ridogrel	ALOX5AP
+Ridogrel	LGALS2
+Ridogrel	LTA
+Ridogrel	OLR1
+Ridogrel	THBD
+Ridogrel	GCLM
+Ridogrel	TNFSF4
+Rifabutin	CCL5
+Rifabutin	IL10
+Rifabutin	CCR2
+Rifabutin	CCR5
+Rifampin	IL12RB1
+Rifampin	IFNGR1
+Rifampin	IFNGR2
+Rifampin	STAT1
+Rifampin	SLC11A1
+Rifampin	IFNGR1
+Rifampin	IFNG
+Rifapentine	IFNGR1
+Rifapentine	IFNG
+Riluzole	VAPB
+Riluzole	SOD1
+Riluzole	ALS2
+Riluzole	DCTN1
+Riluzole	NEFH
+Riluzole	PRPH
+Risedronate	MRAP
+Risedronate	MC2R
+Risedronate	PDLIM4
+Risedronate	TNFRSF11B
+Risedronate	SQSTM1
+Risedronate	TNFRSF11A
+Risperidone	DISC1
+Risperidone	TAAR6
+Risperidone	APP
+Risperidone	COMT
+Risperidone	HTR2A
+Risperidone	RTN4R
+Risperidone	SYN2
+Risperidone	ENTH
+Risperidone	PRODH
+Ritonavir	CCL5
+Ritonavir	IL10
+Ritonavir	CCR2
+Ritonavir	CCR5
+Ritonavir	FCGR3A
+Ritonavir	OAS1
+Rituximab	BCL7A
+Rituximab	TP73L
+Rituximab	RAP1GDS1
+Rituximab	ATM
+Rituximab	BCL8
+Rituximab	BCL10
+Rituximab	RAD54B
+Rituximab	RAD54L
+Rituximab	FCGR2B
+Rituximab	MAD1L1
+Rituximab	MSH2
+Rituximab	SH2D1A
+Rituximab	CASP10
+Rivastigmine	APP
+Rivastigmine	APOE
+Rivastigmine	PSEN2
+Rivastigmine	APBB2
+Rivastigmine	NOS3
+Rivastigmine	PLAU
+Rivastigmine	ACE
+Rivastigmine	MPO
+Rivastigmine	PAXIP1
+Rivastigmine	A2M
+Rivastigmine	BLMH
+Rivastigmine	PSEN1
+Rizatriptan	ATP1A2
+Rizatriptan	EDNRA
+Rizatriptan	ESR1
+Rizatriptan	TNF
+R-mephobarbital	KCNQ2
+R-mephobarbital	KCNQ3
+R-mephobarbital	GABRG2
+R-mephobarbital	CLCN2
+R-mephobarbital	JRK
+R-mephobarbital	CACNB4
+R-mephobarbital	SCN1A
+R-mephobarbital	ME2
+R-mephobarbital	GABRA1
+R-mephobarbital	EPM2A
+R-mephobarbital	NHLRC1
+R-mephobarbital	SLC25A22
+R-mephobarbital	CHRNA4
+R-mephobarbital	CHRNB2
+R-mephobarbital	LGI1
+R-mephobarbital	CSTB
+R-mephobarbital	SYN1
+Rofecoxib	MATN3
+Rofecoxib	FRZB
+Rofecoxib	ASPN
+Rofecoxib	COL2A1
+Ropinirole	NR4A2
+Ropinirole	SNCAIP
+Ropinirole	TBP
+Ropinirole	SNCA
+Ropinirole	PARK7
+Ropinirole	LRRK2
+Ropinirole	PINK1
+Ropinirole	UCHL1
+Ropinirole	PARK2
+Ropinirole	DBH
+Ropinirole	NDUFV2
+Rosiglitazone	ABCC8
+Rosiglitazone	TCF1
+Rosiglitazone	SUMO4
+Rosiglitazone	PTPN22
+Rosiglitazone	INSR
+Rosiglitazone	PPARG
+Rosiglitazone	GCK
+Rosiglitazone	GCGR
+Rosiglitazone	GPD2
+Rosiglitazone	HNF4A
+Rosiglitazone	IRS2
+Rosiglitazone	MAPK8IP1
+Rosiglitazone	NEUROD1
+Rosiglitazone	TCF2
+Rosiglitazone	IRS1
+Rosiglitazone	SLC2A2
+Rosiglitazone	SLC2A4
+Rosiglitazone	CAPN10
+Rosiglitazone	ENPP1
+Rosiglitazone	RETN
+Rosiglitazone	PTF1A
+Rosiglitazone	KCNJ11
+Rosiglitazone	AKT2
+Rosiglitazone	IPF1
+Rosiglitazone	FOXP3
+Rosiglitazone	ACE
+Rosiglitazone	VEGF
+Salmeterol	PHF11
+Salmeterol	MS4A2
+Salmeterol	ALOX5
+Salmeterol	ADRB2
+Salmeterol	PTGDR
+Salmeterol	GPR154
+Salmeterol	HNMT
+Salmeterol	IL12B
+Salmeterol	IL13
+Salmeterol	PLA2G7
+Salmeterol	SCGB3A2
+Salmeterol	TNF
+Salmeterol	SCGB1A1
+Salmeterol	MMP1
+Saquinavir	CCL5
+Saquinavir	IL10
+Saquinavir	CCR2
+Saquinavir	CCR5
+Saquinavir	CD3E
+Saquinavir	CD3G
+Saquinavir	AICDA
+Saquinavir	CD40
+Saquinavir	UNG
+Saquinavir	CD40LG
+Secobarbital	GABRB3
+Secobarbital	PRNP
+Selegiline	NR4A2
+Selegiline	SNCAIP
+Selegiline	TBP
+Selegiline	SNCA
+Selegiline	PARK7
+Selegiline	LRRK2
+Selegiline	PINK1
+Selegiline	UCHL1
+Selegiline	PARK2
+Selegiline	DBH
+Selegiline	NDUFV2
+Sermorelin	CCL5
+Sermorelin	IL10
+Sermorelin	CCR2
+Sermorelin	CCR5
+Sertraline	SLC6A4
+Sertraline	BDNF
+Sertraline	HTR2A
+Serum albumin	PROS1
+Sibutramine	POMC
+Sibutramine	MC4R
+Sibutramine	AKR1C2
+Sibutramine	NTRK2
+Sibutramine	AGRP
+Sibutramine	NR0B2
+Sibutramine	LEP
+Sibutramine	LEPR
+Sibutramine	PPARG
+Sibutramine	SIM1
+Sibutramine	UCP3
+Sibutramine	MC3R
+Sibutramine	SLC6A14
+Sibutramine	ADRB2
+Sibutramine	ADRB3
+Sibutramine	CART
+Sibutramine	ENPP1
+Sibutramine	GHRL
+Sibutramine	UCP1
+Sibutramine	UCP2
+Sibutramine	PCSK1
+Simvastatin	APOB
+Simvastatin	LDLR
+Simvastatin	PCSK9
+Simvastatin	LDLRAP1
+Simvastatin	EPHX2
+Simvastatin	APOA2
+Simvastatin	C7orf16
+Simvastatin	ITIH4
+Somatropin recombinant	GNAS
+Somatropin recombinant	SSTR5
+Somatropin recombinant	CCL5
+Somatropin recombinant	IL10
+Somatropin recombinant	CCR2
+Somatropin recombinant	CCR5
+Sorbinil	EGR2
+Sorbinil	MPZ
+Sorbinil	HSPB1
+Sorbinil	HSPB8
+Sorbinil	SPTLC1
+Sorbinil	NGFB
+Sorbinil	HSN2
+Sorbinil	PMP22
+Sotalol	KCNE2
+Sotalol	KCNQ1
+Sotalol	GATA4
+Sotalol	MYH6
+Sotalol	NKX2-5
+Sotalol	SCN5A
+Sparfloxacin	MBL2
+Spironolactone	KCNMB1
+Spironolactone	NR3C2
+Spironolactone	AGTR1
+Spironolactone	PTGIS
+Spironolactone	ADD1
+Spironolactone	AGT
+Spironolactone	ECE1
+Spironolactone	GNB3
+Spironolactone	RETN
+Spironolactone	HSD11B2
+Spironolactone	NOS3
+Spironolactone	CYP3A5
+Spironolactone	CYP11B2
+Stavudine	CCL5
+Stavudine	IL10
+Stavudine	CCR2
+Stavudine	CCR5
+Streptokinase	F7
+Streptokinase	APOE
+Streptokinase	ACE
+Streptokinase	ALOX5AP
+Streptokinase	LGALS2
+Streptokinase	LTA
+Streptokinase	OLR1
+Streptokinase	THBD
+Streptokinase	GCLM
+Streptokinase	TNFSF4
+Streptokinase	TEK
+Streptokinase	SERPINA10
+Streptomycin	IFNGR1
+Streptomycin	IFNG
+Succimer	ALAD
+Sulfacetamide	PLG
+Sulfacetamide	PAX6
+Sulfadiazine	MBL2
+Sulfasalazine	CARD15
+Sulfasalazine	DLG5
+Sulfasalazine	IL10
+Sulfasalazine	CIITA
+Sulfasalazine	NFKBIL1
+Sulfasalazine	PADI4
+Sulfasalazine	PTPN22
+Sulfasalazine	RUNX1
+Sulfasalazine	SLC22A4
+Sulfasalazine	MIF
+Sulfisoxazole	PLG
+Sulfisoxazole	CD36
+Sulfisoxazole	ICAM1
+Sulfisoxazole	TNF
+Sulfisoxazole	GYPC
+Sulfisoxazole	NOS2A
+Sulfisoxazole	MBL2
+Sulfoxone	PARK2
+Sulindac	MATN3
+Sulindac	FRZB
+Sulindac	ASPN
+Sulindac	COL2A1
+Sulindac	IL10
+Sulindac	CIITA
+Sulindac	NFKBIL1
+Sulindac	PADI4
+Sulindac	PTPN22
+Sulindac	RUNX1
+Sulindac	SLC22A4
+Sulindac	MIF
+Sulpiride	DISC1
+Sulpiride	TAAR6
+Sulpiride	APP
+Sulpiride	COMT
+Sulpiride	HTR2A
+Sulpiride	RTN4R
+Sulpiride	SYN2
+Sulpiride	ENTH
+Sulpiride	PRODH
+Sumatriptan	ATP1A2
+Sumatriptan	EDNRA
+Sumatriptan	ESR1
+Sumatriptan	TNF
+Tacrine	APP
+Tacrine	APOE
+Tacrine	PSEN2
+Tacrine	APBB2
+Tacrine	NOS3
+Tacrine	PLAU
+Tacrine	ACE
+Tacrine	MPO
+Tacrine	PAXIP1
+Tacrine	A2M
+Tacrine	BLMH
+Tacrine	PSEN1
+Tacrine	ITM2B
+Tacrine	PSEN1
+Tacrine	MAPT
+Tacrine	SNCA
+Tacrine	SNCB
+Tacrine	TNF
+Tamoxifen	CHEK2
+Tamoxifen	PIK3CA
+Tamoxifen	PPM1D
+Tamoxifen	SLC22A18
+Tamoxifen	TP53
+Tamoxifen	BRCA1
+Tamoxifen	BRCA2
+Tamoxifen	TSG101
+Tamoxifen	BRIP1
+Tamoxifen	RAD54L
+Tamoxifen	CDH1
+Tamoxifen	AR
+Tamoxifen	KRAS
+Tamoxifen	RB1CC1
+Tamoxifen	PHB
+Tamoxifen	ATM
+Tamoxifen	BARD1
+Tamoxifen	RAD51
+Tamoxifen	XRCC3
+Telmisartan	KCNMB1
+Telmisartan	NR3C2
+Telmisartan	AGTR1
+Telmisartan	PTGIS
+Telmisartan	ADD1
+Telmisartan	AGT
+Telmisartan	ECE1
+Telmisartan	GNB3
+Telmisartan	RETN
+Telmisartan	HSD11B2
+Telmisartan	NOS3
+Telmisartan	CYP3A5
+Temazepam	GABRB3
+Temazepam	PRNP
+Tenecteplase	F7
+Tenecteplase	APOE
+Tenecteplase	ACE
+Tenecteplase	ALOX5AP
+Tenecteplase	LGALS2
+Tenecteplase	LTA
+Tenecteplase	OLR1
+Tenecteplase	THBD
+Tenecteplase	GCLM
+Tenecteplase	TNFSF4
+Tenofovir	CCL5
+Tenofovir	IL10
+Tenofovir	CCR2
+Tenofovir	CCR5
+Tenofovir	FCGR3A
+Tenofovir	OAS1
+Tenoxicam	MATN3
+Tenoxicam	FRZB
+Tenoxicam	ASPN
+Tenoxicam	COL2A1
+Tenoxicam	IL10
+Tenoxicam	CIITA
+Tenoxicam	NFKBIL1
+Tenoxicam	PADI4
+Tenoxicam	PTPN22
+Tenoxicam	RUNX1
+Tenoxicam	SLC22A4
+Tenoxicam	MIF
+Terazosin	KCNMB1
+Terazosin	NR3C2
+Terazosin	AGTR1
+Terazosin	PTGIS
+Terazosin	ADD1
+Terazosin	AGT
+Terazosin	ECE1
+Terazosin	GNB3
+Terazosin	RETN
+Terazosin	HSD11B2
+Terazosin	NOS3
+Terazosin	CYP3A5
+Terbutaline	PHF11
+Terbutaline	MS4A2
+Terbutaline	ALOX5
+Terbutaline	ADRB2
+Terbutaline	PTGDR
+Terbutaline	GPR154
+Terbutaline	HNMT
+Terbutaline	IL12B
+Terbutaline	IL13
+Terbutaline	PLA2G7
+Terbutaline	SCGB3A2
+Terbutaline	TNF
+Terbutaline	SCGB1A1
+Terbutaline	SERPINA1
+Terfenadine	IL13
+Testolactone	CHEK2
+Testolactone	PIK3CA
+Testolactone	PPM1D
+Testolactone	SLC22A18
+Testolactone	TP53
+Testolactone	BRCA1
+Testolactone	BRCA2
+Testolactone	TSG101
+Testolactone	BRIP1
+Testolactone	RAD54L
+Testolactone	CDH1
+Testolactone	AR
+Testolactone	KRAS
+Testolactone	RB1CC1
+Testolactone	PHB
+Testolactone	ATM
+Testolactone	BARD1
+Testolactone	RAD51
+Testolactone	XRCC3
+Theophylline	PHF11
+Theophylline	MS4A2
+Theophylline	ALOX5
+Theophylline	ADRB2
+Theophylline	PTGDR
+Theophylline	GPR154
+Theophylline	HNMT
+Theophylline	IL12B
+Theophylline	IL13
+Theophylline	PLA2G7
+Theophylline	SCGB3A2
+Theophylline	TNF
+Theophylline	SCGB1A1
+Theophylline	SERPINA1
+Thioguanine	TAL1
+Thioguanine	TAL2
+Thioguanine	FLT3
+Thioguanine	NBN
+Thioguanine	ZNFN1A1
+Thioguanine	HOXD4
+Thioguanine	BCR
+Thioguanine	ARNT
+Thioguanine	KRAS
+Thioguanine	GMPS
+Thioguanine	MLLT10
+Thioguanine	ARHGEF12
+Thioguanine	PICALM
+Thioguanine	CEBPA
+Thioguanine	CHIC2
+Thioguanine	KIT
+Thioguanine	LPP
+Thioguanine	NPM1
+Thioguanine	NUP214
+Thioguanine	RUNX1
+Thioguanine	WHSC1L1
+Thioguanine	MLLT11
+Thioguanine	NUMA1
+Thioguanine	ZBTB16
+Thioguanine	PML
+Thioguanine	STAT5B
+Thioguanine	ARL11
+Thioguanine	P2RX7
+Thioguanine	ARHGAP26
+Thioguanine	NF1
+Thioguanine	PTPN11
+Thioguanine	BCL2
+Thioguanine	CCND1
+Thioguanine	TRA@
+Thioguanine	GATA1
+Thioguanine	ABL1
+Thioguanine	NQO1
+Thioridazine	DISC1
+Thioridazine	TAAR6
+Thioridazine	APP
+Thioridazine	COMT
+Thioridazine	HTR2A
+Thioridazine	RTN4R
+Thioridazine	SYN2
+Thioridazine	ENTH
+Thioridazine	PRODH
+Tiagabine	SCN2A1
+Ticlopidine	PDE4D
+Ticlopidine	ALOX5AP
+Tiludronate	TNFRSF11B
+Tiludronate	SQSTM1
+Tiludronate	TNFRSF11A
+Timolol	MYOC
+Timolol	OPTN
+Timolol	CYP1B1
+Timolol	OPA1
+Timolol	ATP1A2
+Timolol	EDNRA
+Timolol	ESR1
+Timolol	TNF
+Tocainide	GNAI2
+Tocainide	CASQ2
+Tocainide	RYR2
+Tolazamide	ABCC8
+Tolazamide	TCF1
+Tolazamide	SUMO4
+Tolazamide	PTPN22
+Tolazamide	INSR
+Tolazamide	PPARG
+Tolazamide	GCK
+Tolazamide	GCGR
+Tolazamide	GPD2
+Tolazamide	HNF4A
+Tolazamide	IRS2
+Tolazamide	MAPK8IP1
+Tolazamide	NEUROD1
+Tolazamide	TCF2
+Tolazamide	IRS1
+Tolazamide	SLC2A2
+Tolazamide	SLC2A4
+Tolazamide	CAPN10
+Tolazamide	ENPP1
+Tolazamide	RETN
+Tolazamide	PTF1A
+Tolazamide	KCNJ11
+Tolazamide	AKT2
+Tolazamide	IPF1
+Tolazamide	FOXP3
+Tolazamide	ACE
+Tolazamide	VEGF
+Tolcapone	NR4A2
+Tolcapone	SNCAIP
+Tolcapone	TBP
+Tolcapone	SNCA
+Tolcapone	PARK7
+Tolcapone	LRRK2
+Tolcapone	PINK1
+Tolcapone	UCHL1
+Tolcapone	PARK2
+Tolcapone	DBH
+Tolcapone	NDUFV2
+Tolmetin	MATN3
+Tolmetin	FRZB
+Tolmetin	ASPN
+Tolmetin	COL2A1
+Tolmetin	IL10
+Tolmetin	CIITA
+Tolmetin	NFKBIL1
+Tolmetin	PADI4
+Tolmetin	PTPN22
+Tolmetin	RUNX1
+Tolmetin	SLC22A4
+Tolmetin	MIF
+Topiramate	ATP1A2
+Topiramate	EDNRA
+Topiramate	ESR1
+Topiramate	TNF
+Topiramate	SCN2A1
+Topotecan	KRAS
+Topotecan	PPP2R1B
+Topotecan	SLC22A18
+Topotecan	MAP3K8
+Torasemide	ADRA2C
+Torasemide	ADRB1
+Torasemide	SCO1
+Torasemide	KCNMB1
+Torasemide	NR3C2
+Torasemide	AGTR1
+Torasemide	PTGIS
+Torasemide	ADD1
+Torasemide	AGT
+Torasemide	ECE1
+Torasemide	GNB3
+Torasemide	RETN
+Torasemide	HSD11B2
+Torasemide	NOS3
+Torasemide	CYP3A5
+Toremifene	CHEK2
+Toremifene	PIK3CA
+Toremifene	PPM1D
+Toremifene	SLC22A18
+Toremifene	TP53
+Toremifene	BRCA1
+Toremifene	BRCA2
+Toremifene	TSG101
+Toremifene	BRIP1
+Toremifene	RAD54L
+Toremifene	CDH1
+Toremifene	AR
+Toremifene	KRAS
+Toremifene	RB1CC1
+Toremifene	PHB
+Toremifene	ATM
+Toremifene	BARD1
+Toremifene	RAD51
+Toremifene	XRCC3
+Torsemide	ADRA2C
+Torsemide	ADRB1
+Torsemide	SCO1
+Torsemide	KCNMB1
+Torsemide	NR3C2
+Torsemide	AGTR1
+Torsemide	PTGIS
+Torsemide	ADD1
+Torsemide	AGT
+Torsemide	ECE1
+Torsemide	GNB3
+Torsemide	RETN
+Torsemide	HSD11B2
+Torsemide	NOS3
+Torsemide	CYP3A5
+Tositumomab	TP73L
+Tositumomab	RAP1GDS1
+Tositumomab	ATM
+Tositumomab	BCL8
+Tositumomab	BCL10
+Tositumomab	RAD54B
+Tositumomab	RAD54L
+Tositumomab	FCGR2B
+Tositumomab	MAD1L1
+Tositumomab	MSH2
+Tositumomab	SH2D1A
+Tositumomab	CASP10
+Trandolapril	KCNMB1
+Trandolapril	NR3C2
+Trandolapril	AGTR1
+Trandolapril	PTGIS
+Trandolapril	ADD1
+Trandolapril	AGT
+Trandolapril	ECE1
+Trandolapril	GNB3
+Trandolapril	RETN
+Trandolapril	HSD11B2
+Trandolapril	NOS3
+Trandolapril	CYP3A5
+Tranexamic Acid	F8
+Tranexamic Acid	F9
+Trastuzumab	CHEK2
+Trastuzumab	PIK3CA
+Trastuzumab	PPM1D
+Trastuzumab	SLC22A18
+Trastuzumab	TP53
+Trastuzumab	BRCA1
+Trastuzumab	BRCA2
+Trastuzumab	TSG101
+Trastuzumab	BRIP1
+Trastuzumab	RAD54L
+Trastuzumab	CDH1
+Trastuzumab	AR
+Trastuzumab	KRAS
+Trastuzumab	RB1CC1
+Trastuzumab	PHB
+Trastuzumab	ATM
+Trastuzumab	BARD1
+Trastuzumab	RAD51
+Trastuzumab	XRCC3
+Travoprost	MYOC
+Travoprost	OPTN
+Travoprost	CYP1B1
+Travoprost	OPA1
+Travoprost	KCNMB1
+Travoprost	NR3C2
+Travoprost	AGTR1
+Travoprost	PTGIS
+Travoprost	ADD1
+Travoprost	AGT
+Travoprost	ECE1
+Travoprost	GNB3
+Travoprost	RETN
+Travoprost	HSD11B2
+Travoprost	NOS3
+Travoprost	CYP3A5
+Treprostinil	KCNMB1
+Treprostinil	NR3C2
+Treprostinil	AGTR1
+Treprostinil	PTGIS
+Treprostinil	ADD1
+Treprostinil	AGT
+Treprostinil	ECE1
+Treprostinil	GNB3
+Treprostinil	RETN
+Treprostinil	HSD11B2
+Treprostinil	NOS3
+Treprostinil	CYP3A5
+Treprostinil	BMPR2
+Tretinoin	RASA1
+Tretinoin	PTCH2
+Tretinoin	PTCH
+Tretinoin	SMO
+Tretinoin	ATP2A2
+Tretinoin	KRT10
+Tretinoin	KRT1
+Tretinoin	KRT9
+Tretinoin	KRT2A
+Tretinoin	ICHTHYIN
+Tretinoin	KRT10
+Tretinoin	ABCA12
+Tretinoin	KRT1
+Tretinoin	TGM1
+Tretinoin	STS
+Tretinoin	TAL1
+Tretinoin	TAL2
+Tretinoin	FLT3
+Tretinoin	NBN
+Tretinoin	ZNFN1A1
+Tretinoin	HOXD4
+Tretinoin	BCR
+Tretinoin	ARNT
+Tretinoin	KRAS
+Tretinoin	GMPS
+Tretinoin	MLLT10
+Tretinoin	ARHGEF12
+Tretinoin	PICALM
+Tretinoin	CEBPA
+Tretinoin	CHIC2
+Tretinoin	KIT
+Tretinoin	LPP
+Tretinoin	NPM1
+Tretinoin	NUP214
+Tretinoin	RUNX1
+Tretinoin	WHSC1L1
+Tretinoin	MLLT11
+Tretinoin	NUMA1
+Tretinoin	ZBTB16
+Tretinoin	PML
+Tretinoin	STAT5B
+Tretinoin	ARL11
+Tretinoin	P2RX7
+Tretinoin	ARHGAP26
+Tretinoin	NF1
+Tretinoin	PTPN11
+Tretinoin	BCL2
+Tretinoin	CCND1
+Tretinoin	TRA@
+Tretinoin	GATA1
+Tretinoin	ABL1
+Tretinoin	NQO1
+Triamcinolone	IL13
+Triamterene	CYP11B1
+Triamterene	KRT18
+Triamterene	KRT8
+Triamterene	CIRH1A
+Triamterene	ADRA2C
+Triamterene	ADRB1
+Triamterene	NPHS1
+Triamterene	NPHS2
+Triazolam	GABRB3
+Triazolam	PRNP
+Trichlormethiazide	KCNMB1
+Trichlormethiazide	NR3C2
+Trichlormethiazide	AGTR1
+Trichlormethiazide	PTGIS
+Trichlormethiazide	ADD1
+Trichlormethiazide	AGT
+Trichlormethiazide	ECE1
+Trichlormethiazide	GNB3
+Trichlormethiazide	RETN
+Trichlormethiazide	HSD11B2
+Trichlormethiazide	NOS3
+Trichlormethiazide	CYP3A5
+Trifluridine	PLG
+Trifluridine	PAX6
+Trihexyphenidyl	NR4A2
+Trihexyphenidyl	SNCAIP
+Trihexyphenidyl	TBP
+Trihexyphenidyl	SNCA
+Trihexyphenidyl	PARK7
+Trihexyphenidyl	LRRK2
+Trihexyphenidyl	PINK1
+Trihexyphenidyl	UCHL1
+Trihexyphenidyl	PARK2
+Trihexyphenidyl	DBH
+Trihexyphenidyl	NDUFV2
+Trimethadione	SCN2A1
+Trimetrexate	KIR3DL1
+Trimetrexate	IFNG
+Trimetrexate	CXCL12
+Trimetrexate	RAD54B
+Trimetrexate	RAD54L
+Trimetrexate	BCL10
+Trimetrexate	PTPN12
+Trimetrexate	TGFBR2
+Trimetrexate	SRC
+Trimetrexate	MLH3
+Trimetrexate	PTPRJ
+Trimetrexate	ODC1
+Trimetrexate	MUTYH
+Trimetrexate	AXIN2
+Trimetrexate	BUB1B
+Trimetrexate	EP300
+Trimetrexate	PDGFRL
+Trimetrexate	PIK3CA
+Trimetrexate	TP53
+Trimetrexate	APC
+Trimetrexate	BAX
+Trimetrexate	CTNNB1
+Trimetrexate	DCC
+Trimetrexate	MCC
+Trimetrexate	NRAS
+Trimetrexate	MSH2
+Trimetrexate	MLH1
+Trimetrexate	PMS1
+Trimetrexate	PMS2
+Trimetrexate	MSH6
+Trimetrexate	FGFR3
+Trimetrexate	FLCN
+Trimetrexate	BRAF
+Trimetrexate	DLC1
+Trimetrexate	PLA2G2A
+Trimetrexate	CCND1
+Trimetrexate	BUB1
+Trimetrexate	CD3E
+Trimetrexate	CD3G
+Trimetrexate	AICDA
+Trimetrexate	CD40
+Trimetrexate	UNG
+Trimetrexate	CD40LG
+Triprolidine	CCL5
+Triprolidine	IL10
+Triprolidine	CCR2
+Triprolidine	CCR5
+Troglitazone	ABCC8
+Troglitazone	TCF1
+Troglitazone	SUMO4
+Troglitazone	PTPN22
+Troglitazone	INSR
+Troglitazone	PPARG
+Troglitazone	GCK
+Troglitazone	GCGR
+Troglitazone	GPD2
+Troglitazone	HNF4A
+Troglitazone	IRS2
+Troglitazone	MAPK8IP1
+Troglitazone	NEUROD1
+Troglitazone	TCF2
+Troglitazone	IRS1
+Troglitazone	SLC2A2
+Troglitazone	SLC2A4
+Troglitazone	CAPN10
+Troglitazone	ENPP1
+Troglitazone	RETN
+Troglitazone	PTF1A
+Troglitazone	KCNJ11
+Troglitazone	AKT2
+Troglitazone	IPF1
+Troglitazone	FOXP3
+Troglitazone	ACE
+Troglitazone	VEGF
+Tubocurarine	FIMG1
+Urokinase	MEF2A
+Urokinase	ABCA1
+Urokinase	KL
+Urokinase	PON1
+Urokinase	PON2
+Urokinase	MMP3
+Valacyclovir	CCL5
+Valacyclovir	IL10
+Valacyclovir	CCR2
+Valacyclovir	CCR5
+Valdecoxib	MATN3
+Valdecoxib	FRZB
+Valdecoxib	ASPN
+Valdecoxib	COL2A1
+Valproic Acid	SCN2A1
+Valrubicin	FGFR3
+Valrubicin	KRAS
+Valrubicin	RB1
+Valrubicin	HRAS
+Valsartan	KCNMB1
+Valsartan	NR3C2
+Valsartan	AGTR1
+Valsartan	PTGIS
+Valsartan	ADD1
+Valsartan	AGT
+Valsartan	ECE1
+Valsartan	GNB3
+Valsartan	RETN
+Valsartan	HSD11B2
+Valsartan	NOS3
+Valsartan	CYP3A5
+Vasopressin	AVPR2
+Vasopressin	AQP2
+Vasopressin	AVP
+Verapamil	KCNMB1
+Verapamil	NR3C2
+Verapamil	AGTR1
+Verapamil	PTGIS
+Verapamil	ADD1
+Verapamil	AGT
+Verapamil	ECE1
+Verapamil	GNB3
+Verapamil	RETN
+Verapamil	HSD11B2
+Verapamil	NOS3
+Verapamil	CYP3A5
+Verteporfin	CFH
+Verteporfin	HMCN1
+Verteporfin	FBLN5
+Verteporfin	CNGB3
+Verteporfin	RPGR
+Vigabatrin	KCNQ2
+Vigabatrin	KCNQ3
+Vigabatrin	GABRG2
+Vigabatrin	CLCN2
+Vigabatrin	JRK
+Vigabatrin	CACNB4
+Vigabatrin	SCN1A
+Vigabatrin	ME2
+Vigabatrin	GABRA1
+Vigabatrin	EPM2A
+Vigabatrin	NHLRC1
+Vigabatrin	SLC25A22
+Vigabatrin	CHRNA4
+Vigabatrin	CHRNB2
+Vigabatrin	LGI1
+Vigabatrin	CSTB
+Vigabatrin	SYN1
+Vigabatrin	KCNMA1
+Vigabatrin	SCN1B
+Vigabatrin	ARX
+Vigabatrin	SCN2A1
+Vinblastine	CHEK2
+Vinblastine	PIK3CA
+Vinblastine	PPM1D
+Vinblastine	SLC22A18
+Vinblastine	TP53
+Vinblastine	BRCA1
+Vinblastine	BRCA2
+Vinblastine	TSG101
+Vinblastine	BRIP1
+Vinblastine	RAD54L
+Vinblastine	CDH1
+Vinblastine	AR
+Vinblastine	KRAS
+Vinblastine	RB1CC1
+Vinblastine	PHB
+Vinblastine	ATM
+Vinblastine	BARD1
+Vinblastine	RAD51
+Vinblastine	XRCC3
+Vinblastine	TP73L
+Vinblastine	IL6
+Vinblastine	RAP1GDS1
+Vinblastine	ATM
+Vinblastine	BCL8
+Vinblastine	BCL10
+Vinblastine	RAD54B
+Vinblastine	RAD54L
+Vinblastine	FCGR2B
+Vinblastine	MAD1L1
+Vinblastine	MSH2
+Vinblastine	SH2D1A
+Vinblastine	NME1
+Vinblastine	PHOX2B
+Vinblastine	CASP10
+Vincristine	TP73L
+Vincristine	RAP1GDS1
+Vincristine	ATM
+Vincristine	BCL8
+Vincristine	BCL10
+Vincristine	RAD54B
+Vincristine	RAD54L
+Vincristine	FCGR2B
+Vincristine	MAD1L1
+Vincristine	MSH2
+Vincristine	SH2D1A
+Vindesine	TP73L
+Vindesine	RAP1GDS1
+Vindesine	ATM
+Vindesine	BCL8
+Vindesine	BCL10
+Vindesine	RAD54B
+Vindesine	RAD54L
+Vindesine	FCGR2B
+Vindesine	MAD1L1
+Vindesine	MSH2
+Vindesine	SH2D1A
+Vitamin B12	CDAN1
+Vitamin B12	RPS19
+Vitamin B12	PKLR
+Vitamin B12	NT5C3
+Vitamin B12	RHAG
+Vitamin B12	SLC11A2
+Vitamin B12	SPTB
+Vitamin B12	ALAS2
+Vitamin B12	ABCB7
+Vitamin B12	GIF
+Vitamin B12	CDAN1
+Vitamin B12	RPS19
+Vitamin B12	PKLR
+Vitamin B12	NT5C3
+Vitamin B12	RHAG
+Vitamin B12	SLC11A2
+Vitamin B12	SPTB
+Vitamin B12	ALAS2
+Vitamin B12	ABCB7
+Vitamin B12	GIF
+Vitamin B3 (Niacin)	USF1
+Vitamin B6 (Pyridoxine)	EGR2
+Vitamin B6 (Pyridoxine)	MPZ
+Vitamin B6 (Pyridoxine)	HSPB1
+Vitamin B6 (Pyridoxine)	HSPB8
+Vitamin B6 (Pyridoxine)	SPTLC1
+Vitamin B6 (Pyridoxine)	NGFB
+Vitamin B6 (Pyridoxine)	HSN2
+Vitamin B6 (Pyridoxine)	PMP22
+Vitamin B6 (Pyridoxine)	EGR2
+Vitamin B6 (Pyridoxine)	MPZ
+Vitamin B6 (Pyridoxine)	HSPB1
+Vitamin B6 (Pyridoxine)	HSPB8
+Vitamin B6 (Pyridoxine)	SPTLC1
+Vitamin B6 (Pyridoxine)	NGFB
+Vitamin B6 (Pyridoxine)	HSN2
+Vitamin B6 (Pyridoxine)	PMP22
+Vitamin C	GULOP
+Vitamin C	GULOP
+Vitamin D2 (Ergocalciferol)	CASR
+Vitamin D2 (Ergocalciferol)	GATA3
+Vitamin D2 (Ergocalciferol)	CLCN5
+Vitamin D2 (Ergocalciferol)	PHEX
+Vitamin D2 (Ergocalciferol)	PDLIM4
+Vitamin D2 (Ergocalciferol)	CYP2R1
+Vitamin D2 (Ergocalciferol)	VDR
+Vitamin D2 (Ergocalciferol)	CASR
+Vitamin D2 (Ergocalciferol)	GATA3
+Vitamin D2 (Ergocalciferol)	CLCN5
+Vitamin D2 (Ergocalciferol)	PHEX
+Vitamin D2 (Ergocalciferol)	PDLIM4
+Vitamin D2 (Ergocalciferol)	CYP2R1
+Vitamin D2 (Ergocalciferol)	VDR
+Vitamin D3 (Cholecalciferol)	CASR
+Vitamin D3 (Cholecalciferol)	GATA3
+Vitamin D3 (Cholecalciferol)	CLCN5
+Vitamin D3 (Cholecalciferol)	PHEX
+Vitamin D3 (Cholecalciferol)	PDLIM4
+Vitamin D3 (Cholecalciferol)	CYP2R1
+Vitamin D3 (Cholecalciferol)	VDR
+Vitamin D3 (Cholecalciferol)	CASR
+Vitamin D3 (Cholecalciferol)	GATA3
+Vitamin D3 (Cholecalciferol)	CLCN5
+Vitamin D3 (Cholecalciferol)	PHEX
+Vitamin D3 (Cholecalciferol)	PDLIM4
+Vitamin D3 (Cholecalciferol)	CYP2R1
+Vitamin D3 (Cholecalciferol)	VDR
+Vitamin D4 (Dihydrotachysterol)	GATA3
+Vitamin E	APP
+Vitamin E	APOE
+Vitamin E	PSEN2
+Vitamin E	APBB2
+Vitamin E	NOS3
+Vitamin E	PLAU
+Vitamin E	ACE
+Vitamin E	MPO
+Vitamin E	PAXIP1
+Vitamin E	A2M
+Vitamin E	BLMH
+Vitamin E	PSEN1
+Vitamin E	PHF11
+Vitamin E	MS4A2
+Vitamin E	ALOX5
+Vitamin E	ADRB2
+Vitamin E	PTGDR
+Vitamin E	GPR154
+Vitamin E	HNMT
+Vitamin E	IL12B
+Vitamin E	IL13
+Vitamin E	PLA2G7
+Vitamin E	SCGB3A2
+Vitamin E	TNF
+Vitamin E	SCGB1A1
+Vitamin E	CRYAA
+Vitamin E	CRYBB2
+Vitamin E	PITX3
+Vitamin E	BFSP2
+Vitamin E	PAX6
+Vitamin E	CRYBA1
+Vitamin E	CRYGC
+Vitamin E	LIM2
+Vitamin E	CRYGD
+Vitamin E	HSF4
+Vitamin E	MIP
+Vitamin E	CRYAB
+Vitamin E	CRYBB1
+Vitamin E	GJA8
+Vitamin E	GJA3
+Vitamin E	SCN4A
+Vitamin E	IL10
+Vitamin E	CIITA
+Vitamin E	NFKBIL1
+Vitamin E	PADI4
+Vitamin E	PTPN22
+Vitamin E	RUNX1
+Vitamin E	SLC22A4
+Vitamin E	MIF
+Vitamin E	EYA1
+Vitamin E	FOXE3
+Vitamin E	FOXC1
+Vitamin E	PITX3
+Warfarin	KCNE2
+Warfarin	KCNQ1
+Warfarin	GATA4
+Warfarin	MYH6
+Warfarin	NKX2-5
+Warfarin	MYL3
+Warfarin	ACTC
+Warfarin	MYH7
+Warfarin	LMNA
+Warfarin	TNNT2
+Warfarin	TTN
+Warfarin	DES
+Warfarin	EYA4
+Warfarin	SGCD
+Warfarin	CSRP3
+Warfarin	TCAP
+Warfarin	ABCC9
+Warfarin	DMD
+Warfarin	MYL2
+Warfarin	CAV3
+Warfarin	MYH6
+Warfarin	TNNC1
+Warfarin	TPM1
+Warfarin	TNNI3
+Warfarin	MYBPC3
+Warfarin	COX15
+Warfarin	MYLK2
+Warfarin	PRKAG2
+Warfarin	PLN
+Warfarin	TAZ
+Warfarin	ACTA1
+Warfarin	CRYAB
+Warfarin	MYF6
+Warfarin	ITGA7
+Warfarin	DES
+Warfarin	DYSF
+Warfarin	CAV3
+Warfarin	CPT2
+Warfarin	PGAM2
+Warfarin	MYH7
+Zafirlukast	PHF11
+Zafirlukast	MS4A2
+Zafirlukast	ALOX5
+Zafirlukast	ADRB2
+Zafirlukast	PTGDR
+Zafirlukast	GPR154
+Zafirlukast	HNMT
+Zafirlukast	IL12B
+Zafirlukast	IL13
+Zafirlukast	PLA2G7
+Zafirlukast	SCGB3A2
+Zafirlukast	TNF
+Zafirlukast	SCGB1A1
+Zalcitabine	CCL5
+Zalcitabine	IL10
+Zalcitabine	CCR2
+Zalcitabine	CCR5
+Zaleplon	GABRB3
+Zaleplon	PRNP
+Zidovudine	CCL5
+Zidovudine	IL10
+Zidovudine	CCR2
+Zidovudine	CCR5
+Zileuton	PHF11
+Zileuton	MS4A2
+Zileuton	ALOX5
+Zileuton	ADRB2
+Zileuton	PTGDR
+Zileuton	GPR154
+Zileuton	HNMT
+Zileuton	IL12B
+Zileuton	IL13
+Zileuton	PLA2G7
+Zileuton	SCGB3A2
+Zileuton	TNF
+Zileuton	SCGB1A1
+Ziprasidone	DISC1
+Ziprasidone	TAAR6
+Ziprasidone	APP
+Ziprasidone	COMT
+Ziprasidone	HTR2A
+Ziprasidone	RTN4R
+Ziprasidone	SYN2
+Ziprasidone	ENTH
+Ziprasidone	PRODH
+Zoledronate	TP53
+Zoledronate	IRF4
+Zoledronate	LIG4
+Zolmitriptan	ATP1A2
+Zolmitriptan	EDNRA
+Zolmitriptan	ESR1
+Zolmitriptan	TNF
+Zolpidem	GABRB3
+Zolpidem	PRNP
+Zonisamide	KCNQ2
+Zonisamide	KCNQ3
+Zonisamide	GABRG2
+Zonisamide	CLCN2
+Zonisamide	JRK
+Zonisamide	CACNB4
+Zonisamide	SCN1A
+Zonisamide	ME2
+Zonisamide	GABRA1
+Zonisamide	EPM2A
+Zonisamide	NHLRC1
+Zonisamide	SLC25A22
+Zonisamide	CHRNA4
+Zonisamide	CHRNB2
+Zonisamide	LGI1
+Zonisamide	CSTB
+Zonisamide	SYN1
+Zonisamide	SCN2A1
+Zopiclone	GABRB3
+Zopiclone	PRNP
